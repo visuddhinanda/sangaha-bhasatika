@@ -1,0 +1,11270 @@
+[
+ {
+  "pali": "Akaniṭṭha",
+  "zh": "色究竟天",
+  "pages": [
+   80,
+   92,
+   108,
+   155,
+   172
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "akālamaraṇa",
+  "zh": "非时死",
+  "pages": [
+   166,
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "akiriyadiṭṭhi",
+  "zh": "无作用见",
+  "pages": [
+   138
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "akusalakamma",
+  "zh": "不善业",
+  "pages": [
+   127,
+   131,
+   132
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "akusalakammapatha",
+  "zh": "不善业道",
+  "pages": [
+   146
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "akusalajavana",
+  "zh": "不善速行",
+  "pages": [
+   25,
+   32,
+   40
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "akusalavipāka",
+  "zh": "不善果报",
+  "pages": [
+   59,
+   60
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "akusalavipākupekkhāsantīraṇa",
+  "zh": "不善果报舍推心",
+  "pages": [
+   77
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "akusalavipākupekkhāsahagatasantīraṇacitta",
+  "zh": "不善果报舍俱推度心",
+  "pages": [
+   96,
+   153
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "akusalavipākopekkhāsahagatasantīraṇa",
+  "zh": "不善果报舍俱推度",
+  "pages": [
+   111,
+   113,
+   115,
+   116
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "akriyādiṭṭhi",
+  "zh": "无作用见",
+  "pages": [
+   158
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Akhyegan Abhidhamma (缅)",
+  "zh": "基础阿毗达摩",
+  "pages": [
+   9
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Akhyegan Thingyo (缅)",
+  "zh": "基础概要",
+  "pages": [
+   162,
+   197
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "aggināmaraṇa",
+  "zh": "因火死",
+  "pages": [
+   173
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Aṅguttaranikāyaṭṭhakathā",
+  "zh": "增支部义注",
+  "pages": [
+   140
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Aṅgulimāla",
+  "zh": "指鬘",
+  "pages": [
+   136
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Ajātasattu",
+  "zh": "未生怨王",
+  "pages": [
+   135,
+   136,
+   175
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ajjhasaya",
+  "zh": "意乐",
+  "pages": [
+   28
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ajjhāsaya",
+  "zh": "意乐",
+  "pages": [
+   29
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "aṭṭhakathā",
+  "zh": "义注",
+  "pages": [
+   7,
+   8,
+   133
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "aṭṭhaṅgasīla",
+  "zh": "八戒",
+  "pages": [
+   161
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "aṭṭha akkhaṇā",
+  "zh": "八难",
+  "pages": [
+   110
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "aṭṭha samāpattiyo",
+  "zh": "八定",
+  "pages": [
+   48,
+   53
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Atappa",
+  "zh": "无热天",
+  "pages": [
+   92,
+   96,
+   108,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "atiiṭṭhārammaṇa",
+  "zh": "极可喜所缘",
+  "pages": [
+   59,
+   60,
+   61
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "atitaruṇakāla",
+  "zh": "胎婴儿期",
+  "pages": [
+   71
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "atiparitta",
+  "zh": "极小所缘",
+  "pages": [
+   14,
+   16,
+   19
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "atiparittārammaṇavīthi",
+  "zh": "极小所缘心路",
+  "pages": [
+   34
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "atimahanta",
+  "zh": "极大所缘",
+  "pages": [
+   14,
+   15,
+   16,
+   59,
+   60,
+   62
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "atimahantārammaṇavīthi",
+  "zh": "极大所缘心路",
+  "pages": [
+   26,
+   34
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "atīta",
+  "zh": "过去",
+  "pages": [
+   24
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "atītaggahaṇavāra",
+  "zh": "取过去时分",
+  "pages": [
+   44
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "atītabhavaṅga",
+  "zh": "过去有分",
+  "pages": [
+   22,
+   24,
+   27,
+   37,
+   42,
+   43,
+   62,
+   63
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "atītārammaṇa",
+  "zh": "过去所缘",
+  "pages": [
+   163,
+   169
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "attasammāpaṇidhi",
+  "zh": "自正约束",
+  "pages": [
+   31
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "atthaggahaṇavāra",
+  "zh": "取义时分",
+  "pages": [
+   44
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Atthasālinī",
+  "zh": "胜义说",
+  "pages": [
+   7,
+   30,
+   34
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "adinnādāna",
+  "zh": "偷盗",
+  "pages": [
+   127,
+   129,
+   147
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "adukkhamasukhā",
+  "zh": "不苦不乐",
+  "pages": [
+   185,
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "adosa",
+  "zh": "无嗔",
+  "pages": [
+   78,
+   195,
+   196
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "adosacetasika",
+  "zh": "无嗔心所",
+  "pages": [
+   149
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "adhimutti",
+  "zh": "因决意",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "adhimuttikālakiriyā",
+  "zh": "决意死",
+  "pages": [
+   106
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "adhimutti kālaṃ kiriyā",
+  "zh": "决意死",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "adhimokkha",
+  "zh": "胜解",
+  "pages": [
+   194
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "anantarapaccaya",
+  "zh": "无间缘",
+  "pages": [
+   52
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "anantarūpanissayapaccaya",
+  "zh": "无间亲依止缘",
+  "pages": [
+   58
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "anariya",
+  "zh": "非圣者",
+  "pages": [
+   93
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "anavajjapakkhika",
+  "zh": "无过失的",
+  "pages": [
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "anāgataṃsañāṇa",
+  "zh": "未来分智",
+  "pages": [
+   51
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "anāgāmiariyapuggala",
+  "zh": "不来圣者",
+  "pages": [
+   156
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "anāgāmipuggala",
+  "zh": "不来者",
+  "pages": [
+   75,
+   78
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "anāgāmiphala",
+  "zh": "不来果",
+  "pages": [
+   49,
+   57,
+   69,
+   70
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "anāgāmiphalaṭṭha",
+  "zh": "不来果者",
+  "pages": [
+   76,
+   77
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "anāgāmimagga",
+  "zh": "不来道",
+  "pages": [
+   57
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "anāgāmimaggaṭṭha",
+  "zh": "不来道者",
+  "pages": [
+   76,
+   77
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "anāgāmī",
+  "zh": "不来者",
+  "pages": [
+   48,
+   49,
+   106,
+   108,
+   129,
+   131,
+   172
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "aniccatā",
+  "zh": "色无常性",
+  "pages": [
+   20
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "aniṭṭhārammaṇa",
+  "zh": "不可意所缘",
+  "pages": [
+   59,
+   60,
+   64,
+   187
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "anipphanna",
+  "zh": "非完成",
+  "pages": [
+   54
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "anipphannarūpa",
+  "zh": "非真实色",
+  "pages": [
+   20,
+   43
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "anuṭīkā",
+  "zh": "随疏",
+  "pages": [
+   7,
+   71
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "anubandhaka",
+  "zh": "随起意门心路",
+  "pages": [
+   44
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "anubandhakavāra",
+  "zh": "随起时分",
+  "pages": [
+   55
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "anubodha",
+  "zh": "随觉",
+  "pages": [
+   42
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Anuruddha",
+  "zh": "阿耨楼陀尊者",
+  "pages": [
+   133,
+   138
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "anuloma",
+  "zh": "随顺",
+  "pages": [
+   45,
+   46,
+   47
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "anottappa",
+  "zh": "无愧",
+  "pages": [
+   194
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "antarakappa",
+  "zh": "中劫",
+  "pages": [
+   117
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "antarāya",
+  "zh": "障难",
+  "pages": [
+   78
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "apacāyana",
+  "zh": "恭敬",
+  "pages": [
+   127,
+   130,
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "apara",
+  "zh": "后心",
+  "pages": [
+   12
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Aparagoyāna",
+  "zh": "西牛贺洲",
+  "pages": [
+   123
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "aparacetanā",
+  "zh": "后思",
+  "pages": [
+   151
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "aparapariyāyavedanīyakamma",
+  "zh": "后后受业",
+  "pages": [
+   141,
+   144
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "aparāpariyavedanīya",
+  "zh": "后后受业",
+  "pages": [
+   127,
+   131,
+   132
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "aparāpariyavedanīyakamma",
+  "zh": "后后受业",
+  "pages": [
+   91
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "aparipakkadiṭṭhadhammavedaniyakamma",
+  "zh": "非已熟现世受业",
+  "pages": [
+   143
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "apare",
+  "zh": "其他论师",
+  "pages": [
+   137
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "apāyapaṭisandhi",
+  "zh": "恶趣结生",
+  "pages": [
+   111,
+   113,
+   115
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "apāyabhūmi",
+  "zh": "恶趣地",
+  "pages": [
+   6,
+   92,
+   93,
+   97,
+   128,
+   130
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "apāyika",
+  "zh": "恶趣者",
+  "pages": [
+   172
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "appanā",
+  "zh": "安止",
+  "pages": [
+   53
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "appanājavana",
+  "zh": "安止速行",
+  "pages": [
+   5,
+   45,
+   46,
+   71,
+   74,
+   75,
+   141
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "appanājavanavāra",
+  "zh": "安止速行时分",
+  "pages": [
+   46
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Appanājavanavāro",
+  "zh": "安止速行时分",
+  "pages": [
+   45,
+   46
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "appanāpatta",
+  "zh": "达到安止",
+  "pages": [
+   157
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "appanāppatta",
+  "zh": "达到安止",
+  "pages": [
+   128,
+   130
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "appanāmanokamma",
+  "zh": "安止意业",
+  "pages": [
+   155
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "appanāvīthi",
+  "zh": "安止心路",
+  "pages": [
+   45
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "appanāsamādhijavana",
+  "zh": "安止定速行",
+  "pages": [
+   47
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Appamāṇasubha",
+  "zh": "无量华光天",
+  "pages": [
+   92,
+   107,
+   129,
+   131,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Appamāṇābha",
+  "zh": "无量光天",
+  "pages": [
+   92,
+   107,
+   128,
+   131,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "abyākata",
+  "zh": "无记",
+  "pages": [
+   121
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "abyākate niruddhe vipāko tadārammaṇatā uppajjati",
+  "zh": "无记灭去时，果报以彼所缘生起",
+  "pages": [
+   66
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "abhijjhā",
+  "zh": "贪婪",
+  "pages": [
+   127,
+   129,
+   147
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "abhiññākusalakamma",
+  "zh": "神通善业",
+  "pages": [
+   157
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "abhiññājavana",
+  "zh": "神通速行",
+  "pages": [
+   69,
+   70,
+   71,
+   74,
+   161
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "abhiññāvīthi",
+  "zh": "神通心路",
+  "pages": [
+   47,
+   48,
+   71
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Abhidhamma",
+  "zh": "阿毗达摩",
+  "pages": [
+   7,
+   8
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Abhidhammatthavibhāvinī",
+  "zh": "义广释",
+  "pages": [
+   136,
+   137,
+   174,
+   176,
+   187,
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Abhidhammatthavibhāvinīṭīkā",
+  "zh": "阿毗达摩义广释",
+  "pages": [
+   8
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "abhidhammatthasaṅgaha",
+  "zh": "摄阿毗达摩义",
+  "pages": [
+   8,
+   34,
+   90,
+   124,
+   140,
+   180,
+   188,
+   190,
+   197
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "abhidhammanaya",
+  "zh": "论教法",
+  "pages": [
+   12,
+   122,
+   132,
+   133
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Abhidhammapiṭaka",
+  "zh": "论藏",
+  "pages": [
+   7
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "amandāyuka",
+  "zh": "非短寿",
+  "pages": [
+   34,
+   35
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "amoha",
+  "zh": "无痴",
+  "pages": [
+   78
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "amohacetasika",
+  "zh": "无痴心所",
+  "pages": [
+   149
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ayonisomanasikāra",
+  "zh": "不如理作意",
+  "pages": [
+   25,
+   32
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "arahattaphala",
+  "zh": "阿拉汉果",
+  "pages": [
+   56,
+   57,
+   69,
+   70
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "arahattaphalaṭṭha",
+  "zh": "阿拉汉果者",
+  "pages": [
+   76,
+   77,
+   78
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "arahattamagga",
+  "zh": "阿拉汉道",
+  "pages": [
+   57,
+   141
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "arahattamaggaṭṭha",
+  "zh": "阿拉汉道者",
+  "pages": [
+   76,
+   77
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "arahant",
+  "zh": "阿拉汉",
+  "pages": [
+   5,
+   25,
+   39,
+   61,
+   102,
+   106,
+   164,
+   172
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "arahantaghāta",
+  "zh": "杀阿拉汉",
+  "pages": [
+   139
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ariya",
+  "zh": "圣者",
+  "pages": [
+   75,
+   76,
+   92,
+   93
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ariyūpavādantarāya",
+  "zh": "指责圣者障",
+  "pages": [
+   79
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ariyūpavādantarāyika",
+  "zh": "诽谤圣者障",
+  "pages": [
+   54
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "arūpapaṭisandhi",
+  "zh": "无色结生",
+  "pages": [
+   113,
+   115,
+   163,
+   164
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "arūpapaṭisandhika",
+  "zh": "无色结生者",
+  "pages": [
+   163,
+   165,
+   170
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "arūpabhūmi",
+  "zh": "无色地",
+  "pages": [
+   26,
+   40,
+   92,
+   109
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "arūpāvacarakiriya",
+  "zh": "无色唯作",
+  "pages": [
+   86
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "arūpāvacarakusala",
+  "zh": "无色界善业",
+  "pages": [
+   86,
+   127,
+   131,
+   132
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "arūpāvacarapaṭisandhi",
+  "zh": "无色界结生",
+  "pages": [
+   111,
+   116
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "arūpāvacarabhūmi",
+  "zh": "无色界",
+  "pages": [
+   6,
+   76,
+   82,
+   92,
+   93
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "arūpāvacaravipākacitta",
+  "zh": "无色界果报心",
+  "pages": [
+   86,
+   90
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Alambusā",
+  "zh": "阿腊布莎天女",
+  "pages": [
+   71,
+   73
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "alobha",
+  "zh": "无贪",
+  "pages": [
+   78,
+   195
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "alobhacetasika",
+  "zh": "无贪心所",
+  "pages": [
+   149
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "avatthuka",
+  "zh": "无依处",
+  "pages": [
+   162,
+   164
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "avijjā",
+  "zh": "无明",
+  "pages": [
+   168
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "avijjānusaya",
+  "zh": "无明随眠",
+  "pages": [
+   162,
+   169
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "avibhūta",
+  "zh": "不清晰所缘",
+  "pages": [
+   14,
+   16,
+   67
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Avibhūte panārammaṇe",
+  "zh": "不清晰的所缘",
+  "pages": [
+   36,
+   37
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Aviha",
+  "zh": "无住天",
+  "pages": [
+   92,
+   108,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Avīci",
+  "zh": "无间地狱",
+  "pages": [
+   94,
+   98,
+   126,
+   135,
+   137,
+   174,
+   175
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "asaṅkhāra",
+  "zh": "无行",
+  "pages": [
+   121,
+   128,
+   130,
+   193
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "asaṅkhyeyyakappa",
+  "zh": "无数劫",
+  "pages": [
+   95,
+   117
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "asañña",
+  "zh": "无想",
+  "pages": [
+   108
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "asaññasatta",
+  "zh": "无想有情",
+  "pages": [
+   26,
+   38,
+   40,
+   76,
+   82,
+   88,
+   90,
+   92,
+   108,
+   112,
+   114,
+   125,
+   129,
+   131,
+   153,
+   156,
+   163,
+   164,
+   170
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Asipatta",
+  "zh": "剑叶林地狱",
+  "pages": [
+   94,
+   99
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "asura",
+  "zh": "阿修罗",
+  "pages": [
+   103
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "asurakāya",
+  "zh": "阿修罗众",
+  "pages": [
+   92,
+   93,
+   99
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "asekkha",
+  "zh": "无学",
+  "pages": [
+   47,
+   57,
+   75,
+   77,
+   78
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Asoka",
+  "zh": "阿育王",
+  "pages": [
+   177
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ahidaṭṭhāmaraṇa",
+  "zh": "蛇咬死",
+  "pages": [
+   173
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ahirika",
+  "zh": "无惭",
+  "pages": [
+   194
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ahetuka",
+  "zh": "无因者",
+  "pages": [
+   74,
+   75,
+   77,
+   128,
+   130
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ahetukakusalavipākupekkhāsahagatasantīraṇacitta",
+  "zh": "无因善果报舍俱推度心",
+  "pages": [
+   96,
+   153
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ahetukacitta",
+  "zh": "无因心",
+  "pages": [
+   27
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ahetukadiṭṭhi",
+  "zh": "无因见",
+  "pages": [
+   138,
+   158
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ahetukavipāka",
+  "zh": "无因善果报",
+  "pages": [
+   128,
+   130
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ahetukasatta",
+  "zh": "无因众生",
+  "pages": [
+   125
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ahetuka paṭisandhi",
+  "zh": "无因结生",
+  "pages": [
+   65,
+   170,
+   171
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ahosikamma",
+  "zh": "无效业",
+  "pages": [
+   91,
+   127,
+   131,
+   132,
+   141,
+   142,
+   144,
+   145
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ākāraparivitakka",
+  "zh": "探究行相",
+  "pages": [
+   41
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ākāsaṭṭhadeva",
+  "zh": "空居天",
+  "pages": [
+   106,
+   124
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ākāsadhātu",
+  "zh": "空界",
+  "pages": [
+   20,
+   21,
+   43
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ākāsapaññatti",
+  "zh": "空概念",
+  "pages": [
+   157
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ākāsānañcāyatana",
+  "zh": "空无边处",
+  "pages": [
+   87,
+   89,
+   171,
+   183
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Ākāsānañcāyatanabhūmi",
+  "zh": "空无边处地",
+  "pages": [
+   92,
+   93,
+   109
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ākāsānañcāyatanūpaga",
+  "zh": "投生空无边处的",
+  "pages": [
+   113,
+   115
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ākiñcaññāyatana",
+  "zh": "无所有处",
+  "pages": [
+   53,
+   87,
+   89,
+   171,
+   183
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ākiñcaññāyatanabhūmi",
+  "zh": "无所有处地",
+  "pages": [
+   92,
+   93,
+   109
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āgantukabhavaṅga",
+  "zh": "客有分",
+  "pages": [
+   62,
+   63,
+   68
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ācariya",
+  "zh": "诸师",
+  "pages": [
+   59,
+   60
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "āciṇṇakakamma",
+  "zh": "惯习业",
+  "pages": [
+   91,
+   127,
+   131,
+   138,
+   140
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āṇākhetta",
+  "zh": "威力范围",
+  "pages": [
+   118,
+   119
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āṇāvītikkamantarāya",
+  "zh": "违令障",
+  "pages": [
+   79
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āṇāvītikkamantarāyika",
+  "zh": "违令障",
+  "pages": [
+   54
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ādi",
+  "zh": "等",
+  "pages": [
+   176
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ādikammika",
+  "zh": "初修者",
+  "pages": [
+   47,
+   69,
+   70,
+   71
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ādikammikapuggala",
+  "zh": "初修者",
+  "pages": [
+   51,
+   74
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Ānanda",
+  "zh": "阿难陀尊者",
+  "pages": [
+   7
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āpātha",
+  "zh": "呈现",
+  "pages": [
+   17,
+   18
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āpodhātu",
+  "zh": "水界",
+  "pages": [
+   21
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āposaṃvaṭṭa",
+  "zh": "水坏劫",
+  "pages": [
+   118
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Ābhassara",
+  "zh": "光音天",
+  "pages": [
+   92,
+   107,
+   112,
+   114,
+   126,
+   128,
+   131,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āyu",
+  "zh": "寿",
+  "pages": [
+   165
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āyukappa",
+  "zh": "寿劫",
+  "pages": [
+   117,
+   123
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āyukkhaya",
+  "zh": "寿尽",
+  "pages": [
+   91,
+   162,
+   165
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āyuparihānikappa",
+  "zh": "减劫",
+  "pages": [
+   117
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "āyuppamāṇa",
+  "zh": "寿量",
+  "pages": [
+   112,
+   113
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āramanti etthāti aramaṇaṃ",
+  "zh": "所缘正是心怡之处",
+  "pages": [
+   42
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ārammaṇa",
+  "zh": "所缘",
+  "pages": [
+   13,
+   15,
+   121
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Ārammaṇasaṅgaha",
+  "zh": "所缘概要",
+  "pages": [
+   29,
+   184
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ārammaṇānubhavana",
+  "zh": "依感受所缘法",
+  "pages": [
+   186,
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āruppa",
+  "zh": "无色梵天",
+  "pages": [
+   129,
+   131
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āloka",
+  "zh": "光",
+  "pages": [
+   21
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Āḷāra",
+  "zh": "阿罗逻",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āvāsika",
+  "zh": "主有分",
+  "pages": [
+   62,
+   63,
+   68
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āveṇika",
+  "zh": "独有",
+  "pages": [
+   81,
+   176
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āsannakakamma",
+  "zh": "临终业",
+  "pages": [
+   91,
+   127,
+   131,
+   138,
+   140
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "āsevanapaccaya",
+  "zh": "重复缘",
+  "pages": [
+   58,
+   74,
+   141
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "āhārasamuṭṭhānarūpa",
+  "zh": "食生色",
+  "pages": [
+   29
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "iṭṭhamajjhattārammaṇa",
+  "zh": "中等可喜所缘",
+  "pages": [
+   187
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "iṭṭhārammaṇa",
+  "zh": "可喜所缘",
+  "pages": [
+   59,
+   60,
+   63,
+   187
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "itthidāna",
+  "zh": "妇女施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "iddhibala",
+  "zh": "神通力",
+  "pages": [
+   42
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "iddhividhañāṇa",
+  "zh": "神变智",
+  "pages": [
+   50
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "indriya",
+  "zh": "根",
+  "pages": [
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "indriyabheda",
+  "zh": "依根分类法",
+  "pages": [
+   186,
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Isisiṅga",
+  "zh": "依希新伽隐士",
+  "pages": [
+   71,
+   73
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ukkaṭṭha",
+  "zh": "殊胜",
+  "pages": [
+   128,
+   130
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ukkaṭṭhakusalakamma",
+  "zh": "殊胜善业",
+  "pages": [
+   151
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ucchedadiṭṭhi",
+  "zh": "断见",
+  "pages": [
+   178
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "uṭṭhānaphalūpajīvī",
+  "zh": "依奋起之果维生者",
+  "pages": [
+   179
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "uṭṭhānaphalūpajīvī ceva kammaphalūpajīvī ca",
+  "zh": "既依奋起之果维生也依业之果维生者",
+  "pages": [
+   179
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "uṭṭhānaphalūpajīvī na kammaphalūpajīvī",
+  "zh": "依奋起之果维生而不依业之果维生者",
+  "pages": [
+   179
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "utujarūpa",
+  "zh": "时节生色",
+  "pages": [
+   29,
+   125
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "utuniyāma",
+  "zh": "时节定律",
+  "pages": [
+   13
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "utuyāmaraṇa",
+  "zh": "季节反常死",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Uttarakuru",
+  "zh": "北俱卢洲",
+  "pages": [
+   123,
+   174
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "uttaraṃ",
+  "zh": "殊胜",
+  "pages": [
+   11,
+   12
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "uttarimanussadhamma",
+  "zh": "殊胜法",
+  "pages": [
+   123,
+   141
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Udaka",
+  "zh": "郁陀迦",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "udakenamaraṇa",
+  "zh": "因水死",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "uddhacca",
+  "zh": "掉举",
+  "pages": [
+   128,
+   130,
+   194
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "uddhaccasahagatacitta",
+  "zh": "俱掉举心",
+  "pages": [
+   157
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "upakaraṇakammanimitta",
+  "zh": "附属业相",
+  "pages": [
+   166
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upakkilesa",
+  "zh": "随烦恼",
+  "pages": [
+   24,
+   66
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "upaghātakakamma",
+  "zh": "毁坏业",
+  "pages": [
+   91,
+   127,
+   131,
+   133,
+   136,
+   137,
+   141
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upacaya",
+  "zh": "色积集",
+  "pages": [
+   20
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "upacāra",
+  "zh": "近行",
+  "pages": [
+   45,
+   46,
+   47
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "upacārasamādhijavana",
+  "zh": "近行定速行",
+  "pages": [
+   46,
+   51,
+   71
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "upaccheda",
+  "zh": "停止",
+  "pages": [
+   24
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upacchedaka",
+  "zh": "毁坏业",
+  "pages": [
+   162,
+   165,
+   173,
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upacchedakakamma",
+  "zh": "断绝业",
+  "pages": [
+   133,
+   162
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upaḍḍhakappa",
+  "zh": "半[无数]劫",
+  "pages": [
+   112,
+   114
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "upatthambhakakamma",
+  "zh": "支助业",
+  "pages": [
+   91,
+   127,
+   131,
+   132,
+   134
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upapajjavedanīya",
+  "zh": "次生受业",
+  "pages": [
+   127,
+   131,
+   132
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upapajjavedanīyakamma",
+  "zh": "次生受业",
+  "pages": [
+   91,
+   141,
+   145,
+   178
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upapīḷakakamma",
+  "zh": "阻碍业",
+  "pages": [
+   91,
+   127,
+   131,
+   132,
+   135
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upabhoga",
+  "zh": "受用",
+  "pages": [
+   162,
+   166
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "uparikāmāvacaradeva",
+  "zh": "高层欲界天",
+  "pages": [
+   76
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Uparipaṇṇāsa",
+  "zh": "后五十经",
+  "pages": [
+   100
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Uparipaṇṇāsaṭīkā",
+  "zh": "后五十经复注",
+  "pages": [
+   100
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Uparipaṇṇāsaṭṭhakathā",
+  "zh": "后五十经注",
+  "pages": [
+   100
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "uparimaggavīthi",
+  "zh": "高阶道心路",
+  "pages": [
+   47
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "uparimaphalaṭṭha",
+  "zh": "高阶果圣者",
+  "pages": [
+   80
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "upaladdhakammanimitta",
+  "zh": "直接业相",
+  "pages": [
+   166
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upalabhitabba",
+  "zh": "应得",
+  "pages": [
+   162,
+   166
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upekkhā",
+  "zh": "舍",
+  "pages": [
+   185,
+   186
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upekkhāvedanā",
+  "zh": "舍受",
+  "pages": [
+   187
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upekkhāsantīraṇa",
+  "zh": "舍推度",
+  "pages": [
+   178,
+   191
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "upekkhāsahagata",
+  "zh": "舍俱",
+  "pages": [
+   56,
+   57,
+   59,
+   60,
+   186
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "upekkhindriya",
+  "zh": "舍根",
+  "pages": [
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "uppāda",
+  "zh": "生",
+  "pages": [
+   18,
+   19
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "uppādakkhaṇa",
+  "zh": "生刹那",
+  "pages": [
+   35
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "uppādakkhaṇepi",
+  "zh": "生起的刹那",
+  "pages": [
+   43
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ubbahana",
+  "zh": "往上举",
+  "pages": [
+   29
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ubhatobyañjanaka",
+  "zh": "两性者",
+  "pages": [
+   79,
+   117
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ubhayakkhaya",
+  "zh": "二者俱尽",
+  "pages": [
+   91,
+   162,
+   165
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ubhayasambandha",
+  "zh": "二者相关",
+  "pages": [
+   41
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "usabhadāna",
+  "zh": "公牛施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "usmātejo",
+  "zh": "体温",
+  "pages": [
+   55
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ussada",
+  "zh": "小地狱",
+  "pages": [
+   98,
+   101
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ekacittakkhaṇa",
+  "zh": "一个心刹那",
+  "pages": [
+   17,
+   18,
+   19
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ekacittakkhaṇika",
+  "zh": "一个心刹那",
+  "pages": [
+   69,
+   70
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ekatiṃsa bhūmi",
+  "zh": "31地",
+  "pages": [
+   93,
+   95
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ekattakāya ekattasaññī",
+  "zh": "一身一想",
+  "pages": [
+   121
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ekattakāya nānattasaññī",
+  "zh": "一身异想",
+  "pages": [
+   121
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ekavokāra",
+  "zh": "一蕴",
+  "pages": [
+   120
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "eva",
+  "zh": "只",
+  "pages": [
+   73
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "okkantikkhaṇa",
+  "zh": "投生刹那",
+  "pages": [
+   111,
+   113
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ottappa",
+  "zh": "愧",
+  "pages": [
+   195
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "opakkamikenamaraṇa",
+  "zh": "袭击而死",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "opapātika",
+  "zh": "化生",
+  "pages": [
+   122
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "omaka",
+  "zh": "低劣",
+  "pages": [
+   128,
+   130
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "omakakusalakamma",
+  "zh": "低劣善业",
+  "pages": [
+   151
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Kakusandha",
+  "zh": "拘留孙",
+  "pages": [
+   125
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kaṭattākamma",
+  "zh": "已作业",
+  "pages": [
+   91,
+   127,
+   131,
+   138
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Kathāvatthu",
+  "zh": "论事",
+  "pages": [
+   7
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kappa",
+  "zh": "劫",
+  "pages": [
+   112,
+   114
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kappuṭṭhānaggi",
+  "zh": "劫火",
+  "pages": [
+   126
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kamma",
+  "zh": "业",
+  "pages": [
+   13,
+   16,
+   26,
+   27,
+   140,
+   166,
+   168
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammakkhaya",
+  "zh": "业尽",
+  "pages": [
+   91,
+   162,
+   165
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammacatukka",
+  "zh": "四业",
+  "pages": [
+   6,
+   126,
+   131
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammajarūpa",
+  "zh": "业生色",
+  "pages": [
+   27,
+   29,
+   55,
+   65,
+   73,
+   115,
+   125,
+   133
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kammaññatā",
+  "zh": "适业性",
+  "pages": [
+   43
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kammaṭṭhāna",
+  "zh": "业处",
+  "pages": [
+   42,
+   102
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Kammaṭṭhānapariccheda",
+  "zh": "业处章",
+  "pages": [
+   49
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kammadvāra",
+  "zh": "业门",
+  "pages": [
+   127,
+   129,
+   146
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammanimitta",
+  "zh": "业相",
+  "pages": [
+   13,
+   16,
+   24,
+   26,
+   27,
+   140,
+   141,
+   162,
+   166
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammanimittapatirūpaka",
+  "zh": "假业相",
+  "pages": [
+   178
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kammaniyāma",
+  "zh": "业定律",
+  "pages": [
+   13
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammantarāya",
+  "zh": "业障",
+  "pages": [
+   78
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammantarāyika",
+  "zh": "业障",
+  "pages": [
+   54
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammapaccaya",
+  "zh": "业缘",
+  "pages": [
+   159
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammapaccayautusamuṭṭhānarūpa",
+  "zh": "业缘时节生色",
+  "pages": [
+   100,
+   133
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kammapatha",
+  "zh": "业道",
+  "pages": [
+   73,
+   134,
+   135
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammaphalūpajīvī",
+  "zh": "依业之果维生者",
+  "pages": [
+   179
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammaphalūpajīvī nauṭṭhānaphalūpajīvī",
+  "zh": "依业之果维生而非依奋起之果维生者",
+  "pages": [
+   179
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammabala",
+  "zh": "业力",
+  "pages": [
+   42
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammabalena channaṃ dvārānaṃ aññatarasmiṃ paccupaṭṭhāti",
+  "zh": "因业力现起于六门之一",
+  "pages": [
+   162,
+   177
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammavipāka",
+  "zh": "不善业果报",
+  "pages": [
+   100
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammassakatañāṇa",
+  "zh": "业自性智",
+  "pages": [
+   51,
+   151,
+   153
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kammāsasīla",
+  "zh": "斑点戒",
+  "pages": [
+   161
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Kalābu",
+  "zh": "迦罗富",
+  "pages": [
+   137
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kasiṇanimitta",
+  "zh": "遍相",
+  "pages": [
+   49,
+   155
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kasiṇanimittapaññatti",
+  "zh": "遍相概念",
+  "pages": [
+   176
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kasiṇapaññatti",
+  "zh": "遍概念",
+  "pages": [
+   39
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Kassapa",
+  "zh": "迦叶",
+  "pages": [
+   124,
+   125,
+   137
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāmaguṇa",
+  "zh": "欲功德",
+  "pages": [
+   148
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāmacchandanīvaraṇa",
+  "zh": "欲欲盖",
+  "pages": [
+   54
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāmataṇhā",
+  "zh": "欲贪",
+  "pages": [
+   66,
+   103
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāmabhūmi",
+  "zh": "欲地",
+  "pages": [
+   25,
+   26
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāmaloka",
+  "zh": "欲世间",
+  "pages": [
+   128,
+   130
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāmasugati",
+  "zh": "欲善趣",
+  "pages": [
+   49,
+   53,
+   76,
+   77,
+   128,
+   130,
+   152,
+   153,
+   171
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāmasugatipaṭisandhi",
+  "zh": "欲善趣结生",
+  "pages": [
+   111,
+   113,
+   115
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāmasugatibhūmi",
+  "zh": "欲善趣地",
+  "pages": [
+   6,
+   92,
+   93,
+   103
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāmāvacarakamma",
+  "zh": "欲界业",
+  "pages": [
+   127,
+   130
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāmāvacarakusala",
+  "zh": "欲界善业",
+  "pages": [
+   127,
+   131,
+   132
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāmāvacarajavana",
+  "zh": "欲界速行",
+  "pages": [
+   5,
+   17,
+   18,
+   24,
+   25,
+   36,
+   37,
+   59,
+   60
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāmāvacarajavanādhiṭṭhānavīthi",
+  "zh": "欲界速行决意心路",
+  "pages": [
+   48
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāmāvacaradeva",
+  "zh": "欲界天",
+  "pages": [
+   94
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāmāvacaradhamma",
+  "zh": "欲界法",
+  "pages": [
+   59,
+   60
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāmāvacarapaṭisandhi",
+  "zh": "欲界结生",
+  "pages": [
+   111,
+   113,
+   163,
+   164
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāmāvacarabhūmi",
+  "zh": "欲界",
+  "pages": [
+   82,
+   92,
+   93,
+   94
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāmāvacarasatta",
+  "zh": "欲界众生",
+  "pages": [
+   59,
+   60,
+   62
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāmāvacarasobhaṇacitta",
+  "zh": "欲界美心",
+  "pages": [
+   88
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāmāvacarasobhana",
+  "zh": "欲界美",
+  "pages": [
+   185,
+   186
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāmesumicchācāra",
+  "zh": "欲劣行",
+  "pages": [
+   127,
+   129,
+   147,
+   148
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāyakamma",
+  "zh": "身业",
+  "pages": [
+   127,
+   129,
+   130
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāyaduccarita",
+  "zh": "身恶行",
+  "pages": [
+   146
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāyadvāra",
+  "zh": "身门",
+  "pages": [
+   64,
+   127,
+   129,
+   146
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāyadvāravīthi",
+  "zh": "身门心路",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāyapasāda",
+  "zh": "身净色",
+  "pages": [
+   21
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāyapāguññatā",
+  "zh": "心所练达",
+  "pages": [
+   195
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kāyaviññatti",
+  "zh": "身表",
+  "pages": [
+   20,
+   127,
+   129
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāyaviññāṇa",
+  "zh": "身识",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāyaviññāṇavīthi",
+  "zh": "身识心路",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kāyikasukha",
+  "zh": "身乐",
+  "pages": [
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kālakañcikaasura",
+  "zh": "伽罗干阇迦阿修罗",
+  "pages": [
+   102,
+   103
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Kāladevila",
+  "zh": "迦罗提婆",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kālamaraṇa",
+  "zh": "时死",
+  "pages": [
+   166
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kālavimutta",
+  "zh": "离时",
+  "pages": [
+   38,
+   40
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kālaṃ kiriyā",
+  "zh": "死",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Kāḷasutta",
+  "zh": "黑绳地狱",
+  "pages": [
+   94,
+   98
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kiccacatukka",
+  "zh": "作用四法",
+  "pages": [
+   6,
+   132
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kiccasaṅgaha",
+  "zh": "作用概要",
+  "pages": [
+   184
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kiriyajavana",
+  "zh": "唯作速行",
+  "pages": [
+   24,
+   59,
+   66
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kiriyā",
+  "zh": "应当作的",
+  "pages": [
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kilesantarāya",
+  "zh": "烦恼障",
+  "pages": [
+   79
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kilesantarāyika",
+  "zh": "烦恼障",
+  "pages": [
+   54
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kukkuṭasūkaradāna",
+  "zh": "鸡豚施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Kukkula",
+  "zh": "热灰地狱",
+  "pages": [
+   94,
+   99
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kumbhaṇḍa",
+  "zh": "瓮睾",
+  "pages": [
+   105
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Kuvera",
+  "zh": "俱毗罗",
+  "pages": [
+   105
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kusalakammapatha",
+  "zh": "善业道",
+  "pages": [
+   148
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kusalavipāka",
+  "zh": "善果报",
+  "pages": [
+   59,
+   60
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kusalavipāka kāyaviññāṇa",
+  "zh": "善果报身识",
+  "pages": [
+   185,
+   186
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kusalavipākopekkhāsahagatasantīraṇa",
+  "zh": "善果报舍俱推度",
+  "pages": [
+   111,
+   113,
+   115,
+   116
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kusalākusalajavana",
+  "zh": "善与不善速行",
+  "pages": [
+   75
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "kusalākusale niruddhe vipāko tadārammaṇatā uppajjati",
+  "zh": "善与不善灭去时，果报以彼所缘生起",
+  "pages": [
+   66
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "keci",
+  "zh": "个别",
+  "pages": [
+   154,
+   155
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kecivāda",
+  "zh": "个别观点",
+  "pages": [
+   66
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kesañci",
+  "zh": "某些",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Koṇāgamana",
+  "zh": "拘那含牟尼",
+  "pages": [
+   125
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "kolāhala",
+  "zh": "高呼",
+  "pages": [
+   125,
+   126
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "khaṇa",
+  "zh": "刹那",
+  "pages": [
+   19
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "khaṇattaya",
+  "zh": "三小刹那",
+  "pages": [
+   17,
+   18
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "khaṇattayasamaṅgī",
+  "zh": "具足三刹那者",
+  "pages": [
+   78
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "khaṇḍasīla",
+  "zh": "断戒",
+  "pages": [
+   161
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "khanti",
+  "zh": "欢喜满意地推断",
+  "pages": [
+   42
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "khantivādī",
+  "zh": "忍耐论者",
+  "pages": [
+   137
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "khandha",
+  "zh": "蕴",
+  "pages": [
+   120
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Khandhavibhaṅgaanuṭīkā",
+  "zh": "蕴分别随疏",
+  "pages": [
+   28
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Khandhavibhaṅgaṭṭhakathā",
+  "zh": "蕴分别义注",
+  "pages": [
+   19,
+   63,
+   102
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Khandhavibhaṅgamūlaṭīkā",
+  "zh": "蕴分别根本复注",
+  "pages": [
+   43
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Khandhasaṃyutta",
+  "zh": "蕴相应",
+  "pages": [
+   19
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Khārodaka",
+  "zh": "藤河地狱",
+  "pages": [
+   99
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "khiḍḍāpadosika",
+  "zh": "戏忘天",
+  "pages": [
+   124,
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "khīṇāsava",
+  "zh": "漏尽者",
+  "pages": [
+   75,
+   81
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "khuddaka",
+  "zh": "小",
+  "pages": [
+   103
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "khuddakakhaṇa",
+  "zh": "小刹那",
+  "pages": [
+   19,
+   20,
+   90
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "khetta",
+  "zh": "范围",
+  "pages": [
+   118
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "gati",
+  "zh": "趣",
+  "pages": [
+   103
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "gatinimitta",
+  "zh": "趣相",
+  "pages": [
+   13,
+   16,
+   26,
+   27,
+   62,
+   140,
+   141,
+   162,
+   166
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "gandhabba",
+  "zh": "音乐神",
+  "pages": [
+   105
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "gandhārammaṇa",
+  "zh": "香所缘",
+  "pages": [
+   15,
+   21
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "garukamma",
+  "zh": "重业",
+  "pages": [
+   91,
+   127,
+   131,
+   138,
+   139
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "guṇotirekasampadā",
+  "zh": "功德卓越具足",
+  "pages": [
+   143
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "gocara",
+  "zh": "境",
+  "pages": [
+   17,
+   18
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Gotama",
+  "zh": "乔达摩",
+  "pages": [
+   125
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "gotrabhu",
+  "zh": "种姓",
+  "pages": [
+   45,
+   46,
+   52,
+   67,
+   78
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Ghaṭikārabrahma",
+  "zh": "伽提迦罗大梵天",
+  "pages": [
+   175
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ghānadvāravīthi",
+  "zh": "鼻门心路",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ghānapasāda",
+  "zh": "鼻净色",
+  "pages": [
+   21,
+   116
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ghānaviññāṇa",
+  "zh": "鼻识",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ghānaviññāṇavīthi",
+  "zh": "鼻识心路",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cakkavattī",
+  "zh": "转轮王",
+  "pages": [
+   126
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "cakkavāḷa",
+  "zh": "轮围界",
+  "pages": [
+   103,
+   105,
+   118,
+   126
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "cakkhudasaka",
+  "zh": "眼十法聚",
+  "pages": [
+   36
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "cakkhudvāra",
+  "zh": "眼门",
+  "pages": [
+   15,
+   62,
+   64
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cakkhudvāravīthi",
+  "zh": "眼门心路",
+  "pages": [
+   14,
+   22,
+   23,
+   25,
+   26,
+   34
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cakkhupasāda",
+  "zh": "眼净色",
+  "pages": [
+   21,
+   22,
+   29,
+   30,
+   90,
+   116,
+   122,
+   135,
+   136
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "cakkhupālatthera",
+  "zh": "护眼长老",
+  "pages": [
+   136
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cakkhuvatthu",
+  "zh": "眼依处",
+  "pages": [
+   15
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "cakkhuviññāṇa",
+  "zh": "眼识",
+  "pages": [
+   11,
+   12,
+   14,
+   15,
+   18,
+   25,
+   26,
+   62,
+   191,
+   193
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cakkhuviññāṇavīthi",
+  "zh": "眼识心路",
+  "pages": [
+   14,
+   30
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "catasso bhūmiyo",
+  "zh": "四地",
+  "pages": [
+   91,
+   92,
+   93,
+   95
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "catutthajjhānabhūmi",
+  "zh": "第四禅地",
+  "pages": [
+   92,
+   93
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "catutthajjhānavipāka",
+  "zh": "第四禅果报",
+  "pages": [
+   112,
+   114
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "catutthāruppajavana",
+  "zh": "第四无色速行",
+  "pages": [
+   69,
+   70
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "catudhā maraṇuppatti",
+  "zh": "四死亡",
+  "pages": [
+   91
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "catubbidhā paṭisandhi",
+  "zh": "四结生",
+  "pages": [
+   91
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "catubrahmavihāra",
+  "zh": "四梵住",
+  "pages": [
+   109
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "catuvokāra",
+  "zh": "四蕴",
+  "pages": [
+   120
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "catuvokārabhūmi",
+  "zh": "四蕴界",
+  "pages": [
+   38,
+   88
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "catusacca",
+  "zh": "四谛",
+  "pages": [
+   42
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "cattāri kammāni",
+  "zh": "四业",
+  "pages": [
+   91
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cattāri catukkāni",
+  "zh": "四个四",
+  "pages": [
+   91
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "calana",
+  "zh": "动",
+  "pages": [
+   24
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cavana",
+  "zh": "死亡",
+  "pages": [
+   111,
+   113
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cātumahārājika",
+  "zh": "四大王天",
+  "pages": [
+   76,
+   92,
+   93,
+   104,
+   136,
+   137,
+   170,
+   171
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cārittasīla",
+  "zh": "作持戒",
+  "pages": [
+   161
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Ciñcamāṇavikā",
+  "zh": "旃遮摩那婆女",
+  "pages": [
+   175
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "citta",
+  "zh": "心",
+  "pages": [
+   8
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cittakammadāna",
+  "zh": "绘画施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cittakkhaṇa",
+  "zh": "心刹那",
+  "pages": [
+   27,
+   33
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cittajarūpa",
+  "zh": "心生色",
+  "pages": [
+   29,
+   48,
+   108
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "cittaniyāma",
+  "zh": "心定律",
+  "pages": [
+   13
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cittaparamattha",
+  "zh": "心的究竟义",
+  "pages": [
+   25,
+   26,
+   37
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Cittapariccheda",
+  "zh": "心章",
+  "pages": [
+   32
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "cittapāguññatā",
+  "zh": "心练达",
+  "pages": [
+   195
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "cittappavatti",
+  "zh": "心转起",
+  "pages": [
+   16,
+   82,
+   90
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Cittayamaka",
+  "zh": "心双论",
+  "pages": [
+   28
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cittavipallāsa",
+  "zh": "心颠倒",
+  "pages": [
+   61
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cittasantāna",
+  "zh": "心相续流",
+  "pages": [
+   162,
+   167
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cittuppāda",
+  "zh": "心生起",
+  "pages": [
+   11,
+   12,
+   51,
+   127,
+   130,
+   146
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cuti",
+  "zh": "死亡",
+  "pages": [
+   91,
+   115,
+   121,
+   165
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cuticitta",
+  "zh": "死心",
+  "pages": [
+   27,
+   28,
+   162,
+   165,
+   167
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cutipaṭisandhikkama",
+  "zh": "死生次第",
+  "pages": [
+   6,
+   162,
+   165
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Cūḷābhayatthera",
+  "zh": "三藏小无畏长老",
+  "pages": [
+   63
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cetanācetasika",
+  "zh": "思心所",
+  "pages": [
+   147
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "cetanādāna",
+  "zh": "思布施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "cetanāsampadā",
+  "zh": "思具足",
+  "pages": [
+   143
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cetasika",
+  "zh": "心所",
+  "pages": [
+   8
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Cetasikapariccheda",
+  "zh": "心所章",
+  "pages": [
+   185
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Cetasikaparicchedo",
+  "zh": "杂项篇",
+  "pages": [
+   184,
+   185
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cetasikasukha",
+  "zh": "心所乐",
+  "pages": [
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cetasika upekkhā",
+  "zh": "心所舍",
+  "pages": [
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cetopariyañāṇa",
+  "zh": "知他心智",
+  "pages": [
+   50
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "chakkhattuṃ",
+  "zh": "六次",
+  "pages": [
+   69,
+   73
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "chadvārikacittappavatti",
+  "zh": "六门心生起",
+  "pages": [
+   90
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "chabbidhasaṅgaha",
+  "zh": "六种概要",
+  "pages": [
+   184
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "chaḷaṅgupekkha",
+  "zh": "六支舍",
+  "pages": [
+   189
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "chaḷārammaṇa",
+  "zh": "六所缘",
+  "pages": [
+   38
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "cha chakkāni",
+  "zh": "六个六组",
+  "pages": [
+   5,
+   13,
+   15
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "cha dvāra",
+  "zh": "六门",
+  "pages": [
+   162,
+   166
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "chiddasīla",
+  "zh": "破戒",
+  "pages": [
+   161
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "jaccaeḷa",
+  "zh": "结生智障者",
+  "pages": [
+   117
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jaccaghāna",
+  "zh": "结生鼻净色缺失者",
+  "pages": [
+   116
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jaccandha",
+  "zh": "结生盲者",
+  "pages": [
+   111,
+   113,
+   115,
+   116,
+   122,
+   135
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jaccabadhira",
+  "zh": "结生聋者",
+  "pages": [
+   116
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jaccamūga",
+  "zh": "结生哑者",
+  "pages": [
+   117
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jaccummattaka",
+  "zh": "结生癫疯者",
+  "pages": [
+   117
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "janakakamma",
+  "zh": "令生业",
+  "pages": [
+   91,
+   127,
+   131,
+   132,
+   133,
+   166,
+   168
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Jambudīpa",
+  "zh": "南赡部洲",
+  "pages": [
+   104,
+   123,
+   124
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "jaratā",
+  "zh": "色老性",
+  "pages": [
+   20
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "jalābuja",
+  "zh": "胎生",
+  "pages": [
+   122
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "javana",
+  "zh": "速行",
+  "pages": [
+   17,
+   19,
+   25,
+   26,
+   59,
+   60,
+   69,
+   134,
+   163,
+   167
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "javanaṭṭhāniya",
+  "zh": "伪速行",
+  "pages": [
+   22
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "javananiyata",
+  "zh": "速行确定",
+  "pages": [
+   61
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "javananiyama",
+  "zh": "速行定律",
+  "pages": [
+   5,
+   69,
+   70
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "javanabhavaṅgānantaracuti",
+  "zh": "速分后死",
+  "pages": [
+   27,
+   168
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "javanavāra",
+  "zh": "速行时分",
+  "pages": [
+   5,
+   18,
+   19,
+   22,
+   34,
+   37
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "javanānantaracuti",
+  "zh": "速后死",
+  "pages": [
+   27,
+   168
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "javanāniyata",
+  "zh": "速行可变",
+  "pages": [
+   60,
+   66
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "javanānubandhāni ca dve tadārammaṇapākāni",
+  "zh": "跟随速行的两次彼所缘",
+  "pages": [
+   32
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Jātaka",
+  "zh": "本生",
+  "pages": [
+   144
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Jātakaṭṭhakathā",
+  "zh": "本生义注",
+  "pages": [
+   124
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "jāti",
+  "zh": "本性",
+  "pages": [
+   120
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jātikhetta",
+  "zh": "诞生范围",
+  "pages": [
+   118
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Jālaroruva",
+  "zh": "火焰地狱",
+  "pages": [
+   98
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jighacchāyamaraṇa",
+  "zh": "饿死",
+  "pages": [
+   173
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jivhādvāravīthi",
+  "zh": "舌门心路",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jivhāpasāda",
+  "zh": "舌净色",
+  "pages": [
+   21
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "jivhāviññāṇa",
+  "zh": "舌识",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jivhāviññāṇavīthi",
+  "zh": "舌识心路",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jīvita",
+  "zh": "命",
+  "pages": [
+   165
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jīvitanavaka",
+  "zh": "命九法聚",
+  "pages": [
+   116,
+   125,
+   156,
+   163,
+   164,
+   170
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jīvitanavakarūpa",
+  "zh": "命九法聚色",
+  "pages": [
+   97
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "jīvitasamasīsī",
+  "zh": "命等首",
+  "pages": [
+   176
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jīvitindriya",
+  "zh": "命根",
+  "pages": [
+   55
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "juṇhā",
+  "zh": "月光",
+  "pages": [
+   105
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jhānaṅga",
+  "zh": "禅支",
+  "pages": [
+   74,
+   128,
+   130
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "jhānapaccavekkhaṇajavana",
+  "zh": "禅那省察速行",
+  "pages": [
+   71
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "jhānavīthi",
+  "zh": "禅那心路",
+  "pages": [
+   39,
+   71
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "jhānupekkhā",
+  "zh": "禅那舍",
+  "pages": [
+   189
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Ñāṇavaṃsa Sayadaw (缅)",
+  "zh": "智裔西亚多",
+  "pages": [
+   197
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ñāṇavippayutta",
+  "zh": "智不相应",
+  "pages": [
+   72,
+   191,
+   193
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ñāṇavippayuttamahākusala",
+  "zh": "大善智不应",
+  "pages": [
+   152
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ñāṇavippayuttamahāvipākacitta",
+  "zh": "大果报智不相应心",
+  "pages": [
+   152,
+   153
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ñāṇavippayutta mahāvipāka",
+  "zh": "智不相应大果报",
+  "pages": [
+   75
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Ñāṇavibhaṅgaṭṭhakathā",
+  "zh": "智分别义注",
+  "pages": [
+   145
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ñāṇasampayutta",
+  "zh": "智相应",
+  "pages": [
+   72,
+   191,
+   193
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ñāṇasampayuttakāmāvacarajavana",
+  "zh": "智相应欲界速行",
+  "pages": [
+   45
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ñāṇasampayuttamahākiriyā",
+  "zh": "大唯作智相应",
+  "pages": [
+   57
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ñāṇasampayuttamahākusala",
+  "zh": "大善智相应",
+  "pages": [
+   57,
+   152
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ñāṇasampayuttamahāvipākacitta",
+  "zh": "大果报智相应心",
+  "pages": [
+   152,
+   153
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ñāṇasampayuttavipāka",
+  "zh": "智相应果报",
+  "pages": [
+   75
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ṭīkā",
+  "zh": "复注",
+  "pages": [
+   7,
+   8,
+   28,
+   133
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ṭhiti",
+  "zh": "住",
+  "pages": [
+   18,
+   19
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "ṭhitikkhaṇa",
+  "zh": "住刹那",
+  "pages": [
+   28,
+   35
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "taṇhā",
+  "zh": "爱",
+  "pages": [
+   148,
+   168,
+   177
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "taṇhānusaya",
+  "zh": "爱随眠",
+  "pages": [
+   162,
+   169
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tatiyajjhānabhūmi",
+  "zh": "第三禅地",
+  "pages": [
+   92,
+   93,
+   107
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tatiyajjhānavipāka",
+  "zh": "第三禅果报",
+  "pages": [
+   112,
+   114
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Tatiya Pārājikaṭṭhakathā",
+  "zh": "第三波罗夷义注",
+  "pages": [
+   139
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tato dvikkhattuṃ bhavaṅge calite",
+  "zh": "有分波动两次",
+  "pages": [
+   30
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tato paraṃ tameva tathopaṭṭhitaṃ ārammaṇaṃ ārabbha",
+  "zh": "就取那样呈现的所缘",
+  "pages": [
+   162,
+   177
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tato paraṃ bhavaṅgapāto",
+  "zh": "之后，落入有分",
+  "pages": [
+   32
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tatramajjhattatā",
+  "zh": "中舍性",
+  "pages": [
+   189
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tadārammaṇa",
+  "zh": "彼所缘",
+  "pages": [
+   17,
+   18,
+   19,
+   25,
+   32,
+   33,
+   59,
+   60,
+   62,
+   67,
+   68,
+   133,
+   155,
+   167,
+   168
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tadārammaṇacuti",
+  "zh": "彼后死",
+  "pages": [
+   27,
+   168
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "tadārammaṇaniyama",
+  "zh": "彼所缘定律",
+  "pages": [
+   5,
+   59,
+   60
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "tadārammaṇapākāni",
+  "zh": "彼所缘果报",
+  "pages": [
+   36,
+   37
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tadārammaṇabhavaṅgacuti",
+  "zh": "彼分后死",
+  "pages": [
+   27,
+   168
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "tadārammaṇavāra",
+  "zh": "彼所缘时分",
+  "pages": [
+   18,
+   19,
+   22,
+   37,
+   43
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "tapodānadī",
+  "zh": "温泉河",
+  "pages": [
+   102
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Tāpana",
+  "zh": "灼热地狱",
+  "pages": [
+   94,
+   98
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tāvatiṃsa",
+  "zh": "三十三天",
+  "pages": [
+   92,
+   104,
+   106,
+   175
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tikkhapañña",
+  "zh": "利慧",
+  "pages": [
+   70,
+   71,
+   72
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tikkhapaññapuggala",
+  "zh": "利慧者",
+  "pages": [
+   46,
+   47
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Tipiṭaka",
+  "zh": "三藏",
+  "pages": [
+   7
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Tipiṭakacūḷanāgatthera",
+  "zh": "三藏小龙长老",
+  "pages": [
+   155
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "tiracchāna",
+  "zh": "畜生",
+  "pages": [
+   99
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tiracchānayoni",
+  "zh": "畜生类",
+  "pages": [
+   92,
+   93
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tihetuka",
+  "zh": "三因者",
+  "pages": [
+   68,
+   75,
+   77,
+   110,
+   115,
+   121,
+   128,
+   130,
+   170,
+   171
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tihetukakusalakamma",
+  "zh": "三因善业",
+  "pages": [
+   151
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "tihetukapaṭisandhika",
+  "zh": "三因结生者",
+  "pages": [
+   26
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "tihetukaputhujjana",
+  "zh": "三因凡夫",
+  "pages": [
+   49,
+   50
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "tihetukabhavaṅga",
+  "zh": "三因有分",
+  "pages": [
+   46,
+   49,
+   53
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "tulākūṭamānakūṭadāna",
+  "zh": "伪秤伪量施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tusita",
+  "zh": "兜率天",
+  "pages": [
+   92,
+   104
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tekālika",
+  "zh": "三时",
+  "pages": [
+   40
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "tejosaṃvaṭṭa",
+  "zh": "火坏劫",
+  "pages": [
+   118
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "tebhūmakasaṅkhāra",
+  "zh": "三界行法",
+  "pages": [
+   49,
+   50
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "thaddhapathavī",
+  "zh": "坚硬的地",
+  "pages": [
+   21
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "thina",
+  "zh": "昏沉",
+  "pages": [
+   195
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Theragāthā",
+  "zh": "长老偈",
+  "pages": [
+   7
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dāna",
+  "zh": "布施",
+  "pages": [
+   127,
+   130,
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "diṭṭhadhammavedanīya",
+  "zh": "现世受业",
+  "pages": [
+   127,
+   131,
+   132
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "diṭṭhadhammavedanīyakamma",
+  "zh": "现世受业",
+  "pages": [
+   91,
+   141,
+   142,
+   143
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "diṭṭhi",
+  "zh": "见",
+  "pages": [
+   41
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "diṭṭhigatasampayutta",
+  "zh": "邪见相应",
+  "pages": [
+   75,
+   81,
+   193
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "diṭṭhicetasika",
+  "zh": "邪见心所",
+  "pages": [
+   147
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "diṭṭhijukamma",
+  "zh": "正直己见",
+  "pages": [
+   127,
+   130,
+   150,
+   151
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "diṭṭhinijjhānakkhanti",
+  "zh": "推论",
+  "pages": [
+   41,
+   42
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "diṭṭhivipallāsa",
+  "zh": "见颠倒",
+  "pages": [
+   61,
+   64
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dibbacakkhuñāṇa",
+  "zh": "天眼智",
+  "pages": [
+   50
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dibbavassa",
+  "zh": "天年",
+  "pages": [
+   95
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dibbasotañāṇa",
+  "zh": "天耳智",
+  "pages": [
+   50
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dukkha",
+  "zh": "苦",
+  "pages": [
+   185,
+   186
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dukkhavedanā",
+  "zh": "苦受",
+  "pages": [
+   187
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dukkhasahagata",
+  "zh": "苦俱",
+  "pages": [
+   185,
+   186
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dukkhindriya",
+  "zh": "苦根",
+  "pages": [
+   186,
+   188
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "duggati",
+  "zh": "恶趣",
+  "pages": [
+   40,
+   69,
+   75,
+   152,
+   153,
+   170,
+   172
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "duggatiahetuka",
+  "zh": "恶趣无因",
+  "pages": [
+   110
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "duggatiahetukapaṭisandhika",
+  "zh": "恶趣无因结生者",
+  "pages": [
+   26
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "duggatiahetukapuggala",
+  "zh": "恶趣无因者",
+  "pages": [
+   76,
+   77
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "duggatibhūmi",
+  "zh": "恶趣地",
+  "pages": [
+   97
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "duccarita",
+  "zh": "恶行",
+  "pages": [
+   146,
+   147
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dutiyajjhānabhūmi",
+  "zh": "第二禅地",
+  "pages": [
+   92,
+   93,
+   107
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dutiyajjhānavipāka",
+  "zh": "第二禅果报",
+  "pages": [
+   112,
+   114
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Dussī",
+  "zh": "度西",
+  "pages": [
+   137
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "duhetuka",
+  "zh": "二因者",
+  "pages": [
+   74,
+   75,
+   77,
+   78
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "devatopasaṃhāratā",
+  "zh": "天赐",
+  "pages": [
+   42
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Devadatta",
+  "zh": "提婆达多",
+  "pages": [
+   123,
+   136,
+   139,
+   175
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Devadahasuttaṭṭhakathā",
+  "zh": "天臂城经义注",
+  "pages": [
+   143
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "devadūta",
+  "zh": "天使",
+  "pages": [
+   100
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Devadūtasutta",
+  "zh": "天使经",
+  "pages": [
+   100,
+   101,
+   102
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "devāsura",
+  "zh": "天阿修罗",
+  "pages": [
+   99
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "domanassa",
+  "zh": "忧",
+  "pages": [
+   185,
+   186
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "domanassavedanā",
+  "zh": "忧受",
+  "pages": [
+   186
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "domanassasahagata",
+  "zh": "忧俱",
+  "pages": [
+   59,
+   60,
+   186
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "domanassindriya",
+  "zh": "忧根",
+  "pages": [
+   186,
+   188
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dosacetasika",
+  "zh": "嗔心所",
+  "pages": [
+   147
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dosajavana",
+  "zh": "嗔速行",
+  "pages": [
+   25,
+   40
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dosamūla",
+  "zh": "嗔根",
+  "pages": [
+   61,
+   127,
+   129
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dvāra",
+  "zh": "门",
+  "pages": [
+   13,
+   15
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dvārappavattā",
+  "zh": "门生起",
+  "pages": [
+   16
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dvārappavattā cittappavattiyo",
+  "zh": "于门生起的心转起",
+  "pages": [
+   14,
+   16
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dvārasaṅgaha",
+  "zh": "门概要",
+  "pages": [
+   184
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dvipañcaviññāṇa",
+  "zh": "双五识",
+  "pages": [
+   15,
+   26,
+   28,
+   38,
+   193
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dvihetuka",
+  "zh": "二因",
+  "pages": [
+   68,
+   115,
+   121,
+   128,
+   130,
+   170,
+   171
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dvihetukakusalakamma",
+  "zh": "二因善业",
+  "pages": [
+   151
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dvihetukajavana",
+  "zh": "二因速行",
+  "pages": [
+   58
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dvihetukapaṭisandhika",
+  "zh": "二因结生者",
+  "pages": [
+   26
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Dhataraṭṭha",
+  "zh": "持国天王",
+  "pages": [
+   104,
+   105
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dhammakkhandha",
+  "zh": "法蕴",
+  "pages": [
+   7
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Dhammacakkappavattanasutta",
+  "zh": "转法轮经",
+  "pages": [
+   42
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dhammadesanā",
+  "zh": "说法",
+  "pages": [
+   127,
+   130,
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dhammaniyāma",
+  "zh": "法定律",
+  "pages": [
+   13
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Dhammapada",
+  "zh": "法句",
+  "pages": [
+   136
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Dhammapāla",
+  "zh": "护法尊者",
+  "pages": [
+   7
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Dhammabyūhā (缅)",
+  "zh": "法学社",
+  "pages": [
+   80
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Dhammasaṅgaṇī",
+  "zh": "法集",
+  "pages": [
+   7,
+   66
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Dhammasaṅgaṇīanuṭīkā",
+  "zh": "法集随疏",
+  "pages": [
+   7,
+   139
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Dhammasaṅgaṇīmūlaṭīkā",
+  "zh": "法集根本复注",
+  "pages": [
+   7,
+   42
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dhammassavana",
+  "zh": "闻法",
+  "pages": [
+   127,
+   130,
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Dhammahadayavibhaṅga",
+  "zh": "法心分别",
+  "pages": [
+   124
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dhammahadayavibhaṅgaṭṭhakathā",
+  "zh": "法心分别义注",
+  "pages": [
+   124
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dhammārammaṇa",
+  "zh": "法所缘",
+  "pages": [
+   15,
+   38
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Dhātukathā",
+  "zh": "界[论]",
+  "pages": [
+   7
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "dhātukkhobha",
+  "zh": "界搅动",
+  "pages": [
+   42
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "dhutaṅga",
+  "zh": "头陀",
+  "pages": [
+   173
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Dhūmarorūva",
+  "zh": "浓烟地狱",
+  "pages": [
+   98
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "natthikadiṭṭhi",
+  "zh": "虚无见",
+  "pages": [
+   138,
+   157,
+   158
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Nandana",
+  "zh": "欢喜园",
+  "pages": [
+   106
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Nandopananda",
+  "zh": "难陀波难陀龙王",
+  "pages": [
+   71
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "napuṃsaka",
+  "zh": "无性者",
+  "pages": [
+   117
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Namo tassa bhagavato arahato sammāsambuddhassa",
+  "zh": "礼敬彼世尊 阿拉汉 正自觉者",
+  "pages": [
+   5
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nayadassana",
+  "zh": "指导方法",
+  "pages": [
+   28
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nava samāpattiyo",
+  "zh": "九定",
+  "pages": [
+   48
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "nānattakāya ekattasaññī",
+  "zh": "异身一想",
+  "pages": [
+   121
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nānattakāya nānattasaññī",
+  "zh": "异身异想",
+  "pages": [
+   121
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nānākkhaṇika",
+  "zh": "异刹那",
+  "pages": [
+   160
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "nāmakkhandha",
+  "zh": "名蕴",
+  "pages": [
+   109
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "nāmapaññattiggahaṇavāra",
+  "zh": "取名概念时分",
+  "pages": [
+   44
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nāmapaṭisandhi",
+  "zh": "名结生",
+  "pages": [
+   116
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "nāmabhavaṅga",
+  "zh": "名有分",
+  "pages": [
+   178
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "nāmarūpa",
+  "zh": "名色",
+  "pages": [
+   8
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "nāmarūpadhamma",
+  "zh": "名色法",
+  "pages": [
+   78
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Nāmarūpapariccheda",
+  "zh": "名色分别",
+  "pages": [
+   103
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "nāmasaṅkhāra",
+  "zh": "名行",
+  "pages": [
+   126
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nikantitaṇhā",
+  "zh": "希求贪爱",
+  "pages": [
+   137
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nijjhāna",
+  "zh": "探究",
+  "pages": [
+   42
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nippariyāyadesanā",
+  "zh": "论教直叙",
+  "pages": [
+   188
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "nipphanna",
+  "zh": "完成",
+  "pages": [
+   54
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nipphannarūpa",
+  "zh": "真实色",
+  "pages": [
+   20,
+   43
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "nibbāna",
+  "zh": "涅槃",
+  "pages": [
+   8,
+   38,
+   41,
+   79
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Nimijātakaṭṭhakathā",
+  "zh": "尼弥本生义注",
+  "pages": [
+   144
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Nimirāja",
+  "zh": "尼弥王",
+  "pages": [
+   124
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nimmānarati",
+  "zh": "化乐天",
+  "pages": [
+   92,
+   104,
+   175
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nimmitarūpa",
+  "zh": "化作色",
+  "pages": [
+   50
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "niyatamicchādiṭṭhi",
+  "zh": "定邪见",
+  "pages": [
+   79,
+   126,
+   138
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "niyatamicchādiṭṭhikilesa",
+  "zh": "决定性邪见烦恼",
+  "pages": [
+   54
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "niyāma",
+  "zh": "定律",
+  "pages": [
+   13
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "niyāmitaṃ",
+  "zh": "所划定的",
+  "pages": [
+   12
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "niraya",
+  "zh": "地狱",
+  "pages": [
+   92,
+   98
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nirayapāla",
+  "zh": "地狱卒",
+  "pages": [
+   100
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "nirodha",
+  "zh": "灭",
+  "pages": [
+   48
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nirodhasamāpatti",
+  "zh": "灭尽定",
+  "pages": [
+   48,
+   52,
+   54,
+   67,
+   69,
+   70,
+   143
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nirodhasamāpattivīthi",
+  "zh": "入灭尽定心路",
+  "pages": [
+   48,
+   53
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "nissaya",
+  "zh": "逐词释",
+  "pages": [
+   9
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nissayapaccaya",
+  "zh": "依止缘",
+  "pages": [
+   36
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "nīvaraṇa",
+  "zh": "盖",
+  "pages": [
+   53,
+   85,
+   86
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "nevasaññānāsaññāyatana",
+  "zh": "非想非非想",
+  "pages": [
+   48,
+   71,
+   87,
+   89,
+   171,
+   172
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "nevasaññānāsaññāyatanabhūmi",
+  "zh": "非想非非想处地",
+  "pages": [
+   92,
+   93,
+   96,
+   110
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "neva uṭṭhānaphalūpajīvino na kammaphalūpajīvino",
+  "zh": "既非依精进之果维生也非依业之果维生者",
+  "pages": [
+   179
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pakiṇṇaka",
+  "zh": "杂",
+  "pages": [
+   185
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Pakiṇṇakapariccheda",
+  "zh": "杂项章",
+  "pages": [
+   11,
+   12
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pakiṇṇakasaṅgaha",
+  "zh": "杂项概要",
+  "pages": [
+   13
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pakiṇṇakasaṅgahavibhāga",
+  "zh": "杂项概要分别",
+  "pages": [
+   190
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pakiṇṇaka cetasika",
+  "zh": "杂心所",
+  "pages": [
+   185
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Paccayadvāra",
+  "zh": "缘门",
+  "pages": [
+   159
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paccayasampadā",
+  "zh": "必须品具足",
+  "pages": [
+   143
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paccayuppannadhamma",
+  "zh": "缘生法",
+  "pages": [
+   36
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paccavekkhaṇa",
+  "zh": "省察",
+  "pages": [
+   45
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paccavekkhaṇacitta",
+  "zh": "省察心",
+  "pages": [
+   69,
+   70
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paccavekkhaṇavīthi",
+  "zh": "省察心路",
+  "pages": [
+   176
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paccuppannārammaṇa",
+  "zh": "现在所缘",
+  "pages": [
+   163,
+   169
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pacchimacitta",
+  "zh": "最后心",
+  "pages": [
+   78
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pacchimabhava",
+  "zh": "最后生",
+  "pages": [
+   177
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pacchimabhavika",
+  "zh": "最后生者",
+  "pages": [
+   172
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Pañcadvāravīthi",
+  "zh": "五门心路",
+  "pages": [
+   5,
+   17,
+   25,
+   26
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pañcadvārāvajjana",
+  "zh": "五门转向",
+  "pages": [
+   11,
+   12,
+   25,
+   26,
+   44,
+   62,
+   191
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pañcadvārāvajjanacitta",
+  "zh": "五门转向心",
+  "pages": [
+   17,
+   18,
+   24
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pañcadvārikacetanā",
+  "zh": "五门思",
+  "pages": [
+   157
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pañcadvārikamaraṇāsannavīthi",
+  "zh": "五门临死心路",
+  "pages": [
+   27
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Pañcapakaraṇaanuṭīkā",
+  "zh": "五论随疏",
+  "pages": [
+   7
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Pañcapakaraṇamūlaṭīkā",
+  "zh": "五论根本复注",
+  "pages": [
+   7
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pañcapasāda",
+  "zh": "五净色",
+  "pages": [
+   29
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Pañcappakaraṇaṭṭhakathā",
+  "zh": "五论义注",
+  "pages": [
+   7
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pañcamajjhāna",
+  "zh": "第五禅",
+  "pages": [
+   47,
+   48
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pañcamajjhānavipāka",
+  "zh": "第五禅果报",
+  "pages": [
+   112,
+   114
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pañcavatthu",
+  "zh": "五依处",
+  "pages": [
+   26,
+   34
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pañcaviññāṇa",
+  "zh": "五识",
+  "pages": [
+   59,
+   60,
+   72
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pañcavokāra",
+  "zh": "五蕴",
+  "pages": [
+   120
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pañcavokārabhava",
+  "zh": "五蕴界",
+  "pages": [
+   38,
+   88
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pañcasīla",
+  "zh": "五戒",
+  "pages": [
+   161
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pañcānantariyakamma",
+  "zh": "五无间业",
+  "pages": [
+   54,
+   78,
+   104,
+   138,
+   139
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pañcārammaṇa",
+  "zh": "五所缘",
+  "pages": [
+   26,
+   29
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pañcindriya",
+  "zh": "五根",
+  "pages": [
+   156
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paññattārammaṇa",
+  "zh": "概念所缘",
+  "pages": [
+   62,
+   63
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paññatti",
+  "zh": "概念",
+  "pages": [
+   8,
+   38,
+   43,
+   163,
+   169,
+   170
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭighajavana",
+  "zh": "嗔恚速行",
+  "pages": [
+   75,
+   82
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭighasampayuttacitta",
+  "zh": "嗔恚相应心",
+  "pages": [
+   186
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Paṭiccasamuppādavibhaṅgamūlaṭīkā",
+  "zh": "缘起分别根本复注",
+  "pages": [
+   188
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paṭipakkha",
+  "zh": "敌对者",
+  "pages": [
+   103
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭibhāganimitta",
+  "zh": "似相",
+  "pages": [
+   49,
+   53
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paṭirūpadesa",
+  "zh": "适宜地",
+  "pages": [
+   31
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭirūpadesavāsa",
+  "zh": "居适宜地",
+  "pages": [
+   31
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭivedha",
+  "zh": "通达",
+  "pages": [
+   42
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭisandhi",
+  "zh": "结生",
+  "pages": [
+   11,
+   12,
+   91,
+   96,
+   115,
+   128,
+   130,
+   163,
+   168
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭisandhikāla",
+  "zh": "结生时",
+  "pages": [
+   115
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭisandhicatukka",
+  "zh": "四结生",
+  "pages": [
+   6
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Paṭisandhicatukkaṃ",
+  "zh": "四结生",
+  "pages": [
+   111
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭisandhicitta",
+  "zh": "结生心",
+  "pages": [
+   27,
+   28,
+   168
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paṭisandhiñāṇa",
+  "zh": "结生智",
+  "pages": [
+   54
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭisandhiviññāṇa",
+  "zh": "结生识",
+  "pages": [
+   178
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paṭisandhisaññā",
+  "zh": "结生想",
+  "pages": [
+   121
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Paṭṭhāna",
+  "zh": "发趣",
+  "pages": [
+   7,
+   66,
+   159
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paṭhamakappanā",
+  "zh": "首次安止",
+  "pages": [
+   69,
+   70,
+   74
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭhamajjhāna",
+  "zh": "初禅",
+  "pages": [
+   53
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭhamajjhānabhūmi",
+  "zh": "初禅地",
+  "pages": [
+   92,
+   93,
+   107
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭhamajjhānavipāka",
+  "zh": "初禅果报",
+  "pages": [
+   112,
+   114,
+   116
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭhamamagga",
+  "zh": "初道",
+  "pages": [
+   82
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṭhamāruppavipāka",
+  "zh": "第一无色果报",
+  "pages": [
+   113,
+   114
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paṇīta",
+  "zh": "上等",
+  "pages": [
+   128,
+   131,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṇītadāna",
+  "zh": "殊胜布施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paṇḍaka",
+  "zh": "黄门",
+  "pages": [
+   79,
+   117
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Patāpana",
+  "zh": "倍灼热地狱",
+  "pages": [
+   98
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pattānumodana",
+  "zh": "随喜",
+  "pages": [
+   127,
+   130,
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "patti",
+  "zh": "分享",
+  "pages": [
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pattidāna",
+  "zh": "回向",
+  "pages": [
+   127,
+   130,
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pathavīkasiṇa",
+  "zh": "地遍",
+  "pages": [
+   47
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "padamaccuta",
+  "zh": "不死涅槃",
+  "pages": [
+   164,
+   173
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "payoga",
+  "zh": "努力",
+  "pages": [
+   158
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paranimmitavasavatti",
+  "zh": "他化自在天",
+  "pages": [
+   92,
+   104,
+   175
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paramattha",
+  "zh": "究竟义",
+  "pages": [
+   147,
+   149
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Paramatthadīpanī",
+  "zh": "究竟义注",
+  "pages": [
+   8,
+   32,
+   33,
+   62,
+   105,
+   108,
+   177
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paramatthadhamma",
+  "zh": "究竟法",
+  "pages": [
+   8
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Paramatthavinicchaya",
+  "zh": "究竟决定",
+  "pages": [
+   33
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paramāṇu",
+  "zh": "极微",
+  "pages": [
+   126
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "parikappa",
+  "zh": "造作",
+  "pages": [
+   64,
+   65
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "parikappa aniṭṭhārammaṇa",
+  "zh": "造作不可喜所缘",
+  "pages": [
+   65
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "parikappa iṭṭhārammaṇa",
+  "zh": "造作可喜所缘",
+  "pages": [
+   65
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "parikamma",
+  "zh": "预作",
+  "pages": [
+   45,
+   46,
+   47
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paritta",
+  "zh": "下等",
+  "pages": [
+   14,
+   16,
+   19,
+   118,
+   128,
+   131,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "parittajavanavāro",
+  "zh": "弱（欲界）速行时分",
+  "pages": [
+   37
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "parittajavanavīthi",
+  "zh": "弱速行心路",
+  "pages": [
+   69
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "parittadhamma",
+  "zh": "弱法",
+  "pages": [
+   163,
+   164
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Parittasubha",
+  "zh": "少华光天",
+  "pages": [
+   92,
+   107,
+   129,
+   131,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Parittābha",
+  "zh": "少光天",
+  "pages": [
+   92,
+   107,
+   128,
+   131,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "parittārammaṇa",
+  "zh": "弱所缘",
+  "pages": [
+   59,
+   60
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "parittārammaṇavīthi",
+  "zh": "小所缘心路",
+  "pages": [
+   66
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "parinibbāna",
+  "zh": "般涅槃",
+  "pages": [
+   176,
+   177
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "parinibbānamaraṇāsannavīthi",
+  "zh": "般涅槃临死心路",
+  "pages": [
+   39
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "paripakkadiṭṭhadhammavedaniyakamma",
+  "zh": "已熟现世受业",
+  "pages": [
+   143
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "paripakkavedaniya",
+  "zh": "已熟受",
+  "pages": [
+   143
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pariyāyadesanā",
+  "zh": "经教修辞法",
+  "pages": [
+   188
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "parivāsa",
+  "zh": "别住",
+  "pages": [
+   79
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "parisuddhupekkhā",
+  "zh": "彩华光舍",
+  "pages": [
+   189
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pavatti",
+  "zh": "生命期间",
+  "pages": [
+   12,
+   112,
+   114,
+   128,
+   130
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pavattikāla",
+  "zh": "生命时期",
+  "pages": [
+   115
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pavattisaṅgaha",
+  "zh": "转起概要",
+  "pages": [
+   91,
+   92
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pavattisaṅgahaṃ nāma",
+  "zh": "名《转起概要》",
+  "pages": [
+   11,
+   12
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pasāda",
+  "zh": "净色",
+  "pages": [
+   18,
+   21,
+   82
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Pa-Auk Sayadaw (缅)",
+  "zh": "帕奥西亚多",
+  "pages": [
+   27,
+   197
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pākakālacatukka",
+  "zh": "成熟时间四法",
+  "pages": [
+   6,
+   127,
+   141
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pākaṭhānacatukka",
+  "zh": "成熟之处四法",
+  "pages": [
+   6,
+   127,
+   131,
+   132,
+   145
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pākadānapariyāyacatukka",
+  "zh": "成熟次序四法",
+  "pages": [
+   6,
+   127,
+   138
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pāṇātipāta",
+  "zh": "杀生",
+  "pages": [
+   127,
+   129,
+   139,
+   147
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pādakacatutthajjhāna",
+  "zh": "基础第四禅",
+  "pages": [
+   74
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pādakajjhāna",
+  "zh": "基础禅",
+  "pages": [
+   50,
+   55
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pādakapañcamajjhānavīthi",
+  "zh": "基础第五禅心路",
+  "pages": [
+   48
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pāramī",
+  "zh": "巴拉密",
+  "pages": [
+   106,
+   134,
+   174,
+   180
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pārājika",
+  "zh": "巴拉基咖",
+  "pages": [
+   79
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Pāḷi",
+  "zh": "巴利",
+  "pages": [
+   7
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pitughāta",
+  "zh": "弑父",
+  "pages": [
+   139
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pittenamaraṇa",
+  "zh": "胆病死",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pipāsāyamaraṇa",
+  "zh": "渴死",
+  "pages": [
+   173
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pisāca",
+  "zh": "妖魔鬼怪",
+  "pages": [
+   122
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pisuṇavācā",
+  "zh": "离间语",
+  "pages": [
+   127,
+   129,
+   147
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "puggala",
+  "zh": "人",
+  "pages": [
+   75,
+   78
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "puggalajjhāsaya",
+  "zh": "个体意愿",
+  "pages": [
+   55
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Puggalapaññatti",
+  "zh": "人施设",
+  "pages": [
+   7
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "puggalabheda",
+  "zh": "依人分类",
+  "pages": [
+   5,
+   12,
+   74,
+   75
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "puñña",
+  "zh": "福",
+  "pages": [
+   129,
+   131,
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "puññakiriyāvatthu",
+  "zh": "福事",
+  "pages": [
+   148,
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "puthujjana",
+  "zh": "凡夫",
+  "pages": [
+   26,
+   38,
+   60,
+   66,
+   75,
+   76,
+   92,
+   93,
+   172
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pubba",
+  "zh": "前心",
+  "pages": [
+   12
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pubbakicca",
+  "zh": "前行",
+  "pages": [
+   53
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pubbacetanā",
+  "zh": "前思",
+  "pages": [
+   151
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Pubbavideha",
+  "zh": "东胜神洲",
+  "pages": [
+   123
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pubbāparaniyāmitaṃ",
+  "zh": "前后之定律",
+  "pages": [
+   11,
+   12
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pubbenivāsānussatiñāṇa",
+  "zh": "宿住随念智",
+  "pages": [
+   50
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pubbe ananussutesu dhammesu cakkhuṃ udapādi",
+  "zh": "现起未曾闻的法眼",
+  "pages": [
+   42
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "pubbe ca katapuññatā",
+  "zh": "宿曾修福",
+  "pages": [
+   31
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "purejātasatti",
+  "zh": "前生力",
+  "pages": [
+   35
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Pūtigūtha",
+  "zh": "腐粪地狱",
+  "pages": [
+   94,
+   99
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "peta",
+  "zh": "鬼",
+  "pages": [
+   99
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "petāsura",
+  "zh": "鬼阿修罗",
+  "pages": [
+   99,
+   102
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pettivisaya",
+  "zh": "鬼界",
+  "pages": [
+   92,
+   93
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "pharusavācā",
+  "zh": "粗恶语",
+  "pages": [
+   127,
+   129,
+   147
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "phalacitta",
+  "zh": "果心",
+  "pages": [
+   69,
+   70
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "phalañāṇa",
+  "zh": "果智",
+  "pages": [
+   173
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "phalaṭṭhapuggala",
+  "zh": "果圣者",
+  "pages": [
+   26,
+   38,
+   76,
+   77
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "phalattaya",
+  "zh": "三果",
+  "pages": [
+   56
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "phalasamāpatti",
+  "zh": "果定",
+  "pages": [
+   52,
+   55,
+   67,
+   70,
+   109
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "phalasamāpattivīthi",
+  "zh": "入果定心路",
+  "pages": [
+   48
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "phalūpacāra",
+  "zh": "借果以喻因",
+  "pages": [
+   142
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "phoṭṭhabbārammaṇa",
+  "zh": "触所缘",
+  "pages": [
+   15,
+   21
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Bakabrahma",
+  "zh": "跋迦梵天",
+  "pages": [
+   175
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Bimbisāra",
+  "zh": "宾比娑罗",
+  "pages": [
+   136,
+   137,
+   175
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bījaniyāma",
+  "zh": "种子定律",
+  "pages": [
+   13
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Buddhaghosa",
+  "zh": "佛音尊者",
+  "pages": [
+   7
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Buddhavaṃsaṭṭhakathā",
+  "zh": "佛史义注",
+  "pages": [
+   103
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "budha",
+  "zh": "智者",
+  "pages": [
+   164,
+   165
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bojjhaṅgupekkhā",
+  "zh": "觉支舍",
+  "pages": [
+   189
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "byāpāda",
+  "zh": "嗔恚",
+  "pages": [
+   127,
+   129,
+   139,
+   147
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Brahmajālasutta",
+  "zh": "梵网经",
+  "pages": [
+   107
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Brahmapārisajja",
+  "zh": "梵众天",
+  "pages": [
+   92,
+   107,
+   128,
+   131,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Brahmapurohita",
+  "zh": "梵辅天",
+  "pages": [
+   92,
+   107,
+   128,
+   131,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "brahmavihāra",
+  "zh": "梵住法",
+  "pages": [
+   126
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "brahmavihārupekkhā",
+  "zh": "梵住舍",
+  "pages": [
+   189
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "brahmā",
+  "zh": "梵天",
+  "pages": [
+   95,
+   107
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhagavant",
+  "zh": "世尊",
+  "pages": [
+   5
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "bhaṅga",
+  "zh": "灭",
+  "pages": [
+   18,
+   19
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhaṅgakkhaṇa",
+  "zh": "灭刹那",
+  "pages": [
+   35
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "bhaddakappa",
+  "zh": "贤劫",
+  "pages": [
+   125
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhayatupaṭṭhānañāṇa",
+  "zh": "悚惧智",
+  "pages": [
+   54
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "bhavagga",
+  "zh": "最高生命",
+  "pages": [
+   172
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhavaṅga",
+  "zh": "有分",
+  "pages": [
+   17,
+   18,
+   24,
+   26,
+   27,
+   60,
+   91,
+   111,
+   113,
+   155,
+   163,
+   167
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhavaṅgakicca",
+  "zh": "紧急有分",
+  "pages": [
+   68
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "bhavaṅgacalana",
+  "zh": "有分波动",
+  "pages": [
+   17,
+   18,
+   24,
+   27,
+   30,
+   37,
+   62,
+   68
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhavaṅgantarita",
+  "zh": "间隔有分",
+  "pages": [
+   90
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "bhavaṅgapāta",
+  "zh": "落入有分",
+  "pages": [
+   17,
+   18,
+   22,
+   59,
+   60,
+   70
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "bhavaṅgapāto",
+  "zh": "落入有分",
+  "pages": [
+   32
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhavaṅgamanodvāra",
+  "zh": "有分意门",
+  "pages": [
+   17
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "bhavaṅgasantati",
+  "zh": "有分流",
+  "pages": [
+   163,
+   165
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhavaṅgasota",
+  "zh": "有分流",
+  "pages": [
+   17,
+   18,
+   24,
+   69,
+   70
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhavaṅgupaccheda",
+  "zh": "有分断",
+  "pages": [
+   22,
+   24,
+   27,
+   37,
+   38,
+   62,
+   68
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhavanikantilobhajavana",
+  "zh": "希求生命的贪速行",
+  "pages": [
+   27,
+   28
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "bhāvanā",
+  "zh": "修习",
+  "pages": [
+   127,
+   130,
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhāvanāmaya",
+  "zh": "修习所成",
+  "pages": [
+   127,
+   128,
+   130,
+   157
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhāvanāmayakamma",
+  "zh": "修习业",
+  "pages": [
+   155
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "bhāvarūpa",
+  "zh": "性色",
+  "pages": [
+   137
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhikkhu",
+  "zh": "比库",
+  "pages": [
+   79
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhikkhunī",
+  "zh": "比库尼",
+  "pages": [
+   78
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "bhummadeva",
+  "zh": "地居天",
+  "pages": [
+   55,
+   105,
+   106,
+   124,
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhummassita",
+  "zh": "寄居天",
+  "pages": [
+   111,
+   113,
+   115
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhūtagāmasikkhāpada",
+  "zh": "植物学处",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhūmaṭṭhaka",
+  "zh": "位于地面的",
+  "pages": [
+   106
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhūmi",
+  "zh": "地",
+  "pages": [
+   97,
+   99
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhūmicatukka",
+  "zh": "四地",
+  "pages": [
+   6
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Bhūmicatukkaṃ",
+  "zh": "四地",
+  "pages": [
+   92
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhūmipuggalabhedena",
+  "zh": "依地人",
+  "pages": [
+   11,
+   12
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bhūmivibhāga",
+  "zh": "依地分别",
+  "pages": [
+   5,
+   12,
+   82
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "bhūmisīsa",
+  "zh": "三顶地",
+  "pages": [
+   172
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "bheda",
+  "zh": "分类",
+  "pages": [
+   75
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "maggakusalakamma",
+  "zh": "道善业",
+  "pages": [
+   157
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "maggacetanā",
+  "zh": "道思",
+  "pages": [
+   136
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "maggajavana",
+  "zh": "道速行",
+  "pages": [
+   74
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "maggañāṇa",
+  "zh": "道智",
+  "pages": [
+   52,
+   173
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "maggaṭṭha",
+  "zh": "道圣者",
+  "pages": [
+   50,
+   69,
+   76,
+   77,
+   80
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "maggavīthi",
+  "zh": "道心路",
+  "pages": [
+   71
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "maggasamaṅgī",
+  "zh": "道众生",
+  "pages": [
+   179
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "maggānantaraphala",
+  "zh": "道无间果",
+  "pages": [
+   72
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "magguppāda",
+  "zh": "道生起",
+  "pages": [
+   69,
+   70
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Magha",
+  "zh": "马卡",
+  "pages": [
+   104,
+   106
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "majjadāna",
+  "zh": "酒施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "majjhima",
+  "zh": "中等",
+  "pages": [
+   128,
+   131,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "majjhimadāna",
+  "zh": "中等布施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Majjhimabhāṇakatthera",
+  "zh": "持中部长老",
+  "pages": [
+   33
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "majjhimamaggaṭṭha",
+  "zh": "中间道者",
+  "pages": [
+   76
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "majjhimāyuka",
+  "zh": "中寿",
+  "pages": [
+   34,
+   35
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Maṇimañjū",
+  "zh": "庄严宝珠",
+  "pages": [
+   121,
+   176
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "maṇḍakappa",
+  "zh": "精髓劫",
+  "pages": [
+   125
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "manasikāra",
+  "zh": "作意",
+  "pages": [
+   17,
+   21,
+   38
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Manu",
+  "zh": "马傉",
+  "pages": [
+   104
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "manussa",
+  "zh": "人",
+  "pages": [
+   92,
+   104
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "manokamma",
+  "zh": "意业",
+  "pages": [
+   127,
+   128,
+   129,
+   130,
+   157
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "manoduccarita",
+  "zh": "意恶行",
+  "pages": [
+   146
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "manodvāra",
+  "zh": "意门",
+  "pages": [
+   30,
+   63,
+   128,
+   130,
+   163,
+   169
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "manodvāramaraṇāsannavīthi",
+  "zh": "意门临死心路",
+  "pages": [
+   39,
+   40
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "manodvāravīthi",
+  "zh": "意门心路",
+  "pages": [
+   5,
+   14,
+   26,
+   37
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Manodvāravīthi parittajavanavāro",
+  "zh": "意门心路弱（欲界）速行时分",
+  "pages": [
+   36
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "manodvārāvajjana",
+  "zh": "意门转向",
+  "pages": [
+   27,
+   28,
+   37,
+   63,
+   72,
+   191
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "manodvāre pana uppādakkhaṇepi āpātamāgacchati",
+  "zh": "在意门，生起的刹那，即达到呈现",
+  "pages": [
+   43
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "manodvāre vīthicittappavattinayo",
+  "zh": "意门路心生起法",
+  "pages": [
+   56
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "manodhātu",
+  "zh": "意界",
+  "pages": [
+   15,
+   38,
+   72
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "manopadosika",
+  "zh": "意愤天",
+  "pages": [
+   124,
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "manoviññāṇa",
+  "zh": "意识",
+  "pages": [
+   14,
+   15
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "manoviññāṇavīthi",
+  "zh": "意识心路",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "mandapañña",
+  "zh": "钝慧",
+  "pages": [
+   70,
+   71,
+   72
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "mandapaññapuggala",
+  "zh": "钝慧者",
+  "pages": [
+   46,
+   47
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "mandappavatti",
+  "zh": "虚弱",
+  "pages": [
+   69,
+   70,
+   73
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "mandāyuka",
+  "zh": "短寿",
+  "pages": [
+   34,
+   35
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "mamma",
+  "zh": "口吃",
+  "pages": [
+   117
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "maraṇa",
+  "zh": "死亡",
+  "pages": [
+   155
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "maraṇakāla",
+  "zh": "临死时",
+  "pages": [
+   69,
+   70,
+   162,
+   176
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "maraṇāsannajavana",
+  "zh": "临死速行",
+  "pages": [
+   27,
+   40,
+   140,
+   141,
+   168
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "maraṇāsannavīthi",
+  "zh": "临死心路",
+  "pages": [
+   62,
+   163,
+   167
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "maraṇuppatti",
+  "zh": "死亡生起",
+  "pages": [
+   162,
+   164
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Mahagandhayon Sayadaw (缅)",
+  "zh": "马哈甘达勇西亚多",
+  "pages": [
+   8,
+   9,
+   27,
+   35,
+   197
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahaggata",
+  "zh": "广大",
+  "pages": [
+   39,
+   45,
+   129,
+   131,
+   163,
+   170
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "mahaggataappanājavanavāra",
+  "zh": "广大安止速行时分",
+  "pages": [
+   46
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahaggatakamma",
+  "zh": "广大业",
+  "pages": [
+   145,
+   155
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahaggatakiriyā",
+  "zh": "广大唯作",
+  "pages": [
+   56,
+   57,
+   84
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahaggatakusala",
+  "zh": "广大善",
+  "pages": [
+   56,
+   57,
+   84
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahaggatajavana",
+  "zh": "广大速行",
+  "pages": [
+   67,
+   69,
+   70
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahaggatalokuttaracitta",
+  "zh": "广大与出世间心",
+  "pages": [
+   185,
+   186
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahaggatavipāka",
+  "zh": "广大果报",
+  "pages": [
+   77,
+   88
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahaggatārammaṇa",
+  "zh": "广大所缘",
+  "pages": [
+   62,
+   67
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahanta",
+  "zh": "大所缘",
+  "pages": [
+   14,
+   16,
+   19,
+   33,
+   35,
+   63,
+   67
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "mahākappa",
+  "zh": "大劫",
+  "pages": [
+   95,
+   117
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "mahākiriyajavana",
+  "zh": "大唯作速行",
+  "pages": [
+   25,
+   39,
+   40
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahākiriyā",
+  "zh": "大唯作",
+  "pages": [
+   61,
+   191
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahākusala",
+  "zh": "大善",
+  "pages": [
+   60,
+   61
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahākusalajavana",
+  "zh": "大善速行",
+  "pages": [
+   25,
+   27,
+   40
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahākhaṇa",
+  "zh": "大刹那",
+  "pages": [
+   19,
+   20
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Mahāṭīkā",
+  "zh": "大疏钞",
+  "pages": [
+   35,
+   70
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Mahātāpana",
+  "zh": "大灼热地狱",
+  "pages": [
+   94,
+   98
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Mahādatta",
+  "zh": "大授长老",
+  "pages": [
+   155
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Mahāparinibbānasutta",
+  "zh": "大般涅槃经",
+  "pages": [
+   177
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahāpurisa ariyapuggala",
+  "zh": "大人物圣者",
+  "pages": [
+   81
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Mahābrahmā",
+  "zh": "大梵天",
+  "pages": [
+   92,
+   107,
+   128,
+   131,
+   156,
+   161
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "mahābhūta",
+  "zh": "大种",
+  "pages": [
+   28
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Mahāmoggallāna",
+  "zh": "大目犍连",
+  "pages": [
+   71,
+   136,
+   138
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Mahāroruva",
+  "zh": "大号叫地狱",
+  "pages": [
+   94,
+   98
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "mahāvipāka",
+  "zh": "大果报",
+  "pages": [
+   27,
+   60,
+   61,
+   111,
+   113,
+   115,
+   128,
+   130,
+   177,
+   178
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mahāvipākacitta",
+  "zh": "大果报心",
+  "pages": [
+   96
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Mahāvihāra",
+  "zh": "大寺",
+  "pages": [
+   7
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mātughāta",
+  "zh": "弑母",
+  "pages": [
+   139
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mānatta",
+  "zh": "马那答",
+  "pages": [
+   79
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "micchādiṭṭhi",
+  "zh": "邪见",
+  "pages": [
+   127,
+   129,
+   147,
+   157
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "micchādhimokkha",
+  "zh": "邪胜解",
+  "pages": [
+   195
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "middha",
+  "zh": "睡眠",
+  "pages": [
+   195
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mucchākāla",
+  "zh": "晕倒时",
+  "pages": [
+   71,
+   73
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "muñcacetanā",
+  "zh": "舍时思",
+  "pages": [
+   151
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "mudutā",
+  "zh": "柔软性",
+  "pages": [
+   43
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "musāvāda",
+  "zh": "妄语",
+  "pages": [
+   127,
+   129,
+   147
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mūla",
+  "zh": "根本",
+  "pages": [
+   7
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Mūlaṭīkā",
+  "zh": "根本复注",
+  "pages": [
+   33,
+   36,
+   62,
+   73
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "mettāpubbabhāgacitta",
+  "zh": "慈前分心",
+  "pages": [
+   115
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Metteyya",
+  "zh": "弥勒",
+  "pages": [
+   125
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "moghavāra",
+  "zh": "无效时分",
+  "pages": [
+   18,
+   19,
+   22,
+   34
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "mohacetasika",
+  "zh": "痴心所",
+  "pages": [
+   147
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "mohajavana",
+  "zh": "痴速行",
+  "pages": [
+   40
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "yathābhinīhāravasena",
+  "zh": "以导向各种[止观修习心]",
+  "pages": [
+   45
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "yathārahaṃ",
+  "zh": "依情况",
+  "pages": [
+   162,
+   176
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "yathāsakaṃ",
+  "zh": "依各自",
+  "pages": [
+   75
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "yadāsannaṁ",
+  "zh": "凡临死时能再忆起、造作的业",
+  "pages": [
+   140
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "yabbahulaṁ",
+  "zh": "凡多做",
+  "pages": [
+   140
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Yama",
+  "zh": "阎魔王",
+  "pages": [
+   100
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Yamaka",
+  "zh": "双[论]",
+  "pages": [
+   7
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "yamakapāṭihāriya",
+  "zh": "双神变",
+  "pages": [
+   69,
+   70,
+   71
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Yamarājā",
+  "zh": "阎魔王",
+  "pages": [
+   100
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "yasa",
+  "zh": "随从",
+  "pages": [
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "yaṃkiñci laddhapaccayaṃ",
+  "zh": "任一个获得因缘",
+  "pages": [
+   32
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "yāma",
+  "zh": "夜摩天",
+  "pages": [
+   92,
+   104
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "yāvatāyuka",
+  "zh": "直至寿终",
+  "pages": [
+   90
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "yojana",
+  "zh": "由旬",
+  "pages": [
+   94
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "yonisomanasikāra",
+  "zh": "如理作意",
+  "pages": [
+   24,
+   25,
+   31,
+   32,
+   150
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "rakkhasa",
+  "zh": "罗刹",
+  "pages": [
+   105
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Ratanasutta",
+  "zh": "宝经",
+  "pages": [
+   118
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "rasārammaṇa",
+  "zh": "味所缘",
+  "pages": [
+   15,
+   21,
+   148
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "rukkhadevatā",
+  "zh": "树居天",
+  "pages": [
+   106
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "ruci",
+  "zh": "喜好",
+  "pages": [
+   41
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "rūpa",
+  "zh": "色",
+  "pages": [
+   6,
+   8
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "rūpakalāpa",
+  "zh": "色聚",
+  "pages": [
+   20,
+   29,
+   36
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "rūpadhamma",
+  "zh": "色法",
+  "pages": [
+   17,
+   18,
+   20
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "rūpapaṭisandhi",
+  "zh": "色结生",
+  "pages": [
+   116
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "rūpapaṭisandhika",
+  "zh": "色结生者",
+  "pages": [
+   163,
+   164,
+   170
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "rūpabhavaṅga",
+  "zh": "色有分",
+  "pages": [
+   178
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "rūpabhūmi",
+  "zh": "色地",
+  "pages": [
+   25,
+   26,
+   40
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "rūpaloka",
+  "zh": "色世间",
+  "pages": [
+   128,
+   130
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Rūpasaṅgahavibhāga",
+  "zh": "色章",
+  "pages": [
+   36,
+   43
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "rūpāyu",
+  "zh": "色寿",
+  "pages": [
+   20,
+   22
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "rūpārammaṇa",
+  "zh": "色所缘",
+  "pages": [
+   15,
+   18,
+   90
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "rūpārūpapaṭisandhika",
+  "zh": "色非色结生者",
+  "pages": [
+   163,
+   165,
+   170
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "rūpāvacarakusala",
+  "zh": "色界善业",
+  "pages": [
+   127,
+   131,
+   132
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "rūpāvacarapaṭisandhi",
+  "zh": "色界结生",
+  "pages": [
+   111,
+   112,
+   114,
+   116,
+   163,
+   164
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "rūpāvacarabhūmi",
+  "zh": "色界",
+  "pages": [
+   6,
+   82,
+   92,
+   93,
+   107
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "rūpāvacaravipākacitta",
+  "zh": "色界果报心",
+  "pages": [
+   85,
+   89
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Roruva",
+  "zh": "号叫地狱",
+  "pages": [
+   94,
+   98
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Rohiṇī",
+  "zh": "罗希尼",
+  "pages": [
+   138
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "lakkhaṇarūpa",
+  "zh": "相色",
+  "pages": [
+   18,
+   20,
+   38,
+   43,
+   176
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Lakkhaṇasaṃyutta",
+  "zh": "相相应",
+  "pages": [
+   102
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "lahutā",
+  "zh": "轻快性",
+  "pages": [
+   20,
+   43
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Ledi Sayadaw (缅)",
+  "zh": "雷迪大长老",
+  "pages": [
+   8,
+   180
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "lokadhammatā",
+  "zh": "世间法则",
+  "pages": [
+   125
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "lokantarikaniraya",
+  "zh": "世间地狱",
+  "pages": [
+   103
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "lokabyūha",
+  "zh": "警世神",
+  "pages": [
+   125
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "lokiyakusala",
+  "zh": "世间善",
+  "pages": [
+   80
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "lokiyappanāvīthi",
+  "zh": "世间安止心路",
+  "pages": [
+   55
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "lokuttara",
+  "zh": "出世间",
+  "pages": [
+   45
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "lokuttarakusala",
+  "zh": "出世间善",
+  "pages": [
+   80
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "lokuttarajavana",
+  "zh": "出世间速行",
+  "pages": [
+   75,
+   81
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "lokuttarappanājavanavāra",
+  "zh": "出世间安止速行时分",
+  "pages": [
+   47
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "lokuttarappanāvīthi",
+  "zh": "出世间安止心路",
+  "pages": [
+   55
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "lokuttarabhūmi",
+  "zh": "出世间地",
+  "pages": [
+   142
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "lobhacetasika",
+  "zh": "贪心所",
+  "pages": [
+   147
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "lobhajavana",
+  "zh": "贪速行",
+  "pages": [
+   40
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "lobhamūla",
+  "zh": "贪根",
+  "pages": [
+   127,
+   129,
+   185,
+   191
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "lobhamūlacitta",
+  "zh": "贪根心",
+  "pages": [
+   81
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Losakatissa",
+  "zh": "卢舍迦帝须",
+  "pages": [
+   179
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "lohakumbhī",
+  "zh": "铁浆锅",
+  "pages": [
+   102
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "lohituppāda",
+  "zh": "出佛身血",
+  "pages": [
+   139
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vacanattha",
+  "zh": "语义",
+  "pages": [
+   32
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vacīkamma",
+  "zh": "语业",
+  "pages": [
+   127,
+   129,
+   130
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vacīduccarita",
+  "zh": "语恶行",
+  "pages": [
+   146
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vacīdvāra",
+  "zh": "语门",
+  "pages": [
+   127,
+   129,
+   146
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vacīviññatti",
+  "zh": "语表",
+  "pages": [
+   20,
+   127,
+   129
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vaḍḍhanakappa",
+  "zh": "增劫",
+  "pages": [
+   117
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vatthu",
+  "zh": "依处",
+  "pages": [
+   13,
+   15,
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vatthudāna",
+  "zh": "物布施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vatthunissayasatti",
+  "zh": "依处依止力",
+  "pages": [
+   35
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vatthupurejātanissayapaccaya",
+  "zh": "依处前生依止缘",
+  "pages": [
+   36
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vatthurūpa",
+  "zh": "依处色",
+  "pages": [
+   73
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vatthusaṅgaha",
+  "zh": "依处概要",
+  "pages": [
+   184
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vatthusampadā",
+  "zh": "对象具足",
+  "pages": [
+   143
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "varakappa",
+  "zh": "最胜劫",
+  "pages": [
+   125
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vātenamaraṇa",
+  "zh": "风病死",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vāyodhātu",
+  "zh": "风界",
+  "pages": [
+   21
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vāyosaṃvaṭṭa",
+  "zh": "风坏劫",
+  "pages": [
+   118
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vāra",
+  "zh": "时分",
+  "pages": [
+   18
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vārittasīla",
+  "zh": "止持戒",
+  "pages": [
+   161
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vicāra",
+  "zh": "伺",
+  "pages": [
+   17,
+   42
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vicikicchājavana",
+  "zh": "疑速行",
+  "pages": [
+   75
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "viññattirūpa",
+  "zh": "表色",
+  "pages": [
+   18,
+   20,
+   38,
+   43,
+   155
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "viññāṇa",
+  "zh": "识",
+  "pages": [
+   13,
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Viññāṇachakkaṃ",
+  "zh": "六识",
+  "pages": [
+   5,
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "viññāṇañcāyatana",
+  "zh": "识无边处",
+  "pages": [
+   87,
+   89,
+   171,
+   183
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "viññāṇañcāyatanabhūmi",
+  "zh": "识无边处地",
+  "pages": [
+   92,
+   93,
+   109
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "viññāṇaṭṭhiti",
+  "zh": "识住",
+  "pages": [
+   121
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vitakka",
+  "zh": "寻",
+  "pages": [
+   17,
+   42
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Vinayapiṭaka",
+  "zh": "律藏",
+  "pages": [
+   7
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vinipātikāsura",
+  "zh": "堕苦趣阿修罗",
+  "pages": [
+   103,
+   105,
+   111,
+   113,
+   115,
+   124,
+   154
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vipassanā",
+  "zh": "观",
+  "pages": [
+   52,
+   54
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vipassanāñāṇa",
+  "zh": "观智",
+  "pages": [
+   68,
+   151,
+   153,
+   173
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vipassanupekkhā",
+  "zh": "观舍",
+  "pages": [
+   189
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vipākacitta",
+  "zh": "果报心",
+  "pages": [
+   96
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vipākaniyama",
+  "zh": "果报确定",
+  "pages": [
+   60,
+   61
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vipākantarāya",
+  "zh": "果报障",
+  "pages": [
+   79
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vipākantarāyika",
+  "zh": "果报障",
+  "pages": [
+   54
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vipākāvaraṇa",
+  "zh": "果报障",
+  "pages": [
+   79
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vippaṭisārakukkucca",
+  "zh": "后悔懊恼",
+  "pages": [
+   140
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Vibhaṅga",
+  "zh": "分别",
+  "pages": [
+   7
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Vibhaṅgaṭṭhakathā",
+  "zh": "分别义注",
+  "pages": [
+   62
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Vibhaṅgamūlaṭīkā",
+  "zh": "分别根本复注",
+  "pages": [
+   7
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vibhūta",
+  "zh": "清晰所缘",
+  "pages": [
+   14,
+   16,
+   59,
+   60
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vibhūtamārammaṇaṃ",
+  "zh": "清晰的所缘",
+  "pages": [
+   36,
+   37
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vimāna",
+  "zh": "天宫",
+  "pages": [
+   103
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "viraticetasika",
+  "zh": "离心所",
+  "pages": [
+   149
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "viriyupekkhā",
+  "zh": "精进舍",
+  "pages": [
+   189
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Virūpakkha",
+  "zh": "广目天王",
+  "pages": [
+   105
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Virūḷhaka",
+  "zh": "增长天王",
+  "pages": [
+   105
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vivaṭṭakappa",
+  "zh": "成劫",
+  "pages": [
+   117
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vivaṭṭaṭṭhāyīkappa",
+  "zh": "成住劫",
+  "pages": [
+   118,
+   125
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "visaññibhūtakāla",
+  "zh": "昏迷时",
+  "pages": [
+   71
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "visadāna",
+  "zh": "毒药施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "visamenamaraṇa",
+  "zh": "不调和而死",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "visaya",
+  "zh": "所缘",
+  "pages": [
+   15
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "visayakhetta",
+  "zh": "所缘范围",
+  "pages": [
+   118
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "visayappavatti",
+  "zh": "所缘现起",
+  "pages": [
+   13,
+   15
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "visayādhimattakhatā",
+  "zh": "所缘的强烈",
+  "pages": [
+   29,
+   30
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Visākhā",
+  "zh": "维沙卡",
+  "pages": [
+   175
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Visuddhimagga",
+  "zh": "清净道论",
+  "pages": [
+   8,
+   79,
+   126
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "visenamaraṇa",
+  "zh": "中毒死",
+  "pages": [
+   173
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vītarāga",
+  "zh": "离染者",
+  "pages": [
+   56
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vīthi",
+  "zh": "心路",
+  "pages": [
+   5,
+   11
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vīthicitta",
+  "zh": "路心",
+  "pages": [
+   15,
+   18,
+   24,
+   25,
+   26,
+   34,
+   82,
+   88,
+   91,
+   163,
+   165
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Vīthicittāni tīṇeva, cittuppādā daseritā",
+  "zh": "路心唯三种，心生说为十",
+  "pages": [
+   36,
+   37
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vīthicittuppāda",
+  "zh": "路心生起",
+  "pages": [
+   17,
+   18
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Vīthichakkaṃ",
+  "zh": "六心路",
+  "pages": [
+   5,
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vīthiniyama",
+  "zh": "心路规律",
+  "pages": [
+   69,
+   70
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vīthipatirūpaka",
+  "zh": "伪心路",
+  "pages": [
+   34
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Vīthiparicchedo",
+  "zh": "心路章",
+  "pages": [
+   11,
+   12
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Vīthibhedo",
+  "zh": "心路类别",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vīthimutta",
+  "zh": "离心路",
+  "pages": [
+   13
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vīthimuttacitta",
+  "zh": "离路心",
+  "pages": [
+   15,
+   16,
+   24,
+   83,
+   91,
+   92
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Vīthimuttapariccheda",
+  "zh": "离心路章",
+  "pages": [
+   12,
+   39
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vīthimuttasaṅgaha",
+  "zh": "离路概要",
+  "pages": [
+   13,
+   91,
+   92,
+   131
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vīthimuttasaṅgahavibhāga",
+  "zh": "离心路概要分别",
+  "pages": [
+   165,
+   180
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Vīthisaṅgaha",
+  "zh": "心路概要",
+  "pages": [
+   13,
+   19,
+   37,
+   60,
+   70,
+   75,
+   82
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vīthisaṅgahavibhāga",
+  "zh": "心路概要分别",
+  "pages": [
+   90
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Vīthi Paṭṭhān Tidhamma (缅)",
+  "zh": "心路和发趣三法要",
+  "pages": [
+   35,
+   55
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vuṭṭhānakāla",
+  "zh": "出起时",
+  "pages": [
+   69,
+   70
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vedanā",
+  "zh": "受",
+  "pages": [
+   185
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vedanānupekkhā",
+  "zh": "受舍",
+  "pages": [
+   189
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Vedanāvibhaṅga",
+  "zh": "受分别",
+  "pages": [
+   187
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Vedanāsaṅgaha",
+  "zh": "受概要",
+  "pages": [
+   6,
+   184,
+   185
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "veneyya",
+  "zh": "易教",
+  "pages": [
+   28
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vepacitti",
+  "zh": "维婆质多",
+  "pages": [
+   103
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vemānika",
+  "zh": "有天宫的",
+  "pages": [
+   103
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vemānikapeta",
+  "zh": "天宫鬼",
+  "pages": [
+   103,
+   122,
+   124
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vemānikapetarāja",
+  "zh": "天宫鬼王",
+  "pages": [
+   100
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "veyyāvacca",
+  "zh": "服务",
+  "pages": [
+   127,
+   130,
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Vehapphala",
+  "zh": "广果天",
+  "pages": [
+   76,
+   89,
+   92,
+   108,
+   129,
+   131,
+   156,
+   172
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "vokāra",
+  "zh": "蕴",
+  "pages": [
+   120
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "voṭṭhabbana",
+  "zh": "确定",
+  "pages": [
+   25,
+   26,
+   62
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "voṭṭhabbanacitta",
+  "zh": "确定心",
+  "pages": [
+   17,
+   18
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "voṭṭhabbanavāra",
+  "zh": "确定时分",
+  "pages": [
+   18,
+   19,
+   22,
+   34
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "vodāna",
+  "zh": "净化",
+  "pages": [
+   47,
+   52,
+   67,
+   78
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sakadāgāmiphala",
+  "zh": "一来果",
+  "pages": [
+   57
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sakadāgāmiphalaṭṭha",
+  "zh": "一来果者",
+  "pages": [
+   69,
+   76,
+   77,
+   78
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sakadāgāmimagga",
+  "zh": "一来道",
+  "pages": [
+   57
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sakadāgāmimaggaṭṭha",
+  "zh": "一来道者",
+  "pages": [
+   76,
+   77
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sakadāgāmī",
+  "zh": "一来",
+  "pages": [
+   28,
+   92,
+   93,
+   172
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Sakiṃ dve vā tadālambaṃ, sakimāvajjanādayo",
+  "zh": "彼所缘生起1或2次，转向等只生起1次",
+  "pages": [
+   33
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Sakkapañhasutta",
+  "zh": "帝释所问经",
+  "pages": [
+   137
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Sakka devarāja",
+  "zh": "帝释天王",
+  "pages": [
+   175
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sakkāya",
+  "zh": "有身",
+  "pages": [
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sakkāyadiṭṭhi",
+  "zh": "有身见",
+  "pages": [
+   157
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "saṅkhalikadāna",
+  "zh": "镣铐施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "saṅkhāra",
+  "zh": "行",
+  "pages": [
+   121,
+   163,
+   168
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "saṅkhāragataṁ",
+  "zh": "行法",
+  "pages": [
+   126
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "saṅkhārupekkhā",
+  "zh": "行舍",
+  "pages": [
+   189
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Saṅgahabhāsāṭīkā",
+  "zh": "概要缅疏",
+  "pages": [
+   8,
+   15,
+   20,
+   33,
+   36,
+   39,
+   61,
+   62,
+   70,
+   99,
+   100,
+   121,
+   162,
+   176,
+   187,
+   188,
+   197
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "saṅghabheda",
+  "zh": "分裂僧团",
+  "pages": [
+   139,
+   140
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Saṅghāta",
+  "zh": "碾压地狱",
+  "pages": [
+   94,
+   98
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "saṅghādisesa",
+  "zh": "桑喀地谢沙",
+  "pages": [
+   79
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Sañjīva",
+  "zh": "复活地狱",
+  "pages": [
+   94,
+   98
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "saññāvipallāsa",
+  "zh": "想颠倒",
+  "pages": [
+   64
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "saññāvirāga",
+  "zh": "厌想",
+  "pages": [
+   129,
+   131
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "saññāvirāgabhāvanā",
+  "zh": "厌弃想修习",
+  "pages": [
+   156
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sattakkhattuṃ",
+  "zh": "七次",
+  "pages": [
+   69,
+   73
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sattāvāsa",
+  "zh": "有情居",
+  "pages": [
+   121,
+   122
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "satthādāna",
+  "zh": "武器施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "satthīhimaraṇa",
+  "zh": "兵刃死",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "saddārammaṇa",
+  "zh": "声所缘",
+  "pages": [
+   15,
+   21
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "saddhammassavana",
+  "zh": "听闻正法",
+  "pages": [
+   31
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "saddhā",
+  "zh": "信",
+  "pages": [
+   41
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "santati",
+  "zh": "色相续",
+  "pages": [
+   20,
+   58
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "santatipaññatti",
+  "zh": "相续概念",
+  "pages": [
+   178
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "santimārabbha",
+  "zh": "早已向往涅槃而住",
+  "pages": [
+   177
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "santīraṇa",
+  "zh": "推度",
+  "pages": [
+   25,
+   26,
+   59,
+   60,
+   67,
+   133
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "santīraṇacitta",
+  "zh": "推度心",
+  "pages": [
+   17,
+   18
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Santussita",
+  "zh": "喜足",
+  "pages": [
+   106
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sannipātenamaraṇa",
+  "zh": "综合症死",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sappurisupanissaya",
+  "zh": "依止善士",
+  "pages": [
+   31
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sabalasīla",
+  "zh": "斑块戒",
+  "pages": [
+   161
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sabbaññutañāṇa",
+  "zh": "一切知智",
+  "pages": [
+   118
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Sabbe saṅkhāra dukkhā",
+  "zh": "诸行皆苦",
+  "pages": [
+   187,
+   188
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sabhāva",
+  "zh": "自性",
+  "pages": [
+   64
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "samajjadāna",
+  "zh": "表演施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "samathakammaṭṭhāna",
+  "zh": "止业处",
+  "pages": [
+   52
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "samathavipassanā",
+  "zh": "止观",
+  "pages": [
+   46
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "samādhivipphariddhi",
+  "zh": "定遍满",
+  "pages": [
+   54
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "samāna",
+  "zh": "普遍观点",
+  "pages": [
+   66,
+   154
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "samāpajjanapuggala",
+  "zh": "入定者",
+  "pages": [
+   51
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "samāpatti",
+  "zh": "入定",
+  "pages": [
+   48
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "samāpattivīthi",
+  "zh": "入定心路",
+  "pages": [
+   47,
+   69,
+   70
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "samīpūpacāra",
+  "zh": "近喻",
+  "pages": [
+   176
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "samūhaggahaṇavāra",
+  "zh": "取组合时分",
+  "pages": [
+   44
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "samūhapaññatti",
+  "zh": "组合概念",
+  "pages": [
+   29
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sampaṭicchana",
+  "zh": "领受",
+  "pages": [
+   11,
+   12,
+   25,
+   26,
+   59,
+   60,
+   133,
+   191
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sampaṭicchanacitta",
+  "zh": "领受心",
+  "pages": [
+   17,
+   18
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sampatti",
+  "zh": "成就",
+  "pages": [
+   31
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sampayutta",
+  "zh": "相应",
+  "pages": [
+   120,
+   121
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sampayoganaya",
+  "zh": "相应理",
+  "pages": [
+   195
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "samphappalāpa",
+  "zh": "绮语",
+  "pages": [
+   127,
+   129,
+   147
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sammasitajjhāna",
+  "zh": "所善思禅",
+  "pages": [
+   55
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sammāājīva",
+  "zh": "正命",
+  "pages": [
+   149,
+   195
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sammākammanta",
+  "zh": "正业",
+  "pages": [
+   149,
+   195
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sammādiṭṭhi",
+  "zh": "正见",
+  "pages": [
+   149,
+   150
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sammāvācā",
+  "zh": "正语",
+  "pages": [
+   149
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sammāsambuddha",
+  "zh": "正自觉者",
+  "pages": [
+   5
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Sammohavinodanī",
+  "zh": "迷惑冰销",
+  "pages": [
+   7
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "savatthuka",
+  "zh": "有依处",
+  "pages": [
+   162,
+   164
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sasaṅkhāra",
+  "zh": "有行",
+  "pages": [
+   128,
+   130,
+   193
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sassatadiṭṭhi",
+  "zh": "常见",
+  "pages": [
+   178
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sahacaraṇanaya",
+  "zh": "俱行法",
+  "pages": [
+   53
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sahetuka paṭisandhi",
+  "zh": "有因结生",
+  "pages": [
+   171
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "saṃvaṭṭa",
+  "zh": "坏劫",
+  "pages": [
+   117,
+   118
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "saṃvaṭṭaṭṭhāyīkappa",
+  "zh": "坏住劫",
+  "pages": [
+   117
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "saṃsāra",
+  "zh": "轮回",
+  "pages": [
+   173
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "saṃsedaja",
+  "zh": "湿生",
+  "pages": [
+   122
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Sāmaññaphalasutta",
+  "zh": "沙门果经",
+  "pages": [
+   136
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sāmaṇera",
+  "zh": "沙马内拉",
+  "pages": [
+   140
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Sāmāvatī",
+  "zh": "差摩娃帝",
+  "pages": [
+   136,
+   137
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sārakappa",
+  "zh": "精英劫",
+  "pages": [
+   125
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Sāratthadīpanīṭīkā",
+  "zh": "心义灯疏",
+  "pages": [
+   137
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sāramaṇḍakappa",
+  "zh": "精英精髓劫",
+  "pages": [
+   125
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Sāriputtatthera",
+  "zh": "舍利子尊者",
+  "pages": [
+   137
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sāvajjapakkhika",
+  "zh": "有过失的",
+  "pages": [
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sikkhāttaya",
+  "zh": "三学",
+  "pages": [
+   78
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sikkhāpada",
+  "zh": "学处",
+  "pages": [
+   54,
+   161
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Simbalidāya",
+  "zh": "木棉林地狱",
+  "pages": [
+   94,
+   99
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "siloka",
+  "zh": "名闻",
+  "pages": [
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sivika",
+  "zh": "棕榈树",
+  "pages": [
+   29
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sivikubbahana naya",
+  "zh": "抬棕榈树法",
+  "pages": [
+   29
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sīla",
+  "zh": "持戒",
+  "pages": [
+   127,
+   130,
+   150
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sīsa",
+  "zh": "顶",
+  "pages": [
+   172
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Sīhaḷapotthaka",
+  "zh": "兰卡版",
+  "pages": [
+   75
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sukha",
+  "zh": "乐",
+  "pages": [
+   185,
+   186
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sukhasantīraṇa",
+  "zh": "乐推度",
+  "pages": [
+   185,
+   191
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sukhasahagata",
+  "zh": "乐俱",
+  "pages": [
+   185,
+   186
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sukhāvedanā",
+  "zh": "乐受",
+  "pages": [
+   187
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sukhindriya",
+  "zh": "乐根",
+  "pages": [
+   186,
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sugati",
+  "zh": "善趣",
+  "pages": [
+   69,
+   75
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sugatiahetuka",
+  "zh": "善趣无因",
+  "pages": [
+   110
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sugatiahetukapaṭisandhika",
+  "zh": "善趣无因结生者",
+  "pages": [
+   26
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sugatiahetukapuggala",
+  "zh": "善趣无因者",
+  "pages": [
+   76,
+   77
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sugatiahetukasatta",
+  "zh": "善趣无因众生",
+  "pages": [
+   125
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sugatibhūmi",
+  "zh": "善趣地",
+  "pages": [
+   103
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sucarita",
+  "zh": "善行",
+  "pages": [
+   148,
+   149
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "suññakappa",
+  "zh": "空劫",
+  "pages": [
+   125
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "suta",
+  "zh": "闻",
+  "pages": [
+   41
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "suttantanaya",
+  "zh": "经教法",
+  "pages": [
+   122,
+   132,
+   133
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Suttantapiṭaka",
+  "zh": "经藏",
+  "pages": [
+   7
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Sudassa",
+  "zh": "善现天",
+  "pages": [
+   92,
+   108,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Sudassī",
+  "zh": "善见天",
+  "pages": [
+   92,
+   108,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Suddhāvāsa",
+  "zh": "净居天",
+  "pages": [
+   76,
+   81,
+   89,
+   92,
+   93,
+   108,
+   129,
+   131,
+   156,
+   172
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "suddhikamanodvāra",
+  "zh": "纯意门",
+  "pages": [
+   55
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "supinavīthi",
+  "zh": "做梦心路",
+  "pages": [
+   44
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Suppabuddha",
+  "zh": "善觉",
+  "pages": [
+   175
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Subrahmasuttaṭṭhakathā",
+  "zh": "善梵相应义注",
+  "pages": [
+   174
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Subrahmā",
+  "zh": "善梵",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "subha",
+  "zh": "华光",
+  "pages": [
+   107
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Subhakiṇha",
+  "zh": "彩华光天",
+  "pages": [
+   92,
+   107,
+   129,
+   131,
+   156
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "subhāsitavācā",
+  "zh": "善语",
+  "pages": [
+   195
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Sumaṅgalasāmi",
+  "zh": "善吉祥主尊者",
+  "pages": [
+   8
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Suyāma",
+  "zh": "须夜摩",
+  "pages": [
+   106
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sekkha",
+  "zh": "有学",
+  "pages": [
+   61,
+   66,
+   75,
+   78,
+   169
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sekkhapuggala",
+  "zh": "有学圣者",
+  "pages": [
+   45,
+   56
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "semhenamaraṇa",
+  "zh": "痰病死",
+  "pages": [
+   174
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Soṇatthera",
+  "zh": "索那尊者",
+  "pages": [
+   177
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sotadvāravīthi",
+  "zh": "耳门心路",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sotapasāda",
+  "zh": "耳净色",
+  "pages": [
+   21,
+   116
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sotaviññāṇa",
+  "zh": "耳识",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sotaviññāṇavīthi",
+  "zh": "耳识心路",
+  "pages": [
+   14
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "sotāpattiphala",
+  "zh": "入流果",
+  "pages": [
+   47,
+   159
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sotāpattiphalaṭṭha",
+  "zh": "入流果者",
+  "pages": [
+   69,
+   76,
+   77,
+   78
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sotāpattimagga",
+  "zh": "入流道",
+  "pages": [
+   47,
+   67
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sotāpattimaggaṭṭha",
+  "zh": "入流道者",
+  "pages": [
+   76,
+   77,
+   78
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sotāpattimaggavīthi",
+  "zh": "入流道心路",
+  "pages": [
+   47
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "sotāpanna",
+  "zh": "入流",
+  "pages": [
+   28,
+   92,
+   93,
+   102,
+   172
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "somanassa",
+  "zh": "悦",
+  "pages": [
+   185,
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "somanassapaṭisandhika",
+  "zh": "悦结生者",
+  "pages": [
+   59,
+   60,
+   62
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "somanassavedanā",
+  "zh": "悦受",
+  "pages": [
+   186
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "somanassasahagata",
+  "zh": "悦俱",
+  "pages": [
+   56,
+   57,
+   59,
+   60,
+   185,
+   186
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "somanassasahagatañāṇasampayutta",
+  "zh": "悦俱智相应",
+  "pages": [
+   121
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "somanassindriya",
+  "zh": "悦根",
+  "pages": [
+   188
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "hadayavatthu",
+  "zh": "心所依处色",
+  "pages": [
+   26,
+   28,
+   30,
+   88,
+   169
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "hasana",
+  "zh": "生笑",
+  "pages": [
+   60,
+   61,
+   82,
+   185,
+   191
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "hasituppādajavana",
+  "zh": "生笑速行",
+  "pages": [
+   25,
+   39
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "hiri",
+  "zh": "惭",
+  "pages": [
+   195
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "hīnadāna",
+  "zh": "低劣布施",
+  "pages": [
+   160
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "heṭṭhimaphalaṭṭha",
+  "zh": "低阶果者",
+  "pages": [
+   76,
+   80
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "heṭṭhimāriya",
+  "zh": "低阶圣者",
+  "pages": [
+   40
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "heṭṭhimāruppa",
+  "zh": "低阶无色",
+  "pages": [
+   82
+  ],
+  "pali_in_book": true
+ },
+ {
+  "pali": "Hetusaṅgaha",
+  "zh": "因概要",
+  "pages": [
+   184
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "Hsi Shwe Sayadaw (缅)",
+  "zh": "喜瑞西亚多",
+  "pages": [
+   197
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "",
+  "zh": "一生三共法",
+  "pages": [
+   120
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "",
+  "zh": "叶均",
+  "pages": [
+   197
+  ],
+  "pali_in_book": false
+ },
+ {
+  "pali": "",
+  "zh": "阿毗达摩概要精解",
+  "pages": [
+   197
+  ],
+  "pali_in_book": false
+ }
+]

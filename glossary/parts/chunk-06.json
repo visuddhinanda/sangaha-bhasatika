@@ -1,0 +1,1362 @@
+[
+ {
+  "pali": "",
+  "zh": "基础第四禅",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   74
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "禅支",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   74
+  ]
+ },
+ {
+  "pali": "Ādikammikapuggala",
+  "zh": "初修者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "首次证得某禅那者",
+  "pages": [
+   74
+  ]
+ },
+ {
+  "pali": "paṭhamakappanā",
+  "zh": "首次安止",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   74
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "重复缘",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   74
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "道速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   74
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "神通速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   74
+  ]
+ },
+ {
+  "pali": "puggalabheda",
+  "zh": "依人分类",
+  "zh_alt": [
+   "依人分析心"
+  ],
+  "category": "定律/理论",
+  "note": "按人阐释所得路心",
+  "pages": [
+   74,
+   75
+  ]
+ },
+ {
+  "pali": "puggala",
+  "zh": "人",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   75,
+   78
+  ]
+ },
+ {
+  "pali": "bheda",
+  "zh": "分类",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   75
+  ]
+ },
+ {
+  "pali": "duhetuka",
+  "zh": "二因者",
+  "zh_alt": [
+   "二因众生"
+  ],
+  "category": "人",
+  "note": "",
+  "pages": [
+   74,
+   75,
+   77,
+   78
+  ]
+ },
+ {
+  "pali": "ahetuka",
+  "zh": "无因者",
+  "zh_alt": [
+   "无因众生"
+  ],
+  "category": "人",
+  "note": "",
+  "pages": [
+   74,
+   75,
+   77
+  ]
+ },
+ {
+  "pali": "appanājavana",
+  "zh": "安止速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   74,
+   75
+  ]
+ },
+ {
+  "pali": "ñāṇasampayuttavipāka",
+  "zh": "智相应果报",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   75
+  ]
+ },
+ {
+  "pali": "sugati",
+  "zh": "善趣",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   75
+  ]
+ },
+ {
+  "pali": "duggati",
+  "zh": "恶趣",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   75
+  ]
+ },
+ {
+  "pali": "ñāṇavippayutta mahāvipāka",
+  "zh": "智不相应大果报",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   75
+  ]
+ },
+ {
+  "pali": "tihetuka",
+  "zh": "三因者",
+  "zh_alt": [
+   "三因众生"
+  ],
+  "category": "人",
+  "note": "",
+  "pages": [
+   75,
+   77
+  ]
+ },
+ {
+  "pali": "khīṇāsava",
+  "zh": "漏尽者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   75,
+   81
+  ]
+ },
+ {
+  "pali": "kusalākusalajavana",
+  "zh": "善与不善速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   75
+  ]
+ },
+ {
+  "pali": "sekkha",
+  "zh": "有学",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   75,
+   78
+  ]
+ },
+ {
+  "pali": "puthujjana",
+  "zh": "凡夫",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   75,
+   76
+  ]
+ },
+ {
+  "pali": "diṭṭhigatasampayutta",
+  "zh": "邪见相应",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   75,
+   81
+  ]
+ },
+ {
+  "pali": "vicikicchājavana",
+  "zh": "疑速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   75
+  ]
+ },
+ {
+  "pali": "anāgāmipuggala",
+  "zh": "不来者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   75,
+   78
+  ]
+ },
+ {
+  "pali": "paṭighajavana",
+  "zh": "嗔恚速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   75,
+   82
+  ]
+ },
+ {
+  "pali": "lokuttarajavana",
+  "zh": "出世间速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   75,
+   81
+  ]
+ },
+ {
+  "pali": "ariya",
+  "zh": "圣者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   75,
+   76
+  ]
+ },
+ {
+  "pali": "asekkha",
+  "zh": "无学",
+  "zh_alt": [],
+  "category": "人",
+  "note": "阿拉汉果者",
+  "pages": [
+   75,
+   77,
+   78
+  ]
+ },
+ {
+  "pali": "yathāsakaṃ",
+  "zh": "依各自",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "一些版本作yathārahaṃ",
+  "pages": [
+   75
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "兰卡版",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   75
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "心路概要",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   75,
+   82
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "恶趣无因者",
+  "zh_alt": [
+   "恶趣无因众生",
+   "恶无因"
+  ],
+  "category": "人",
+  "note": "",
+  "pages": [
+   76,
+   77
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "善趣无因者",
+  "zh_alt": [
+   "善趣无因众生",
+   "善无因"
+  ],
+  "category": "人",
+  "note": "",
+  "pages": [
+   76,
+   77
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "入流道者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   76,
+   77,
+   78
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "一来道者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   76,
+   77
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "不来道者",
+  "zh_alt": [
+   "二来道者"
+  ],
+  "category": "人",
+  "note": "书中一处作二来道者，疑误",
+  "pages": [
+   76,
+   77
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "阿拉汉道者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   76,
+   77
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "入流果者",
+  "zh_alt": [
+   "入流者"
+  ],
+  "category": "人",
+  "note": "",
+  "pages": [
+   76,
+   77,
+   78
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "一来果者",
+  "zh_alt": [
+   "一来者"
+  ],
+  "category": "人",
+  "note": "",
+  "pages": [
+   76,
+   77,
+   78
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "不来果者",
+  "zh_alt": [
+   "二来果者"
+  ],
+  "category": "人",
+  "note": "",
+  "pages": [
+   76,
+   77
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "阿拉汉果者",
+  "zh_alt": [
+   "阿拉汉者"
+  ],
+  "category": "人",
+  "note": "",
+  "pages": [
+   76,
+   77,
+   78
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "道圣者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   76,
+   77,
+   80
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "果圣者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   76,
+   77
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "四大王天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   76
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "高层欲界天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   76
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "广果天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   76,
+   89
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无想有情天",
+  "zh_alt": [
+   "无想有情"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   76,
+   88,
+   90
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "净居天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   76,
+   81,
+   89
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无色界",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   76,
+   82
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "欲善趣",
+  "zh_alt": [
+   "善欲趣"
+  ],
+  "category": "地/界",
+  "note": "7地",
+  "pages": [
+   76,
+   77
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "中间道者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   76
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "低阶果者",
+  "zh_alt": [
+   "低阶果圣者"
+  ],
+  "category": "人",
+  "note": "",
+  "pages": [
+   76,
+   80
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "高阶果圣者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   80
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "不善果报舍推心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   77
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "广大果报",
+  "zh_alt": [],
+  "category": "心",
+  "note": "9",
+  "pages": [
+   77,
+   88
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无贪",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   78
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无嗔",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   78
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无痴",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   78
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "三学",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   78
+  ]
+ },
+ {
+  "pali": "khaṇattayasamaṅgī",
+  "zh": "具足三刹那者",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "",
+  "pages": [
+   78
+  ]
+ },
+ {
+  "pali": "pacchimacitta",
+  "zh": "最后心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   78
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "名色法",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   78
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "种姓",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   78
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "净化",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   78
+  ]
+ },
+ {
+  "pali": "antarāya",
+  "zh": "障难",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "证得道果的5种障难",
+  "pages": [
+   78
+  ]
+ },
+ {
+  "pali": "kammantarāya",
+  "zh": "业障",
+  "zh_alt": [],
+  "category": "业",
+  "note": "五无间业、强暴比库尼",
+  "pages": [
+   78
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "五无间业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   78
+  ]
+ },
+ {
+  "pali": "kilesantarāya",
+  "zh": "烦恼障",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "定邪见",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "niyatamicchādiṭṭhi",
+  "zh": "定邪见",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "vipākantarāya",
+  "zh": "果报障",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "无因、二因结生果报心",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "vipākāvaraṇa",
+  "zh": "果报障",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "ariyūpavādantarāya",
+  "zh": "指责圣者障",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "āṇāvītikkamantarāya",
+  "zh": "违令障",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "故意违犯戒律",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "清净道论",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "两性人",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "黄门",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "巴拉基咖",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "戒律",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "桑喀地谢沙",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "戒律",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "别住",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "马那答",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "比库尼",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   78
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "比库",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "涅槃",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   79
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "世间善",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   80
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "出世间善",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   80
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "色究竟天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   80
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "法学社",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "另一种说法来源",
+  "pages": [
+   80
+  ]
+ },
+ {
+  "pali": "āveṇika",
+  "zh": "独有",
+  "zh_alt": [
+   "独有速行"
+  ],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   81
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "贪根心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   81
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "大人物圣者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   81
+  ]
+ },
+ {
+  "pali": "bhūmivibhāga",
+  "zh": "依地分别",
+  "zh_alt": [
+   "依地分析"
+  ],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   82
+  ]
+ },
+ {
+  "pali": "kāmāvacarabhūmi",
+  "zh": "欲界",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   82
+  ]
+ },
+ {
+  "pali": "rūpāvacarabhūmi",
+  "zh": "色界",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   82
+  ]
+ },
+ {
+  "pali": "arūpāvacarabhūmi",
+  "zh": "无色界",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   82
+  ]
+ },
+ {
+  "pali": "vīthicitta",
+  "zh": "路心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   82,
+   88
+  ]
+ },
+ {
+  "pali": "paṭhamamagga",
+  "zh": "初道",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   82
+  ]
+ },
+ {
+  "pali": "hasana",
+  "zh": "生笑",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   82
+  ]
+ },
+ {
+  "pali": "heṭṭhimāruppa",
+  "zh": "低阶无色",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   82
+  ]
+ },
+ {
+  "pali": "pasāda",
+  "zh": "净色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   82
+  ]
+ },
+ {
+  "pali": "asaññasatta",
+  "zh": "无想有情",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   82
+  ]
+ },
+ {
+  "pali": "cittappavatti",
+  "zh": "心生起",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   82,
+   90
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "离路心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   83
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "广大唯作",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   84
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "广大善",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   84
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "盖",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "嗔阻碍禅法",
+  "pages": [
+   85,
+   86
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "色界果报心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   85,
+   89
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无色善",
+  "zh_alt": [
+   "无界善"
+  ],
+  "category": "心",
+  "note": "",
+  "pages": [
+   86
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无色唯作",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   86
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无色界果报心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   86,
+   90
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "五蕴界",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   88
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "四蕴界",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   88
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "欲界美心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   88
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "空无边处",
+  "zh_alt": [
+   "空"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   87,
+   89
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "识无边处",
+  "zh_alt": [
+   "识"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   87,
+   89
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无所有处",
+  "zh_alt": [
+   "无"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   87,
+   89
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "非想非非处",
+  "zh_alt": [
+   "非想",
+   "非"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   87,
+   89
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "心所依处",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   88
+  ]
+ },
+ {
+  "pali": "chadvārikacittappavatti",
+  "zh": "六门心生起",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   90
+  ]
+ },
+ {
+  "pali": "bhavaṅgantarita",
+  "zh": "间隔有分",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   90
+  ]
+ },
+ {
+  "pali": "yāvatāyuka",
+  "zh": "直至寿终",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   90
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "小刹那",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "生住灭",
+  "pages": [
+   90
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "眼净色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   90
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "色所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   90
+  ]
+ },
+ {
+  "pali": "abhidhammatthasaṅgaha",
+  "zh": "阿毗达摩义概要",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   90
+  ]
+ },
+ {
+  "pali": "vīthisaṅgahavibhāga",
+  "zh": "心路概要分别",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "第四章",
+  "pages": [
+   90
+  ]
+ }
+]

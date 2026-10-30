@@ -1,0 +1,1015 @@
+[
+ {
+  "pali": "Namo tassa bhagavato arahato sammāsambuddhassa",
+  "zh": "礼敬彼世尊 阿拉汉 正自觉者",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "礼敬文",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "bhagavant",
+  "zh": "世尊",
+  "zh_alt": [],
+  "category": "人",
+  "note": "礼敬文中 bhagavato",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "arahant",
+  "zh": "阿拉汉",
+  "zh_alt": [],
+  "category": "人",
+  "note": "礼敬文中 arahato",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "sammāsambuddha",
+  "zh": "正自觉者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "礼敬文中 sammāsambuddhassa",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "vīthi",
+  "zh": "心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "所缘与门撞击时心生起的次序；含“次序”义",
+  "pages": [
+   5,
+   11
+  ]
+ },
+ {
+  "pali": "Vīthiparicchedo",
+  "zh": "心路章",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "阐释心生起次序的章节",
+  "pages": [
+   11,
+   12
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "离心路章",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "《概要》第五章",
+  "pages": [
+   12
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "杂项章",
+  "zh_alt": [
+   "杂项概要"
+  ],
+  "category": "书名",
+  "note": "《概要》第三章",
+  "pages": [
+   11,
+   12
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "五门心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "目录章节名",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "意门心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "目录章节名",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "安止速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "目录章节名",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "欲界速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "目录章节名",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "速行时分",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "目录章节名",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "彼所缘定律",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "目录章节名",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "速行定律",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "目录章节名",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "依人分类",
+  "zh_alt": [],
+  "category": "人",
+  "note": "目录章节名",
+  "pages": [
+   5,
+   12
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "依地分别",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "目录章节名",
+  "pages": [
+   5,
+   12
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "六个六组",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "心路章类别列举",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "六识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "六心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   5
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "四地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   6
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "恶趣地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "4种",
+  "pages": [
+   6
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "欲善趣地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "7种",
+  "pages": [
+   6
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "色界地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "16种",
+  "pages": [
+   6
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无色界地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "4种",
+  "pages": [
+   6
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "四结生",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "",
+  "pages": [
+   6
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "四业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   6
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "作用四法",
+  "zh_alt": [],
+  "category": "业",
+  "note": "依作用分四业",
+  "pages": [
+   6
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "成熟次序四法",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   6
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "成熟时间四法",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   6
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "成熟之处四法",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   6
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "死生次第",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "",
+  "pages": [
+   6
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "受概要",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   6
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "第六章；四种究竟法之一",
+  "pages": [
+   6,
+   8
+  ]
+ },
+ {
+  "pali": "Theragāthā",
+  "zh": "长老偈",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "引阿难长老偈",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "dhammakkhandha",
+  "zh": "法蕴",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "论藏含四万二千法蕴（原文仅中文）",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "论藏",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "即阿毗达摩，含七部论",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "律藏",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "经藏",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "三藏",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "阿毗达摩",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "论藏",
+  "pages": [
+   7,
+   8
+  ]
+ },
+ {
+  "pali": "Buddhaghosa",
+  "zh": "佛音尊者",
+  "zh_alt": [
+   "觉音尊者"
+  ],
+  "category": "人名",
+  "note": "五世纪南印度人，作巴利三藏义注",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "Ānanda",
+  "zh": "阿难陀尊者",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "斯里兰卡，为论藏义注作复注",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "Dhammapāla",
+  "zh": "护法尊者",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "对复注作随疏",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "大寺",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "斯里兰卡寺院",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "Atthasālinī",
+  "zh": "胜义说",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "法集论义注",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "Dhammasaṅgaṇīmūlaṭīkā",
+  "zh": "法集根本复注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "Dhammasaṅgaṇīanuṭīkā",
+  "zh": "法集随疏",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "Sammohavinodanī",
+  "zh": "迷惑冰销",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "分别论义注",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "Vibhaṅgamūlaṭīkā",
+  "zh": "分别根本复注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "Pañcappakaraṇaṭṭhakathā",
+  "zh": "五论义注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "界论至发趣论义注",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "Pañcapakaraṇamūlaṭīkā",
+  "zh": "五论根本复注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "Pañcapakaraṇaanuṭīkā",
+  "zh": "五论随疏",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "法集",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "论藏七论之一",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "分别",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "论藏七论之一",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "界[论]",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "论藏七论之一",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "人施设",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "论藏七论之一",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "论事",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "论藏七论之一",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "双[论]",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "论藏七论之一",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "发趣",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "论藏七论之一",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "Pāḷi",
+  "zh": "巴利",
+  "zh_alt": [
+   "根本"
+  ],
+  "category": "其他",
+  "note": "三藏圣典",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "mūla",
+  "zh": "根本",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "巴利圣典本身",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "aṭṭhakathā",
+  "zh": "义注",
+  "zh_alt": [
+   "注"
+  ],
+  "category": "其他",
+  "note": "对巴利圣典的注解",
+  "pages": [
+   7,
+   8
+  ]
+ },
+ {
+  "pali": "ṭīkā",
+  "zh": "复注",
+  "zh_alt": [
+   "疏钞",
+   "疏"
+  ],
+  "category": "其他",
+  "note": "对义注的进一步解释",
+  "pages": [
+   7,
+   8
+  ]
+ },
+ {
+  "pali": "anuṭīkā",
+  "zh": "随疏",
+  "zh_alt": [
+   "复复注",
+   "再复注"
+  ],
+  "category": "其他",
+  "note": "对复注的再解释",
+  "pages": [
+   7
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "阿毗达摩义概要",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "十二世纪以来通用入门书",
+  "pages": [
+   8
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "清净道论",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "归为义注",
+  "pages": [
+   8
+  ]
+ },
+ {
+  "pali": "Sumaṅgalasāmi",
+  "zh": "善吉祥主尊者",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "斯里兰卡，著《阿毗达摩义广释》",
+  "pages": [
+   8
+  ]
+ },
+ {
+  "pali": "Abhidhammatthavibhāvinīṭīkā",
+  "zh": "阿毗达摩义广释",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "《概要》复注",
+  "pages": [
+   8
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "雷迪大长老",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "缅甸近代",
+  "pages": [
+   8
+  ]
+ },
+ {
+  "pali": "Paramatthadīpanī",
+  "zh": "究竟义注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "雷迪大长老著",
+  "pages": [
+   8
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "马哈甘达勇大长老",
+  "zh_alt": [
+   "马哈甘达勇西亚多"
+  ],
+  "category": "人名",
+  "note": "缅甸现代",
+  "pages": [
+   8,
+   9
+  ]
+ },
+ {
+  "pali": "Saṅgahabhāsāṭīkā",
+  "zh": "概要缅疏",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "马哈甘达勇大长老著",
+  "pages": [
+   8
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "基础阿毗达摩",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "马哈甘达勇著缅文书",
+  "pages": [
+   9
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "逐词释",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "《基础阿毗达摩》中",
+  "pages": [
+   9
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "究竟法",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "四种：心、心所、色、涅槃",
+  "pages": [
+   8
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "概念",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "与究竟法并列为一切应知法",
+  "pages": [
+   8
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "四究竟法之一",
+  "pages": [
+   8
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "心所",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "四究竟法之一",
+  "pages": [
+   8
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "涅槃",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "四究竟法之一",
+  "pages": [
+   8
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "名色",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "即身心",
+  "pages": [
+   8
+  ]
+ },
+ {
+  "pali": "cittuppāda",
+  "zh": "心生起",
+  "zh_alt": [],
+  "category": "心",
+  "note": "Cittuppādānamiccevaṃ中究竟义为心与心所",
+  "pages": [
+   11,
+   12
+  ]
+ },
+ {
+  "pali": "cittuppāda",
+  "zh": "生起的心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "Cittuppādesu paccekaṃ中究竟义仅为心",
+  "pages": [
+   12
+  ]
+ },
+ {
+  "pali": "uttaraṃ",
+  "zh": "殊胜",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "赞颂《杂项章》之词",
+  "pages": [
+   11,
+   12
+  ]
+ },
+ {
+  "pali": "bhūmipuggalabhedena",
+  "zh": "依地人",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "依人分类和依地分别",
+  "pages": [
+   11,
+   12
+  ]
+ },
+ {
+  "pali": "pubbāparaniyāmitaṃ",
+  "zh": "前后之定律",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "划分讲述前心后心生起",
+  "pages": [
+   11,
+   12
+  ]
+ },
+ {
+  "pali": "pubba",
+  "zh": "前心",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "",
+  "pages": [
+   12
+  ]
+ },
+ {
+  "pali": "apara",
+  "zh": "后心",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "",
+  "pages": [
+   12
+  ]
+ },
+ {
+  "pali": "niyāmitaṃ",
+  "zh": "所划定的",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "",
+  "pages": [
+   12
+  ]
+ },
+ {
+  "pali": "pavattisaṅgahaṃ nāma",
+  "zh": "名《转起概要》",
+  "zh_alt": [
+   "转起概要"
+  ],
+  "category": "书名",
+  "note": "讲述心心所生起情形的概要",
+  "pages": [
+   11,
+   12
+  ]
+ },
+ {
+  "pali": "pavatti",
+  "zh": "转起",
+  "zh_alt": [
+   "生起",
+   "在此世生起",
+   "继续生起"
+  ],
+  "category": "结生/死生",
+  "note": "生起情形",
+  "pages": [
+   12
+  ]
+ },
+ {
+  "pali": "pavatti",
+  "zh": "生命期间",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "结生之后，即使住母胎中",
+  "pages": [
+   12
+  ]
+ },
+ {
+  "pali": "paṭisandhi",
+  "zh": "结生",
+  "zh_alt": [
+   "结生时"
+  ],
+  "category": "结生/死生",
+  "note": "结生最初刹那称结生时",
+  "pages": [
+   11,
+   12
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "五门转向",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   11,
+   12
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "眼识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   11,
+   12
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "领受",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   11,
+   12
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "论教法",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   12
+  ]
+ }
+]

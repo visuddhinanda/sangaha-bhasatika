@@ -1,0 +1,1838 @@
+[
+ {
+  "pali": "kolāhala",
+  "zh": "高呼",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "转轮王出现前约一百年等出现的警世高呼",
+  "pages": [
+   126
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "转轮王",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   126
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "梵住法",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   126
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "定邪见",
+  "zh_alt": [],
+  "category": "业",
+  "note": "顽固的错误见解，归入不善重业",
+  "pages": [
+   126,
+   138
+  ]
+ },
+ {
+  "pali": "niyatamicchādiṭṭhi",
+  "zh": "定邪见",
+  "zh_alt": [],
+  "category": "业",
+  "note": "顽固的错误见解；含无作用见、虚无见、无因见",
+  "pages": [
+   138
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无间地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   126,
+   135,
+   137
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "光音天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "第二禅高层梵天地",
+  "pages": [
+   126
+  ]
+ },
+ {
+  "pali": "nāmasaṅkhāra",
+  "zh": "名行",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   126
+  ]
+ },
+ {
+  "pali": "paramāṇu",
+  "zh": "极微",
+  "zh_alt": [],
+  "category": "色",
+  "note": "最小的色微粒",
+  "pages": [
+   126
+  ]
+ },
+ {
+  "pali": "saṅkhāragataṁ",
+  "zh": "行法",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "《清净道论》引文词释",
+  "pages": [
+   126
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "劫火",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   126
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "轮围界",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "一万亿个轮围界同时灭去",
+  "pages": [
+   126
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "清净道论",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   126
+  ]
+ },
+ {
+  "pali": "kammacatukka",
+  "zh": "四业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "依作用、成熟次序、成熟时间、成熟之处四法",
+  "pages": [
+   126,
+   131
+  ]
+ },
+ {
+  "pali": "kiccacatukka",
+  "zh": "作用四法",
+  "zh_alt": [],
+  "category": "业",
+  "note": "依执行作用而有四种业",
+  "pages": [
+   132
+  ]
+ },
+ {
+  "pali": "janakakamma",
+  "zh": "令生业",
+  "zh_alt": [
+   "令生"
+  ],
+  "category": "业",
+  "note": "能自己产生果报名蕴和已作色等的善、不善思",
+  "pages": [
+   127,
+   131,
+   132,
+   133
+  ]
+ },
+ {
+  "pali": "upatthambhakakamma",
+  "zh": "支助业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "支助令生业获得成熟机会或使果报持续的善、不善思",
+  "pages": [
+   127,
+   131,
+   132,
+   134
+  ]
+ },
+ {
+  "pali": "upapīḷakakamma",
+  "zh": "阻碍业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "使令生业不得成熟、果报不强或不兴盛的善、不善思",
+  "pages": [
+   127,
+   131,
+   132,
+   135
+  ]
+ },
+ {
+  "pali": "upacchedakakamma",
+  "zh": "断绝业",
+  "zh_alt": [
+   "毁坏业"
+  ],
+  "category": "业",
+  "note": "使令生业完全不能带来果报或使果报中断",
+  "pages": [
+   133
+  ]
+ },
+ {
+  "pali": "upaghātakakamma",
+  "zh": "毁坏业",
+  "zh_alt": [
+   "断绝业"
+  ],
+  "category": "业",
+  "note": "断绝其他业或其果报的业",
+  "pages": [
+   127,
+   131,
+   133,
+   136,
+   137
+  ]
+ },
+ {
+  "pali": "pākadānapariyāyacatukka",
+  "zh": "成熟次序四法",
+  "zh_alt": [],
+  "category": "业",
+  "note": "依成熟次序而有四种业",
+  "pages": [
+   127,
+   138
+  ]
+ },
+ {
+  "pali": "garukamma",
+  "zh": "重业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "死后第二世必定带来强力果报的广大业、五无间业等",
+  "pages": [
+   127,
+   131,
+   138,
+   139
+  ]
+ },
+ {
+  "pali": "āsannakakamma",
+  "zh": "临终业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "临终时所做或忆起而呈现的善、不善思",
+  "pages": [
+   127,
+   131,
+   138,
+   140
+  ]
+ },
+ {
+  "pali": "āciṇṇakakamma",
+  "zh": "惯习业",
+  "zh_alt": [
+   "惯习行"
+  ],
+  "category": "业",
+  "note": "长年累月经常做的善、不善思",
+  "pages": [
+   127,
+   131,
+   138,
+   140
+  ]
+ },
+ {
+  "pali": "kaṭattākamma",
+  "zh": "已作业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "未成为前三种业的普通善、不善思业",
+  "pages": [
+   127,
+   131,
+   138
+  ]
+ },
+ {
+  "pali": "pākakālacatukka",
+  "zh": "成熟时间四法",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127
+  ]
+ },
+ {
+  "pali": "diṭṭhadhammavedanīya",
+  "zh": "现世受业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "第一速行思，于现世带来果报",
+  "pages": [
+   127,
+   131,
+   132
+  ]
+ },
+ {
+  "pali": "upapajjavedanīya",
+  "zh": "次生受业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "第七速行思，于第二世带来果报",
+  "pages": [
+   127,
+   131,
+   132
+  ]
+ },
+ {
+  "pali": "aparāpariyavedanīya",
+  "zh": "后后受业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "中间五个速行思，从第三世起带来果报",
+  "pages": [
+   127,
+   131,
+   132
+  ]
+ },
+ {
+  "pali": "ahosikamma",
+  "zh": "无效业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "缺乏条件，不能带来果报的业",
+  "pages": [
+   127,
+   131,
+   132
+  ]
+ },
+ {
+  "pali": "pākaṭhānacatukka",
+  "zh": "成熟之处四法",
+  "zh_alt": [],
+  "category": "业",
+  "note": "唯一属论教法的四法",
+  "pages": [
+   127,
+   131,
+   132
+  ]
+ },
+ {
+  "pali": "akusalakamma",
+  "zh": "不善业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   131,
+   132
+  ]
+ },
+ {
+  "pali": "kāmāvacarakusala",
+  "zh": "欲界善业",
+  "zh_alt": [
+   "欲界善"
+  ],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   131,
+   132
+  ]
+ },
+ {
+  "pali": "rūpāvacarakusala",
+  "zh": "色界善业",
+  "zh_alt": [
+   "色界善"
+  ],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   131,
+   132
+  ]
+ },
+ {
+  "pali": "arūpāvacarakusala",
+  "zh": "无色界善业",
+  "zh_alt": [
+   "无色界善"
+  ],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   131,
+   132
+  ]
+ },
+ {
+  "pali": "kāyakamma",
+  "zh": "身业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   129,
+   130
+  ]
+ },
+ {
+  "pali": "vacīkamma",
+  "zh": "语业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   129,
+   130
+  ]
+ },
+ {
+  "pali": "manokamma",
+  "zh": "意业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   128,
+   129,
+   130
+  ]
+ },
+ {
+  "pali": "kammadvāra",
+  "zh": "业门",
+  "zh_alt": [],
+  "category": "门",
+  "note": "",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "kāyaviññatti",
+  "zh": "身表",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "vacīviññatti",
+  "zh": "语表",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "kāyadvāra",
+  "zh": "身门",
+  "zh_alt": [],
+  "category": "门",
+  "note": "",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "vacīdvāra",
+  "zh": "语门",
+  "zh_alt": [],
+  "category": "门",
+  "note": "",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "manodvāra",
+  "zh": "意门",
+  "zh_alt": [],
+  "category": "门",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "pāṇātipāta",
+  "zh": "杀生",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   129,
+   139
+  ]
+ },
+ {
+  "pali": "adinnādāna",
+  "zh": "偷盗",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "kāmesumicchācāra",
+  "zh": "欲劣行",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "musāvāda",
+  "zh": "妄语",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "pisuṇavācā",
+  "zh": "离间语",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "pharusavācā",
+  "zh": "粗恶语",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "samphappalāpa",
+  "zh": "绮语",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "abhijjhā",
+  "zh": "贪婪",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "byāpāda",
+  "zh": "嗔恚",
+  "zh_alt": [
+   "瞋恚"
+  ],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   129,
+   139
+  ]
+ },
+ {
+  "pali": "micchādiṭṭhi",
+  "zh": "邪见",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "dosamūla",
+  "zh": "嗔根",
+  "zh_alt": [],
+  "category": "心",
+  "note": "具嗔根的心",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "lobhamūla",
+  "zh": "贪根",
+  "zh_alt": [],
+  "category": "心",
+  "note": "具贪根的心",
+  "pages": [
+   127,
+   129
+  ]
+ },
+ {
+  "pali": "cittuppāda",
+  "zh": "心生起",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   127,
+   130
+  ]
+ },
+ {
+  "pali": "dāna",
+  "zh": "布施",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   127,
+   130
+  ]
+ },
+ {
+  "pali": "sīla",
+  "zh": "持戒",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   127,
+   130
+  ]
+ },
+ {
+  "pali": "bhāvanā",
+  "zh": "修习",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   127,
+   130
+  ]
+ },
+ {
+  "pali": "apacāyana",
+  "zh": "恭敬",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "十福事之一",
+  "pages": [
+   127,
+   130
+  ]
+ },
+ {
+  "pali": "veyyāvacca",
+  "zh": "服务",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "十福事之一",
+  "pages": [
+   127,
+   130
+  ]
+ },
+ {
+  "pali": "pattidāna",
+  "zh": "回向",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "十福事之一",
+  "pages": [
+   127,
+   130
+  ]
+ },
+ {
+  "pali": "pattānumodana",
+  "zh": "随喜",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "十福事之一",
+  "pages": [
+   127,
+   130
+  ]
+ },
+ {
+  "pali": "dhammassavana",
+  "zh": "闻法",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "十福事之一",
+  "pages": [
+   127,
+   130
+  ]
+ },
+ {
+  "pali": "dhammadesanā",
+  "zh": "说法",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "十福事之一",
+  "pages": [
+   127,
+   130
+  ]
+ },
+ {
+  "pali": "diṭṭhijukamma",
+  "zh": "正直己见",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "十福事之一",
+  "pages": [
+   127,
+   130
+  ]
+ },
+ {
+  "pali": "kāmāvacarakamma",
+  "zh": "欲界业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "二十种善、不善业",
+  "pages": [
+   127,
+   130
+  ]
+ },
+ {
+  "pali": "bhāvanāmaya",
+  "zh": "修习所成",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   127,
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "appanāppatta",
+  "zh": "达到安止",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "jhānaṅga",
+  "zh": "禅支",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "uddhacca",
+  "zh": "掉举",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "apāyabhūmi",
+  "zh": "恶趣",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "paṭisandhi",
+  "zh": "结生",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "pavatti",
+  "zh": "生命期间",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "kāmaloka",
+  "zh": "欲世间",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "rūpaloka",
+  "zh": "色世间",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "kāmasugati",
+  "zh": "欲善趣",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "mahāvipāka",
+  "zh": "大果报",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "ahetukavipāka",
+  "zh": "无因善果报",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "tihetuka",
+  "zh": "三因",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "dvihetuka",
+  "zh": "二因",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "ahetuka",
+  "zh": "无因",
+  "zh_alt": [],
+  "category": "人",
+  "note": "无因结生",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "ukkaṭṭha",
+  "zh": "殊胜",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "omaka",
+  "zh": "低劣",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "asaṅkhāra",
+  "zh": "无行",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "sasaṅkhāra",
+  "zh": "有行",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   128,
+   130
+  ]
+ },
+ {
+  "pali": "paritta",
+  "zh": "下等",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "禅那修习程度",
+  "pages": [
+   128,
+   131
+  ]
+ },
+ {
+  "pali": "majjhima",
+  "zh": "中等",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   128,
+   131
+  ]
+ },
+ {
+  "pali": "paṇīta",
+  "zh": "上等",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   128,
+   131
+  ]
+ },
+ {
+  "pali": "brahmapārisajja",
+  "zh": "梵众天",
+  "zh_alt": [
+   "梵众"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   128,
+   131
+  ]
+ },
+ {
+  "pali": "brahmapurohita",
+  "zh": "梵辅天",
+  "zh_alt": [
+   "梵辅"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   128,
+   131
+  ]
+ },
+ {
+  "pali": "mahābrahmā",
+  "zh": "大梵天",
+  "zh_alt": [
+   "大梵"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   128,
+   131
+  ]
+ },
+ {
+  "pali": "parittābha",
+  "zh": "少光天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   128,
+   131
+  ]
+ },
+ {
+  "pali": "appamāṇābha",
+  "zh": "无量光天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   128,
+   131
+  ]
+ },
+ {
+  "pali": "ābhassara",
+  "zh": "光音天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   128,
+   131
+  ]
+ },
+ {
+  "pali": "parittasubha",
+  "zh": "少华光天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "书中带问号",
+  "pages": [
+   129,
+   131
+  ]
+ },
+ {
+  "pali": "appamāṇasubha",
+  "zh": "无量华光天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "书中带问号",
+  "pages": [
+   129,
+   131
+  ]
+ },
+ {
+  "pali": "subhakiṇha",
+  "zh": "彩华光天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "书中带问号",
+  "pages": [
+   129,
+   131
+  ]
+ },
+ {
+  "pali": "vehapphala",
+  "zh": "广果天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   129,
+   131
+  ]
+ },
+ {
+  "pali": "saññāvirāga",
+  "zh": "厌想",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   129,
+   131
+  ]
+ },
+ {
+  "pali": "asaññasatta",
+  "zh": "无想有情天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   129,
+   131
+  ]
+ },
+ {
+  "pali": "anāgāmī",
+  "zh": "不来者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   129,
+   131
+  ]
+ },
+ {
+  "pali": "suddhāvāsa",
+  "zh": "净居天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   129,
+   131
+  ]
+ },
+ {
+  "pali": "āruppa",
+  "zh": "无色梵天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   129,
+   131
+  ]
+ },
+ {
+  "pali": "mahaggata",
+  "zh": "广大",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   129,
+   131
+  ]
+ },
+ {
+  "pali": "puñña",
+  "zh": "福",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   129,
+   131
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "离心路概要",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   131
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "经教法",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "依多数情况教导的方法",
+  "pages": [
+   132,
+   133
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "论教法",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "肯定的方法",
+  "pages": [
+   132,
+   133
+  ]
+ },
+ {
+  "pali": "Anuruddha",
+  "zh": "阿耨楼陀尊者",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   133,
+   138
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "义注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   133
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "复注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   133
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "业生色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   133
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "业缘时节生色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   133
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "彼所缘",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   133
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "推度",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   133
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "领受",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   133
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "业道",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   134,
+   135
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   134
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "巴拉密",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   134
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "眼净色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   135,
+   136
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "结生盲",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "",
+  "pages": [
+   135
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "未生怨王",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   135,
+   136
+  ]
+ },
+ {
+  "pali": "Aṅgulimāla",
+  "zh": "指鬘",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   136
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "提婆达多",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   136,
+   139
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "道思",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   136
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "法句",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   136
+  ]
+ },
+ {
+  "pali": "cakkhupālatthera",
+  "zh": "护眼长老",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   136
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "目犍连尊者",
+  "zh_alt": [
+   "大目犍连尊者"
+  ],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   136,
+   138
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "频婆娑罗王",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   136,
+   137
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "四大王天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   136,
+   137
+  ]
+ },
+ {
+  "pali": "Sāmāvatī",
+  "zh": "差摩娃帝",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   136,
+   137
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "沙门果经",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   136
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "义广释",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   136,
+   137
+  ]
+ },
+ {
+  "pali": "Dussī",
+  "zh": "度西",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "魔罗",
+  "pages": [
+   137
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "迦叶佛",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   137
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "舍利子尊者",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   137
+  ]
+ },
+ {
+  "pali": "Kalābu",
+  "zh": "迦罗富",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "国王",
+  "pages": [
+   137
+  ]
+ },
+ {
+  "pali": "khantivādī",
+  "zh": "忍耐论者",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "菩萨隐士",
+  "pages": [
+   137
+  ]
+ },
+ {
+  "pali": "apare",
+  "zh": "其他论师",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   137
+  ]
+ },
+ {
+  "pali": "nikantitaṇhā",
+  "zh": "希求贪爱",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "对以前生起处执著、贪爱",
+  "pages": [
+   137
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "帝释所问经",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   137
+  ]
+ },
+ {
+  "pali": "bhāvarūpa",
+  "zh": "性色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   137
+  ]
+ },
+ {
+  "pali": "Sāratthadīpanīṭīkā",
+  "zh": "心义灯疏",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   137
+  ]
+ },
+ {
+  "pali": "Rohiṇī",
+  "zh": "罗希尼",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "阿耨楼陀尊者之妹",
+  "pages": [
+   138
+  ]
+ },
+ {
+  "pali": "pañcānantariyakamma",
+  "zh": "五无间业",
+  "zh_alt": [
+   "无间业"
+  ],
+  "category": "业",
+  "note": "弑母、弑父、杀阿拉汉、出佛身血、分裂僧团",
+  "pages": [
+   138,
+   139
+  ]
+ },
+ {
+  "pali": "akiriyadiṭṭhi",
+  "zh": "无作用见",
+  "zh_alt": [],
+  "category": "业",
+  "note": "否定因与果",
+  "pages": [
+   138
+  ]
+ },
+ {
+  "pali": "natthikadiṭṭhi",
+  "zh": "虚无见",
+  "zh_alt": [],
+  "category": "业",
+  "note": "否定果",
+  "pages": [
+   138
+  ]
+ },
+ {
+  "pali": "ahetukadiṭṭhi",
+  "zh": "无因见",
+  "zh_alt": [],
+  "category": "业",
+  "note": "否定因",
+  "pages": [
+   138
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "弑母",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   139
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "弑父",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   139
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "杀阿拉汉",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   139
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "出佛身血",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   139
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "分裂僧团",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   139,
+   140
+  ]
+ },
+ {
+  "pali": "Tatiya Pārājikaṭṭhakathā",
+  "zh": "第三波罗夷义注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   139
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "法集论随疏",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   139
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "羯磨",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   140
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "沙马内拉",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   140
+  ]
+ },
+ {
+  "pali": "vippaṭisārakukkucca",
+  "zh": "后悔懊恼",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   140
+  ]
+ },
+ {
+  "pali": "yabbahulaṁ",
+  "zh": "凡多做",
+  "zh_alt": [],
+  "category": "业",
+  "note": "属惯习业",
+  "pages": [
+   140
+  ]
+ },
+ {
+  "pali": "yadāsannaṁ",
+  "zh": "凡临死时能再忆起、造作的业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "临终业",
+  "pages": [
+   140
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "增支部义注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   140
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "阿毗达摩义概要",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   140
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "业相",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   140
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "趣相",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   140
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "临终速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   140
+  ]
+ }
+]

@@ -1,0 +1,592 @@
+[
+ {
+  "zh": "离时",
+  "pali": "kālavimutta",
+  "confidence": "high"
+ },
+ {
+  "zh": "究竟义",
+  "pali": "paramattha",
+  "confidence": "high"
+ },
+ {
+  "zh": "究竟法",
+  "pali": "paramatthadhamma",
+  "confidence": "high"
+ },
+ {
+  "zh": "空居天",
+  "pali": "ākāsaṭṭhadeva",
+  "confidence": "high"
+ },
+ {
+  "zh": "空无边处",
+  "pali": "ākāsānañcāyatana",
+  "confidence": "high"
+ },
+ {
+  "zh": "空概念",
+  "pali": "ākāsapaññatti",
+  "confidence": "medium"
+ },
+ {
+  "zh": "第五禅",
+  "pali": "pañcamajjhāna",
+  "confidence": "high"
+ },
+ {
+  "zh": "索那尊者",
+  "pali": "Soṇatthera",
+  "confidence": "medium"
+ },
+ {
+  "zh": "紧急有分",
+  "pali": "bhavaṅgakicca",
+  "confidence": "low"
+ },
+ {
+  "zh": "组合概念",
+  "pali": "samūhapaññatti",
+  "confidence": "high"
+ },
+ {
+  "zh": "经教修辞法",
+  "pali": "pariyāyadesanā",
+  "confidence": "medium"
+ },
+ {
+  "zh": "经教法",
+  "pali": "suttantanaya",
+  "confidence": "medium"
+ },
+ {
+  "zh": "经藏",
+  "pali": "Suttantapiṭaka",
+  "confidence": "high"
+ },
+ {
+  "zh": "结生想",
+  "pali": "paṭisandhisaññā",
+  "confidence": "high"
+ },
+ {
+  "zh": "结生盲",
+  "pali": "jaccandha",
+  "confidence": "high"
+ },
+ {
+  "zh": "缘生法",
+  "pali": "paccayuppannadhamma",
+  "confidence": "high"
+ },
+ {
+  "zh": "缘起分别根本复注",
+  "pali": "Paṭiccasamuppādavibhaṅgamūlaṭīkā",
+  "confidence": "medium"
+ },
+ {
+  "zh": "缘门",
+  "pali": "Paccayadvāra",
+  "confidence": "low"
+ },
+ {
+  "zh": "羯磨",
+  "pali": "kamma",
+  "confidence": "high"
+ },
+ {
+  "zh": "耳净色",
+  "pali": "sotapasāda",
+  "confidence": "high"
+ },
+ {
+  "zh": "胎生",
+  "pali": "jalābuja",
+  "confidence": "high"
+ },
+ {
+  "zh": "胜义说根本复注",
+  "pali": "Dhammasaṅgaṇīmūlaṭīkā",
+  "confidence": "medium"
+ },
+ {
+  "zh": "胜解",
+  "pali": "adhimokkha",
+  "confidence": "high"
+ },
+ {
+  "zh": "舌净色",
+  "pali": "jivhāpasāda",
+  "confidence": "high"
+ },
+ {
+  "zh": "舍利子尊者",
+  "pali": "Sāriputtatthera",
+  "confidence": "high"
+ },
+ {
+  "zh": "舍推度",
+  "pali": "upekkhāsantīraṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "般涅槃",
+  "pali": "parinibbāna",
+  "confidence": "high"
+ },
+ {
+  "zh": "般涅槃临死心路",
+  "pali": "parinibbānamaraṇāsannavīthi",
+  "confidence": "medium"
+ },
+ {
+  "zh": "色",
+  "pali": "rūpa",
+  "confidence": "high"
+ },
+ {
+  "zh": "色地",
+  "pali": "rūpabhūmi",
+  "confidence": "high"
+ },
+ {
+  "zh": "色寿",
+  "pali": "rūpāyu",
+  "confidence": "medium"
+ },
+ {
+  "zh": "色所缘",
+  "pali": "rūpārammaṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "色无常性",
+  "pali": "aniccatā",
+  "confidence": "high"
+ },
+ {
+  "zh": "色有分",
+  "pali": "rūpabhavaṅga",
+  "confidence": "medium"
+ },
+ {
+  "zh": "色界果报心",
+  "pali": "rūpāvacaravipākacitta",
+  "confidence": "high"
+ },
+ {
+  "zh": "色相续",
+  "pali": "santati",
+  "confidence": "high"
+ },
+ {
+  "zh": "色积集",
+  "pali": "upacaya",
+  "confidence": "high"
+ },
+ {
+  "zh": "色究竟",
+  "pali": "Akaniṭṭha",
+  "confidence": "high"
+ },
+ {
+  "zh": "色章",
+  "pali": "Rūpasaṅgahavibhāga",
+  "confidence": "medium"
+ },
+ {
+  "zh": "色结生",
+  "pali": "rūpapaṭisandhi",
+  "confidence": "high"
+ },
+ {
+  "zh": "色老性",
+  "pali": "jaratā",
+  "confidence": "high"
+ },
+ {
+  "zh": "色聚",
+  "pali": "rūpakalāpa",
+  "confidence": "high"
+ },
+ {
+  "zh": "苦根",
+  "pali": "dukkhindriya",
+  "confidence": "high"
+ },
+ {
+  "zh": "蕴分别根本复注",
+  "pali": "Khandhavibhaṅgamūlaṭīkā",
+  "confidence": "medium"
+ },
+ {
+  "zh": "蕴分别随疏",
+  "pali": "Khandhavibhaṅgaanuṭīkā",
+  "confidence": "medium"
+ },
+ {
+  "zh": "蕴相应",
+  "pali": "Khandhasaṃyutta",
+  "confidence": "high"
+ },
+ {
+  "zh": "表色",
+  "pali": "viññattirūpa",
+  "confidence": "high"
+ },
+ {
+  "zh": "西牛贺洲",
+  "pali": "Aparagoyāna",
+  "confidence": "high"
+ },
+ {
+  "zh": "观",
+  "pali": "vipassanā",
+  "confidence": "high"
+ },
+ {
+  "zh": "观智",
+  "pali": "vipassanāñāṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "触所缘",
+  "pali": "phoṭṭhabbārammaṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "论事",
+  "pali": "Kathāvatthu",
+  "confidence": "high"
+ },
+ {
+  "zh": "论教法",
+  "pali": "abhidhammanaya",
+  "confidence": "medium"
+ },
+ {
+  "zh": "论教直叙",
+  "pali": "nippariyāyadesanā",
+  "confidence": "medium"
+ },
+ {
+  "zh": "论藏",
+  "pali": "Abhidhammapiṭaka",
+  "confidence": "high"
+ },
+ {
+  "zh": "识无边处",
+  "pali": "viññāṇañcāyatana",
+  "confidence": "high"
+ },
+ {
+  "zh": "语恶行",
+  "pali": "vacīduccarita",
+  "confidence": "high"
+ },
+ {
+  "zh": "贪心所",
+  "pali": "lobhacetasika",
+  "confidence": "high"
+ },
+ {
+  "zh": "贪根心",
+  "pali": "lobhamūlacitta",
+  "confidence": "high"
+ },
+ {
+  "zh": "贪速行",
+  "pali": "lobhajavana",
+  "confidence": "high"
+ },
+ {
+  "zh": "身净色",
+  "pali": "kāyapasāda",
+  "confidence": "high"
+ },
+ {
+  "zh": "身恶行",
+  "pali": "kāyaduccarita",
+  "confidence": "high"
+ },
+ {
+  "zh": "转法轮经",
+  "pali": "Dhammacakkappavattanasutta",
+  "confidence": "high"
+ },
+ {
+  "zh": "转轮王",
+  "pali": "cakkavattī",
+  "confidence": "high"
+ },
+ {
+  "zh": "轮回",
+  "pali": "saṃsāra",
+  "confidence": "high"
+ },
+ {
+  "zh": "轮围世界",
+  "pali": "cakkavāḷa",
+  "confidence": "high"
+ },
+ {
+  "zh": "轮围界",
+  "pali": "cakkavāḷa",
+  "confidence": "high"
+ },
+ {
+  "zh": "轻快性",
+  "pali": "lahutā",
+  "confidence": "high"
+ },
+ {
+  "zh": "近喻",
+  "pali": "samīpūpacāra",
+  "confidence": "medium"
+ },
+ {
+  "zh": "近行定速行",
+  "pali": "upacārasamādhijavana",
+  "confidence": "medium"
+ },
+ {
+  "zh": "迦叶佛",
+  "pali": "Kassapa",
+  "confidence": "high"
+ },
+ {
+  "zh": "适业性",
+  "pali": "kammaññatā",
+  "confidence": "high"
+ },
+ {
+  "zh": "逐词释",
+  "pali": "nissaya",
+  "confidence": "low"
+ },
+ {
+  "zh": "速分后死",
+  "pali": "javanabhavaṅgānantaracuti",
+  "confidence": "low"
+ },
+ {
+  "zh": "速后死",
+  "pali": "javanānantaracuti",
+  "confidence": "low"
+ },
+ {
+  "zh": "速行可变",
+  "pali": "javanāniyata",
+  "confidence": "low"
+ },
+ {
+  "zh": "速行确定",
+  "pali": "javananiyata",
+  "confidence": "low"
+ },
+ {
+  "zh": "遍概念",
+  "pali": "kasiṇapaññatti",
+  "confidence": "high"
+ },
+ {
+  "zh": "遍相",
+  "pali": "kasiṇanimitta",
+  "confidence": "high"
+ },
+ {
+  "zh": "遍相概念",
+  "pali": "kasiṇanimittapaññatti",
+  "confidence": "medium"
+ },
+ {
+  "zh": "道众生",
+  "pali": "maggasamaṅgī",
+  "confidence": "medium"
+ },
+ {
+  "zh": "道善业",
+  "pali": "maggakusalakamma",
+  "confidence": "medium"
+ },
+ {
+  "zh": "道圣者",
+  "pali": "maggaṭṭha",
+  "confidence": "high"
+ },
+ {
+  "zh": "道心路",
+  "pali": "maggavīthi",
+  "confidence": "high"
+ },
+ {
+  "zh": "道思",
+  "pali": "maggacetanā",
+  "confidence": "high"
+ },
+ {
+  "zh": "道无间果",
+  "pali": "maggānantaraphala",
+  "confidence": "high"
+ },
+ {
+  "zh": "道智",
+  "pali": "maggañāṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "道速行",
+  "pali": "maggajavana",
+  "confidence": "high"
+ },
+ {
+  "zh": "邪胜解",
+  "pali": "micchādhimokkha",
+  "confidence": "medium"
+ },
+ {
+  "zh": "邪见心所",
+  "pali": "diṭṭhicetasika",
+  "confidence": "high"
+ },
+ {
+  "zh": "重复缘",
+  "pali": "āsevanapaccaya",
+  "confidence": "high"
+ },
+ {
+  "zh": "门概要",
+  "pali": "dvārasaṅgaha",
+  "confidence": "high"
+ },
+ {
+  "zh": "阿拉汉果者",
+  "pali": "arahattaphalaṭṭha",
+  "confidence": "high"
+ },
+ {
+  "zh": "阿拉汉道",
+  "pali": "arahattamagga",
+  "confidence": "high"
+ },
+ {
+  "zh": "阿拉汉道者",
+  "pali": "arahattamaggaṭṭha",
+  "confidence": "high"
+ },
+ {
+  "zh": "阿毗达摩",
+  "pali": "Abhidhamma",
+  "confidence": "high"
+ },
+ {
+  "zh": "阿毗达摩概要精解",
+  "pali": "",
+  "confidence": "high"
+ },
+ {
+  "zh": "阿育王",
+  "pali": "Asoka",
+  "confidence": "high"
+ },
+ {
+  "zh": "随烦恼",
+  "pali": "upakkilesa",
+  "confidence": "high"
+ },
+ {
+  "zh": "雷迪大长老",
+  "pali": "Ledi Sayadaw (缅)",
+  "confidence": "high"
+ },
+ {
+  "zh": "雷迪西亚多",
+  "pali": "Ledi Sayadaw (缅)",
+  "confidence": "high"
+ },
+ {
+  "zh": "非圣者",
+  "pali": "anariya",
+  "confidence": "high"
+ },
+ {
+  "zh": "非想非非处",
+  "pali": "nevasaññānāsaññāyatana",
+  "confidence": "high"
+ },
+ {
+  "zh": "非想非非想",
+  "pali": "nevasaññānāsaññāyatana",
+  "confidence": "high"
+ },
+ {
+  "zh": "非想非非想处",
+  "pali": "nevasaññānāsaññāyatana",
+  "confidence": "high"
+ },
+ {
+  "zh": "非真实色",
+  "pali": "anipphannarūpa",
+  "confidence": "high"
+ },
+ {
+  "zh": "领受",
+  "pali": "sampaṭicchana",
+  "confidence": "high"
+ },
+ {
+  "zh": "频婆娑罗王",
+  "pali": "Bimbisāra",
+  "confidence": "high"
+ },
+ {
+  "zh": "食生色",
+  "pali": "āhārasamuṭṭhānarūpa",
+  "confidence": "high"
+ },
+ {
+  "zh": "香所缘",
+  "pali": "gandhārammaṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "马哈甘达勇大长老",
+  "pali": "Mahagandhayon Sayadaw (缅)",
+  "confidence": "high"
+ },
+ {
+  "zh": "马哈甘达勇西亚多",
+  "pali": "Mahagandhayon Sayadaw (缅)",
+  "confidence": "high"
+ },
+ {
+  "zh": "马那答",
+  "pali": "mānatta",
+  "confidence": "high"
+ },
+ {
+  "zh": "高层欲界天",
+  "pali": "uparikāmāvacaradeva",
+  "confidence": "low"
+ },
+ {
+  "zh": "高阶果圣者",
+  "pali": "uparimaphalaṭṭha",
+  "confidence": "medium"
+ },
+ {
+  "zh": "高阶道心路",
+  "pali": "uparimaggavīthi",
+  "confidence": "medium"
+ },
+ {
+  "zh": "鬼阿修罗",
+  "pali": "petāsura",
+  "confidence": "high"
+ },
+ {
+  "zh": "鼻净色",
+  "pali": "ghānapasāda",
+  "confidence": "high"
+ }
+]

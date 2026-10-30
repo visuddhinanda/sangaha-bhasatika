@@ -1,0 +1,1129 @@
+[
+ {
+  "pali": "Cetasikaparicchedo",
+  "zh": "杂项篇",
+  "zh_alt": [
+   "杂项章"
+  ],
+  "category": "书名",
+  "note": "本书标为第六章；以受等六种概要杂糅阐释",
+  "pages": [
+   184,
+   185
+  ]
+ },
+ {
+  "pali": "pakiṇṇaka",
+  "zh": "杂",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   185
+  ]
+ },
+ {
+  "pali": "pakiṇṇaka cetasika",
+  "zh": "杂心所",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "与美非美心混杂相应",
+  "pages": [
+   185
+  ]
+ },
+ {
+  "pali": "pakiṇṇakasaṅgahavibhāga",
+  "zh": "杂项概要分别",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   190
+  ]
+ },
+ {
+  "pali": "abhidhammatthasaṅgaha",
+  "zh": "摄阿毗达摩义",
+  "zh_alt": [
+   "摄阿毗达摩义论"
+  ],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   188,
+   190,
+   197
+  ]
+ },
+ {
+  "pali": "Vedanāsaṅgaha",
+  "zh": "受概要",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   184,
+   185
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "因概要",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   184
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "作用概要",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   184
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "门概要",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   184
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "所缘概要",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   184
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "依处概要",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   184
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "六种概要",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   184
+  ]
+ },
+ {
+  "pali": "vedanā",
+  "zh": "受",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   185
+  ]
+ },
+ {
+  "pali": "sukha",
+  "zh": "乐",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "于身生起的乐",
+  "pages": [
+   185,
+   186
+  ]
+ },
+ {
+  "pali": "dukkha",
+  "zh": "苦",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "于身生起的苦",
+  "pages": [
+   185,
+   186
+  ]
+ },
+ {
+  "pali": "adukkhamasukhā",
+  "zh": "不苦不乐",
+  "zh_alt": [
+   "不苦不乐受"
+  ],
+  "category": "心所",
+  "note": "亦称舍受",
+  "pages": [
+   185,
+   188
+  ]
+ },
+ {
+  "pali": "somanassa",
+  "zh": "悦",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "于心生起的乐",
+  "pages": [
+   185,
+   188
+  ]
+ },
+ {
+  "pali": "domanassa",
+  "zh": "忧",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "于心生起的苦",
+  "pages": [
+   185,
+   186
+  ]
+ },
+ {
+  "pali": "upekkhā",
+  "zh": "舍",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   185,
+   186
+  ]
+ },
+ {
+  "pali": "sukhāvedanā",
+  "zh": "乐受",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "感受可喜所缘",
+  "pages": [
+   187
+  ]
+ },
+ {
+  "pali": "dukkhavedanā",
+  "zh": "苦受",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "感受不可喜所缘",
+  "pages": [
+   187
+  ]
+ },
+ {
+  "pali": "upekkhāvedanā",
+  "zh": "舍受",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "感受中等可喜所缘",
+  "pages": [
+   187
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "悦受",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   186
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "忧受",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   186
+  ]
+ },
+ {
+  "pali": "sukhasahagata",
+  "zh": "乐俱",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   185,
+   186
+  ]
+ },
+ {
+  "pali": "dukkhasahagata",
+  "zh": "苦俱",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   185,
+   186
+  ]
+ },
+ {
+  "pali": "somanassasahagata",
+  "zh": "悦俱",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   185,
+   186
+  ]
+ },
+ {
+  "pali": "domanassasahagata",
+  "zh": "忧俱",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   186
+  ]
+ },
+ {
+  "pali": "upekkhāsahagata",
+  "zh": "舍俱",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   186
+  ]
+ },
+ {
+  "pali": "kusalavipāka kāyaviññāṇa",
+  "zh": "善果报身识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   185,
+   186
+  ]
+ },
+ {
+  "pali": "lobhamūla",
+  "zh": "贪根",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   185,
+   191
+  ]
+ },
+ {
+  "pali": "kāmāvacarasobhana",
+  "zh": "欲界美",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   185,
+   186
+  ]
+ },
+ {
+  "pali": "sukhasantīraṇa",
+  "zh": "乐推度",
+  "zh_alt": [
+   "悦推度"
+  ],
+  "category": "心",
+  "note": "",
+  "pages": [
+   185,
+   191
+  ]
+ },
+ {
+  "pali": "hasana",
+  "zh": "生笑",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   185,
+   191
+  ]
+ },
+ {
+  "pali": "mahaggatalokuttaracitta",
+  "zh": "广大与出世间心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   185,
+   186
+  ]
+ },
+ {
+  "pali": "paṭighasampayuttacitta",
+  "zh": "嗔恚相应心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   186
+  ]
+ },
+ {
+  "pali": "ārammaṇānubhavana",
+  "zh": "依感受所缘法",
+  "zh_alt": [
+   "感受所缘法"
+  ],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   186,
+   188
+  ]
+ },
+ {
+  "pali": "indriyabheda",
+  "zh": "依根分类法",
+  "zh_alt": [
+   "根分类法"
+  ],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   186,
+   188
+  ]
+ },
+ {
+  "pali": "iṭṭhārammaṇa",
+  "zh": "可喜所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   187
+  ]
+ },
+ {
+  "pali": "aniṭṭhārammaṇa",
+  "zh": "不可喜所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   187
+  ]
+ },
+ {
+  "pali": "iṭṭhamajjhattārammaṇa",
+  "zh": "中等可喜所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   187
+  ]
+ },
+ {
+  "pali": "Sabbe saṅkhāra dukkhā",
+  "zh": "诸行皆苦",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "",
+  "pages": [
+   187,
+   188
+  ]
+ },
+ {
+  "pali": "anavajjapakkhika",
+  "zh": "无过失的",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "无过失的善、无记舍归为乐",
+  "pages": [
+   188
+  ]
+ },
+ {
+  "pali": "sāvajjapakkhika",
+  "zh": "有过失的",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "有过失的不善舍归为苦",
+  "pages": [
+   188
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "经教修辞法",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   188
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "论教直叙",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   188
+  ]
+ },
+ {
+  "pali": "kāyikasukha",
+  "zh": "身乐",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "于身体生起的乐",
+  "pages": [
+   188
+  ]
+ },
+ {
+  "pali": "indriya",
+  "zh": "根",
+  "zh_alt": [
+   "统领"
+  ],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   188
+  ]
+ },
+ {
+  "pali": "sukhindriya",
+  "zh": "乐根",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   186,
+   188
+  ]
+ },
+ {
+  "pali": "cetasikasukha",
+  "zh": "心所乐",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "与心相应的乐",
+  "pages": [
+   188
+  ]
+ },
+ {
+  "pali": "sumanassa bhāvo",
+  "zh": "",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "悦一词的语源",
+  "pages": [
+   188
+  ]
+ },
+ {
+  "pali": "somanassindriya",
+  "zh": "悦根",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   188
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "苦根",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   186,
+   188
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "忧根",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   186,
+   188
+  ]
+ },
+ {
+  "pali": "cetasika upekkhā",
+  "zh": "心所舍",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   188
+  ]
+ },
+ {
+  "pali": "upekkhindriya",
+  "zh": "舍根",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   188
+  ]
+ },
+ {
+  "pali": "chaḷaṅgupekkha",
+  "zh": "六支舍",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "阿拉汉对可喜不可喜皆中舍",
+  "pages": [
+   189
+  ]
+ },
+ {
+  "pali": "brahmavihārupekkhā",
+  "zh": "梵住舍",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   189
+  ]
+ },
+ {
+  "pali": "bojjhaṅgupekkhā",
+  "zh": "觉支舍",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   189
+  ]
+ },
+ {
+  "pali": "viriyupekkhā",
+  "zh": "精进舍",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   189
+  ]
+ },
+ {
+  "pali": "saṅkhārupekkhā",
+  "zh": "行舍",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "对诸行法的中舍",
+  "pages": [
+   189
+  ]
+ },
+ {
+  "pali": "vedanānupekkhā",
+  "zh": "受舍",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   189
+  ]
+ },
+ {
+  "pali": "vipassanupekkhā",
+  "zh": "观舍",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "观智",
+  "pages": [
+   189
+  ]
+ },
+ {
+  "pali": "jhānupekkhā",
+  "zh": "禅那舍",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "对第三禅乐的舍",
+  "pages": [
+   189
+  ]
+ },
+ {
+  "pali": "tatramajjhattatā",
+  "zh": "中舍性",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "对俱生诸法平等对待",
+  "pages": [
+   189
+  ]
+ },
+ {
+  "pali": "parisuddhupekkhā",
+  "zh": "彩华光舍",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "对第四禅乐的舍",
+  "pages": [
+   189
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "双五识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   193
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "眼识",
+  "zh_alt": [
+   "双眼识"
+  ],
+  "category": "心",
+  "note": "",
+  "pages": [
+   191,
+   193
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "领受",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   191
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "舍推度",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   178,
+   191
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "五门转向",
+  "zh_alt": [
+   "五转"
+  ],
+  "category": "心",
+  "note": "",
+  "pages": [
+   191
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "意门转向",
+  "zh_alt": [
+   "意转"
+  ],
+  "category": "心",
+  "note": "",
+  "pages": [
+   191
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "大唯作",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   191
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "邪见相应",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   193
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无行",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   193
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "有行",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   193
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "智相应",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   191,
+   193
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "智不相应",
+  "zh_alt": [
+   "智不应"
+  ],
+  "category": "心",
+  "note": "",
+  "pages": [
+   191,
+   193
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "胜解",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   194
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "邪胜解",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "伪信",
+  "pages": [
+   195
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "掉举",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   194
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无惭",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   194
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无愧",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   194
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "惭",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   195
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "愧",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   195
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "昏沉",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   195
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "睡眠",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   195
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "心练达",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   195
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "心所练达",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   195
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "正业离",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   195
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "正命离",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   195
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无贪",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   195
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无嗔",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   195,
+   196
+  ]
+ },
+ {
+  "pali": "subhāsitavācā",
+  "zh": "善语",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "非正语",
+  "pages": [
+   195
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "相应理",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   195
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "义广释",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   187,
+   188
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "概要缅疏",
+  "zh_alt": [
+   "阿毗达摩义概要缅疏"
+  ],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   187,
+   188,
+   197
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "缘起分别根本复注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   188
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "受分别",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   187
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "心所章",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   185
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "基础阿毗达摩义概要",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   197
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "阿毗达摩概要精解",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   197
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "马哈甘达勇西亚多",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   197
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "智裔西亚多",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   197
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "帕奥西亚多",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   197
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "喜瑞西亚多",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   197
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "叶均",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   197
+  ]
+ }
+]

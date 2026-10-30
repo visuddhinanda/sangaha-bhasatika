@@ -1,0 +1,1934 @@
+[
+ {
+  "pali": "vīthimuttasaṅgaha",
+  "zh": "离路概要",
+  "zh_alt": [
+   "离心路章",
+   "地章"
+  ],
+  "category": "书名",
+  "note": "阐释19离路心执行结生有分死亡作用之章",
+  "pages": [
+   91,
+   92
+  ]
+ },
+ {
+  "pali": "pavattisaṅgaha",
+  "zh": "转起概要",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "离心路章之别称",
+  "pages": [
+   91,
+   92
+  ]
+ },
+ {
+  "pali": "Cetasikaparicchedo",
+  "zh": "",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "原文标题，照录",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "vīthicitta",
+  "zh": "路心",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "离路心",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "执行结生、有分、死亡作用的19心",
+  "pages": [
+   91,
+   92
+  ]
+ },
+ {
+  "pali": "cattāri catukkāni",
+  "zh": "四个四",
+  "zh_alt": [
+   "四个四组"
+  ],
+  "category": "其他",
+  "note": "四地、四结生、四业、四死亡",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "catasso bhūmiyo",
+  "zh": "四地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "恶趣、欲善趣、色界、无色界地",
+  "pages": [
+   91,
+   92,
+   93,
+   95
+  ]
+ },
+ {
+  "pali": "catubbidhā paṭisandhi",
+  "zh": "四结生",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "恶趣、欲善趣、色界、无色界结生",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "cattāri kammāni",
+  "zh": "四业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "依作用、成熟次序、时间、处各分四",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "catudhā maraṇuppatti",
+  "zh": "四死亡",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "寿尽、业尽、俱尽、毁坏业",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "令生业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "依作用之四业之一",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "支助业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "阻碍业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "毁坏业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "亦为四死亡之一",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "重业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "依成熟次序",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "临终业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "惯习业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "已作业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "现世受业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "依成熟时间",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "次生受业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "后后受业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无效业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "寿尽",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "四死亡之一",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "业尽",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "两者俱尽",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "paṭisandhi",
+  "zh": "结生",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "",
+  "pages": [
+   91,
+   96
+  ]
+ },
+ {
+  "pali": "bhavaṅga",
+  "zh": "有分",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "cuti",
+  "zh": "死亡",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "",
+  "pages": [
+   91
+  ]
+ },
+ {
+  "pali": "Bhūmicatukkaṃ",
+  "zh": "四地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "节名",
+  "pages": [
+   92
+  ]
+ },
+ {
+  "pali": "bhūmi",
+  "zh": "地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "众生生存和轮转之处",
+  "pages": [
+   97,
+   99
+  ]
+ },
+ {
+  "pali": "apāyabhūmi",
+  "zh": "恶趣地",
+  "zh_alt": [
+   "离善业地",
+   "恶[趣]地"
+  ],
+  "category": "地/界",
+  "note": "远离善业之地；apa远离+aya善业",
+  "pages": [
+   92,
+   93,
+   97
+  ]
+ },
+ {
+  "pali": "duggatibhūmi",
+  "zh": "恶趣地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "作恶业者应到的不好之处",
+  "pages": [
+   97
+  ]
+ },
+ {
+  "pali": "kāmasugatibhūmi",
+  "zh": "欲善趣地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "与欲爱相关的善趣地，7种",
+  "pages": [
+   92,
+   93,
+   103
+  ]
+ },
+ {
+  "pali": "sugatibhūmi",
+  "zh": "善趣地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "造善业者该到的殊胜地",
+  "pages": [
+   103
+  ]
+ },
+ {
+  "pali": "gati",
+  "zh": "趣",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "应到达的地与生命",
+  "pages": [
+   103
+  ]
+ },
+ {
+  "pali": "kāmataṇhā",
+  "zh": "欲爱",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   103
+  ]
+ },
+ {
+  "pali": "rūpāvacarabhūmi",
+  "zh": "色界地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "16种",
+  "pages": [
+   92,
+   93,
+   107
+  ]
+ },
+ {
+  "pali": "arūpāvacarabhūmi",
+  "zh": "无色界地",
+  "zh_alt": [
+   "无色地"
+  ],
+  "category": "地/界",
+  "note": "4种",
+  "pages": [
+   92,
+   93
+  ]
+ },
+ {
+  "pali": "arūpabhūmi",
+  "zh": "无色地",
+  "zh_alt": [
+   "无色界地"
+  ],
+  "category": "地/界",
+  "note": "无色果报名蕴",
+  "pages": [
+   92,
+   109
+  ]
+ },
+ {
+  "pali": "kāmāvacarabhūmi",
+  "zh": "欲界地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "恶趣4+欲善趣7共11地",
+  "pages": [
+   92,
+   93,
+   94
+  ]
+ },
+ {
+  "pali": "niraya",
+  "zh": "地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "没有快乐的地方；ni无+aya快乐",
+  "pages": [
+   92,
+   98
+  ]
+ },
+ {
+  "pali": "tiracchānayoni",
+  "zh": "畜生类",
+  "zh_alt": [
+   "畜生"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   93
+  ]
+ },
+ {
+  "pali": "tiracchāna",
+  "zh": "畜生",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "横着行走的众生",
+  "pages": [
+   99
+  ]
+ },
+ {
+  "pali": "pettivisaya",
+  "zh": "鬼界",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   93
+  ]
+ },
+ {
+  "pali": "peta",
+  "zh": "鬼",
+  "zh_alt": [],
+  "category": "人",
+  "note": "远离诸乐的众生",
+  "pages": [
+   99
+  ]
+ },
+ {
+  "pali": "asurakāya",
+  "zh": "阿修罗众",
+  "zh_alt": [
+   "阿修罗"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   93,
+   99
+  ]
+ },
+ {
+  "pali": "asura",
+  "zh": "阿修罗",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   103
+  ]
+ },
+ {
+  "pali": "manussa",
+  "zh": "人",
+  "zh_alt": [
+   "人界"
+  ],
+  "category": "地/界",
+  "note": "具念、勇敢而心敏锐",
+  "pages": [
+   92,
+   104
+  ]
+ },
+ {
+  "pali": "cātumahārājika",
+  "zh": "四大王天",
+  "zh_alt": [
+   "四大王[天]"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   93,
+   104
+  ]
+ },
+ {
+  "pali": "tāvatiṃsa",
+  "zh": "三十三天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   104,
+   106
+  ]
+ },
+ {
+  "pali": "yāma",
+  "zh": "夜摩天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "远离忧苦的天众之地",
+  "pages": [
+   92,
+   104
+  ]
+ },
+ {
+  "pali": "tusita",
+  "zh": "兜率天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   104
+  ]
+ },
+ {
+  "pali": "nimmānarati",
+  "zh": "化乐天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   104
+  ]
+ },
+ {
+  "pali": "paranimmitavasavatti",
+  "zh": "他化自在天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   104
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "欲界天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "6层",
+  "pages": [
+   94
+  ]
+ },
+ {
+  "pali": "Brahmapārisajja",
+  "zh": "梵众天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "大梵天的随从、众庶梵天地",
+  "pages": [
+   92,
+   107
+  ]
+ },
+ {
+  "pali": "Brahmapurohita",
+  "zh": "梵辅天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "参谋、辅相梵天地",
+  "pages": [
+   92,
+   107
+  ]
+ },
+ {
+  "pali": "Mahābrahmā",
+  "zh": "大梵天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   107
+  ]
+ },
+ {
+  "pali": "paṭhamajjhānabhūmi",
+  "zh": "初禅地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   93,
+   107
+  ]
+ },
+ {
+  "pali": "Parittābha",
+  "zh": "少光天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   107
+  ]
+ },
+ {
+  "pali": "Appamāṇābha",
+  "zh": "无量光天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   107
+  ]
+ },
+ {
+  "pali": "Ābhassara",
+  "zh": "极光天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   107
+  ]
+ },
+ {
+  "pali": "dutiyajjhānabhūmi",
+  "zh": "第二禅地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   93,
+   107
+  ]
+ },
+ {
+  "pali": "Parittasubha",
+  "zh": "少华光天",
+  "zh_alt": [
+   "少净天"
+  ],
+  "category": "地/界",
+  "note": "旧译少净天",
+  "pages": [
+   92,
+   107
+  ]
+ },
+ {
+  "pali": "Appamāṇasubha",
+  "zh": "无量华光天",
+  "zh_alt": [
+   "无量净天"
+  ],
+  "category": "地/界",
+  "note": "旧译无量净天",
+  "pages": [
+   92,
+   107
+  ]
+ },
+ {
+  "pali": "Subhakiṇha",
+  "zh": "彩华光天",
+  "zh_alt": [
+   "遍净天"
+  ],
+  "category": "地/界",
+  "note": "旧译遍净天",
+  "pages": [
+   92,
+   107
+  ]
+ },
+ {
+  "pali": "subha",
+  "zh": "华光",
+  "zh_alt": [
+   "美丽的光"
+  ],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   107
+  ]
+ },
+ {
+  "pali": "tatiyajjhānabhūmi",
+  "zh": "第三禅地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   93,
+   107
+  ]
+ },
+ {
+  "pali": "Vehapphala",
+  "zh": "广果天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   108
+  ]
+ },
+ {
+  "pali": "Asaññasatta",
+  "zh": "无想有情天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "无名法的梵天地",
+  "pages": [
+   92,
+   108
+  ]
+ },
+ {
+  "pali": "asañña",
+  "zh": "无想",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   108
+  ]
+ },
+ {
+  "pali": "Suddhāvāsa",
+  "zh": "净居天",
+  "zh_alt": [
+   "净居地"
+  ],
+  "category": "地/界",
+  "note": "不来与阿拉汉梵天之地，5地",
+  "pages": [
+   92,
+   93,
+   108
+  ]
+ },
+ {
+  "pali": "catutthajjhānabhūmi",
+  "zh": "第四禅地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   93
+  ]
+ },
+ {
+  "pali": "Aviha",
+  "zh": "无住天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   108
+  ]
+ },
+ {
+  "pali": "Atappa",
+  "zh": "无热天",
+  "zh_alt": [
+   "无烦天"
+  ],
+  "category": "地/界",
+  "note": "p96作无烦天",
+  "pages": [
+   92,
+   96,
+   108
+  ]
+ },
+ {
+  "pali": "Sudassa",
+  "zh": "善现天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   108
+  ]
+ },
+ {
+  "pali": "Sudassī",
+  "zh": "善见天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   108
+  ]
+ },
+ {
+  "pali": "Akaniṭṭha",
+  "zh": "色究竟天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   108
+  ]
+ },
+ {
+  "pali": "Ākāsānañcāyatanabhūmi",
+  "zh": "空无边处地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   93,
+   109
+  ]
+ },
+ {
+  "pali": "viññāṇañcāyatanabhūmi",
+  "zh": "识无边处地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   93,
+   109
+  ]
+ },
+ {
+  "pali": "ākiñcaññāyatanabhūmi",
+  "zh": "无所有处地",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   93,
+   109
+  ]
+ },
+ {
+  "pali": "nevasaññānāsaññāyatanabhūmi",
+  "zh": "非想非非想处地",
+  "zh_alt": [
+   "最高生命"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   92,
+   93,
+   96,
+   110
+  ]
+ },
+ {
+  "pali": "puthujjana",
+  "zh": "凡夫",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   92,
+   93
+  ]
+ },
+ {
+  "pali": "sotāpanna",
+  "zh": "入流",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   92,
+   93,
+   102
+  ]
+ },
+ {
+  "pali": "sakadāgāmī",
+  "zh": "一来",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   92,
+   93
+  ]
+ },
+ {
+  "pali": "ariya",
+  "zh": "圣者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   92,
+   93
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "非圣者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   93
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "梵天",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "证禅那、神通而长寿殊胜者",
+  "pages": [
+   95,
+   107
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "31地",
+  "zh_alt": [
+   "31界"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   93,
+   95
+  ]
+ },
+ {
+  "pali": "Sañjīva",
+  "zh": "复活地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   94,
+   98
+  ]
+ },
+ {
+  "pali": "Kāḷasutta",
+  "zh": "黑绳地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   94,
+   98
+  ]
+ },
+ {
+  "pali": "Saṅghāta",
+  "zh": "碾压地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   94,
+   98
+  ]
+ },
+ {
+  "pali": "Roruva",
+  "zh": "号叫地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   94,
+   98
+  ]
+ },
+ {
+  "pali": "Jālaroruva",
+  "zh": "火焰地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "号叫地狱别称",
+  "pages": [
+   98
+  ]
+ },
+ {
+  "pali": "Mahāroruva",
+  "zh": "大号叫地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   94,
+   98
+  ]
+ },
+ {
+  "pali": "Dhūmarorūva",
+  "zh": "浓烟地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "大号叫地狱别称",
+  "pages": [
+   98
+  ]
+ },
+ {
+  "pali": "Tāpana",
+  "zh": "灼热地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   94,
+   98
+  ]
+ },
+ {
+  "pali": "Mahātāpana",
+  "zh": "大灼热地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   94,
+   98
+  ]
+ },
+ {
+  "pali": "Patāpana",
+  "zh": "倍灼热地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "大灼热地狱别称",
+  "pages": [
+   98
+  ]
+ },
+ {
+  "pali": "Avīci",
+  "zh": "无间地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   94,
+   98
+  ]
+ },
+ {
+  "pali": "ussada",
+  "zh": "小地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "本意许多；围绕大地狱",
+  "pages": [
+   98,
+   101
+  ]
+ },
+ {
+  "pali": "Pūtigūtha",
+  "zh": "腐粪地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   94,
+   99
+  ]
+ },
+ {
+  "pali": "Kukkula",
+  "zh": "热灰地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   94,
+   99
+  ]
+ },
+ {
+  "pali": "Simbalidāya",
+  "zh": "木棉林地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   94,
+   99
+  ]
+ },
+ {
+  "pali": "Asipatta",
+  "zh": "剑叶林地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   94,
+   99
+  ]
+ },
+ {
+  "pali": "Khārodaka",
+  "zh": "藤河地狱",
+  "zh_alt": [
+   "咸浆河地狱"
+  ],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   99
+  ]
+ },
+ {
+  "pali": "lohakumbhī",
+  "zh": "铁浆锅",
+  "zh_alt": [
+   "铜锅"
+  ],
+  "category": "地/界",
+  "note": "王舍城附近地狱",
+  "pages": [
+   102
+  ]
+ },
+ {
+  "pali": "tapodānadī",
+  "zh": "温泉河",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   102
+  ]
+ },
+ {
+  "pali": "lokantarikaniraya",
+  "zh": "世间地狱",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "三轮围界之间的黑暗处",
+  "pages": [
+   103
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "由旬",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   94
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无数劫",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "",
+  "pages": [
+   95
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "大劫",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "",
+  "pages": [
+   95
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "天年",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "",
+  "pages": [
+   95
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "不善果报舍俱推度心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "恶趣结生心",
+  "pages": [
+   96
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无因善果报舍俱推度心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   96
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "大果报心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "8种",
+  "pages": [
+   96
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "命九法聚色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "无想有情的结生色",
+  "pages": [
+   97
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "果报心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   96
+  ]
+ },
+ {
+  "pali": "vemānikapetarāja",
+  "zh": "天宫鬼王",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   100
+  ]
+ },
+ {
+  "pali": "Yama",
+  "zh": "阎魔王",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   100
+  ]
+ },
+ {
+  "pali": "Yamarājā",
+  "zh": "阎魔王",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   100
+  ]
+ },
+ {
+  "pali": "vemānikapeta",
+  "zh": "天宫鬼",
+  "zh_alt": [],
+  "category": "人",
+  "note": "有时享福有时受苦",
+  "pages": [
+   103
+  ]
+ },
+ {
+  "pali": "vemānika",
+  "zh": "有天宫的",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   103
+  ]
+ },
+ {
+  "pali": "vimāna",
+  "zh": "天宫",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   103
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "地狱卒",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   100
+  ]
+ },
+ {
+  "pali": "kammapaccayautusamuṭṭhānarūpa",
+  "zh": "业缘时节生色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   100
+  ]
+ },
+ {
+  "pali": "kammavipāka",
+  "zh": "不善业果报",
+  "zh_alt": [],
+  "category": "业",
+  "note": "引文中",
+  "pages": [
+   100
+  ]
+ },
+ {
+  "pali": "devadūta",
+  "zh": "天使",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "阎魔王派遣的使者",
+  "pages": [
+   100
+  ]
+ },
+ {
+  "pali": "Devadūtasutta",
+  "zh": "天使经",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   100,
+   101,
+   102
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "后五十经",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   100
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "后五十经注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   100
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "后五十经复注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   100
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "概要缅疏",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "Saṅgaha-bhāsāṭīkā",
+  "pages": [
+   99,
+   100
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "业处",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   102
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "阿拉汉",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   102,
+   106
+  ]
+ },
+ {
+  "pali": "Lakkhaṇasaṃyutta",
+  "zh": "相相应",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   102
+  ]
+ },
+ {
+  "pali": "Khandhavibhaṅgaṭṭhakathā",
+  "zh": "蕴分别义注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   102
+  ]
+ },
+ {
+  "pali": "kālakañcikaasura",
+  "zh": "伽罗干阇迦阿修罗",
+  "zh_alt": [],
+  "category": "人",
+  "note": "鬼阿修罗",
+  "pages": [
+   102,
+   103
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "鬼阿修罗",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   99,
+   102
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "天阿修罗",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   99
+  ]
+ },
+ {
+  "pali": "paṭipakkha",
+  "zh": "敌对者",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   103
+  ]
+ },
+ {
+  "pali": "vepacitti",
+  "zh": "维婆质多",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "阿修罗名",
+  "pages": [
+   103
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "名色分别",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   103
+  ]
+ },
+ {
+  "pali": "vinipātikāsura",
+  "zh": "堕苦趣阿修罗",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   103,
+   105
+  ]
+ },
+ {
+  "pali": "khuddaka",
+  "zh": "小",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   103
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "佛史义注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   103
+  ]
+ },
+ {
+  "pali": "Manu",
+  "zh": "马傉",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   104
+  ]
+ },
+ {
+  "pali": "Dhataraṭṭha",
+  "zh": "持国天王",
+  "zh_alt": [
+   "护国天王"
+  ],
+  "category": "人名",
+  "note": "统领东方",
+  "pages": [
+   104,
+   105
+  ]
+ },
+ {
+  "pali": "Virūḷhaka",
+  "zh": "增长天王",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "南方",
+  "pages": [
+   105
+  ]
+ },
+ {
+  "pali": "Virūpakkha",
+  "zh": "广目天王",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "西方",
+  "pages": [
+   105
+  ]
+ },
+ {
+  "pali": "Kuvera",
+  "zh": "俱毗罗",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "北方",
+  "pages": [
+   105
+  ]
+ },
+ {
+  "pali": "Magha",
+  "zh": "马卡",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   104,
+   106
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "五无间业",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   104
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "南赡部洲",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   104
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "轮围界",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   103,
+   105
+  ]
+ },
+ {
+  "pali": "bhummadeva",
+  "zh": "地居天",
+  "zh_alt": [],
+  "category": "人",
+  "note": "依于大地的天神",
+  "pages": [
+   105,
+   106
+  ]
+ },
+ {
+  "pali": "kumbhaṇḍa",
+  "zh": "瓮睾",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   105
+  ]
+ },
+ {
+  "pali": "rakkhasa",
+  "zh": "罗刹",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   105
+  ]
+ },
+ {
+  "pali": "gandhabba",
+  "zh": "音乐神",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   105
+  ]
+ },
+ {
+  "pali": "juṇhā",
+  "zh": "月光",
+  "zh_alt": [],
+  "category": "人",
+  "note": "音乐神女别称",
+  "pages": [
+   105
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "究竟义注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   105,
+   108
+  ]
+ },
+ {
+  "pali": "bhūmaṭṭhaka",
+  "zh": "位于地面的",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   106
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "空居天",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   106
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "树居天",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   106
+  ]
+ },
+ {
+  "pali": "Suyāma",
+  "zh": "须夜摩",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "夜摩天帝",
+  "pages": [
+   106
+  ]
+ },
+ {
+  "pali": "Santussita",
+  "zh": "喜足",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "兜率天帝",
+  "pages": [
+   106
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "不来",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   106,
+   108
+  ]
+ },
+ {
+  "pali": "Nandana",
+  "zh": "欢喜园",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   106
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "巴拉密",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   106
+  ]
+ },
+ {
+  "pali": "adhimuttikālakiriyā",
+  "zh": "决意死",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "菩萨于天界自行去世",
+  "pages": [
+   106
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "梵网经",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   107
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "心生色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   108
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "四梵住",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "慈悲喜舍",
+  "pages": [
+   109
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "果定",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   109
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "名蕴",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   109
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "三因",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   110
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "善趣无因",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   110
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "恶趣无因",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   110
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "八难",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   110
+  ]
+ }
+]

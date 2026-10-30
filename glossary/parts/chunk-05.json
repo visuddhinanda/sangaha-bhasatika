@@ -1,0 +1,1558 @@
+[
+ {
+  "pali": "tadārammaṇaniyama",
+  "zh": "彼所缘定律",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "在哪些速行之后生起哪些彼所缘的规律",
+  "pages": [
+   59,
+   60
+  ]
+ },
+ {
+  "pali": "tadārammaṇa",
+  "zh": "彼所缘",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "取前面速行所缘的欲界果报心",
+  "pages": [
+   59,
+   60,
+   62,
+   67,
+   68
+  ]
+ },
+ {
+  "pali": "aniṭṭhārammaṇa",
+  "zh": "不可意所缘",
+  "zh_alt": [
+   "不可喜所缘"
+  ],
+  "category": "所缘",
+  "note": "不想要的所缘，生起不善果报",
+  "pages": [
+   59,
+   60,
+   64
+  ]
+ },
+ {
+  "pali": "iṭṭhārammaṇa",
+  "zh": "可喜所缘",
+  "zh_alt": [
+   "中等可喜所缘"
+  ],
+  "category": "所缘",
+  "note": "想要的所缘，生起善果报",
+  "pages": [
+   59,
+   60,
+   63
+  ]
+ },
+ {
+  "pali": "atiiṭṭhārammaṇa",
+  "zh": "极可喜所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "如佛陀等极其想要的所缘",
+  "pages": [
+   59,
+   60,
+   61
+  ]
+ },
+ {
+  "pali": "akusalavipāka",
+  "zh": "不善果报",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   59,
+   60
+  ]
+ },
+ {
+  "pali": "kusalavipāka",
+  "zh": "善果报",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   59,
+   60
+  ]
+ },
+ {
+  "pali": "pañcaviññāṇa",
+  "zh": "五识",
+  "zh_alt": [
+   "双五识"
+  ],
+  "category": "心",
+  "note": "",
+  "pages": [
+   59,
+   60,
+   72
+  ]
+ },
+ {
+  "pali": "sampaṭicchana",
+  "zh": "领受",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   59,
+   60
+  ]
+ },
+ {
+  "pali": "santīraṇa",
+  "zh": "推度",
+  "zh_alt": [
+   "舍推"
+  ],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   59,
+   60,
+   67
+  ]
+ },
+ {
+  "pali": "somanassasahagata",
+  "zh": "悦俱",
+  "zh_alt": [],
+  "category": "心",
+  "note": "与悦受俱",
+  "pages": [
+   59,
+   60
+  ]
+ },
+ {
+  "pali": "upekkhāsahagata",
+  "zh": "舍俱",
+  "zh_alt": [],
+  "category": "心",
+  "note": "与舍受俱",
+  "pages": [
+   59,
+   60
+  ]
+ },
+ {
+  "pali": "domanassasahagata",
+  "zh": "忧俱",
+  "zh_alt": [],
+  "category": "心",
+  "note": "与忧受俱",
+  "pages": [
+   59,
+   60
+  ]
+ },
+ {
+  "pali": "kiriyajavana",
+  "zh": "唯作速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   59,
+   66
+  ]
+ },
+ {
+  "pali": "javana",
+  "zh": "速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   59,
+   60,
+   69
+  ]
+ },
+ {
+  "pali": "bhavaṅga",
+  "zh": "有分",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   60
+  ]
+ },
+ {
+  "pali": "bhavaṅgapāta",
+  "zh": "落入有分",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   59,
+   60,
+   70
+  ]
+ },
+ {
+  "pali": "somanassapaṭisandhika",
+  "zh": "悦结生者",
+  "zh_alt": [
+   "悦俱结生者"
+  ],
+  "category": "人",
+  "note": "以悦俱心结生者",
+  "pages": [
+   59,
+   60,
+   62
+  ]
+ },
+ {
+  "pali": "parittārammaṇa",
+  "zh": "弱所缘",
+  "zh_alt": [
+   "欲界所缘"
+  ],
+  "category": "所缘",
+  "note": "即欲界所缘",
+  "pages": [
+   59,
+   60
+  ]
+ },
+ {
+  "pali": "ācariya",
+  "zh": "诸师",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   59,
+   60
+  ]
+ },
+ {
+  "pali": "kāmāvacarajavana",
+  "zh": "欲界速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "29种",
+  "pages": [
+   59,
+   60
+  ]
+ },
+ {
+  "pali": "kāmāvacarasatta",
+  "zh": "欲界众生",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   59,
+   60,
+   62
+  ]
+ },
+ {
+  "pali": "kāmāvacaradhamma",
+  "zh": "欲界法",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   59,
+   60
+  ]
+ },
+ {
+  "pali": "vibhūta",
+  "zh": "清晰",
+  "zh_alt": [
+   "清晰所缘"
+  ],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   59,
+   60
+  ]
+ },
+ {
+  "pali": "atimahanta",
+  "zh": "极大",
+  "zh_alt": [
+   "极大所缘"
+  ],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   59,
+   60,
+   62
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "大所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   63,
+   67
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "不清晰所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   67
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "心路概要",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "阿毗达摩义概要第四章",
+  "pages": [
+   60,
+   70
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "果报确定",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "果报心依所缘相应的受固定",
+  "pages": [
+   60,
+   61
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "速行可变",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "速行依所缘相应的受不定",
+  "pages": [
+   60,
+   66
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "速行确定",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "阿拉汉速行随所缘真实生起",
+  "pages": [
+   61
+  ]
+ },
+ {
+  "pali": "cittavipallāsa",
+  "zh": "心颠倒",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   61
+  ]
+ },
+ {
+  "pali": "diṭṭhivipallāsa",
+  "zh": "见颠倒",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   61,
+   64
+  ]
+ },
+ {
+  "pali": "saññāvipallāsa",
+  "zh": "想颠倒",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   64
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "有学",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   61,
+   66
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "凡夫",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   60,
+   66
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "阿拉汉",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   61
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "大唯作",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   61
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "生笑",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   60,
+   61
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "大善",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   60,
+   61
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "大果报",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   60,
+   61
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "嗔根",
+  "zh_alt": [
+   "嗔速行"
+  ],
+  "category": "心",
+  "note": "",
+  "pages": [
+   61
+  ]
+ },
+ {
+  "pali": "āvāsika",
+  "zh": "主有分",
+  "zh_alt": [
+   "根本有分"
+  ],
+  "category": "心路",
+  "note": "结生时的常规有分",
+  "pages": [
+   62,
+   63,
+   68
+  ]
+ },
+ {
+  "pali": "āgantukabhavaṅga",
+  "zh": "客有分",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "嗔速行后临时生起的舍俱推度有分",
+  "pages": [
+   62,
+   63,
+   68
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "概念所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   62,
+   63
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "广大所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   62,
+   67
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "过去有分",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   62,
+   63
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "有分波动",
+  "zh_alt": [
+   "波"
+  ],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   62,
+   68
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "有分断",
+  "zh_alt": [
+   "断"
+  ],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   62,
+   68
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "五门转向",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   62
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "眼识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   62
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "确定",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   62
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "意门转向",
+  "zh_alt": [
+   "意转",
+   "意"
+  ],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   63,
+   72
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "眼门",
+  "zh_alt": [],
+  "category": "门",
+  "note": "",
+  "pages": [
+   62,
+   64
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "意门",
+  "zh_alt": [],
+  "category": "门",
+  "note": "",
+  "pages": [
+   63
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "身门",
+  "zh_alt": [],
+  "category": "门",
+  "note": "",
+  "pages": [
+   64
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "趣相",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "临死所取",
+  "pages": [
+   62
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "临死心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   62
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "分别义注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   62
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "根本复注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   62,
+   73
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "概要缅疏",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "Saṅgaha-bhāsāṭīkā",
+  "pages": [
+   61,
+   62,
+   70
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "究竟义注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   62
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "蕴分别义注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   63
+  ]
+ },
+ {
+  "pali": "Cūḷābhayatthera",
+  "zh": "三藏小无畏长老",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "主张以果报心区分可喜不可喜",
+  "pages": [
+   63
+  ]
+ },
+ {
+  "pali": "sabhāva",
+  "zh": "自性",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "自性可喜/不可喜所缘",
+  "pages": [
+   64
+  ]
+ },
+ {
+  "pali": "parikappa",
+  "zh": "造作",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "依心想而成的可喜/不可喜",
+  "pages": [
+   64,
+   65
+  ]
+ },
+ {
+  "pali": "parikappa aniṭṭhārammaṇa",
+  "zh": "造作不可喜所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   65
+  ]
+ },
+ {
+  "pali": "parikappa iṭṭhārammaṇa",
+  "zh": "造作可喜所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   65
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "业生色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   65,
+   73
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "无因结生",
+  "zh_alt": [],
+  "category": "结生/死生",
+  "note": "",
+  "pages": [
+   65
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "随烦恼",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   66
+  ]
+ },
+ {
+  "pali": "kecivāda",
+  "zh": "个别观点",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   66
+  ]
+ },
+ {
+  "pali": "samāna",
+  "zh": "普遍观点",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   66
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "发趣论",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   66
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "法集论",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   66
+  ]
+ },
+ {
+  "pali": "kusalākusale niruddhe vipāko tadārammaṇatā uppajjati",
+  "zh": "善与不善灭去时，果报以彼所缘生起",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "发趣论经文",
+  "pages": [
+   66
+  ]
+ },
+ {
+  "pali": "abyākate niruddhe vipāko tadārammaṇatā uppajjati",
+  "zh": "无记灭去时，果报以彼所缘生起",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "",
+  "pages": [
+   66
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "小所缘心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   66
+  ]
+ },
+ {
+  "pali": "kāmataṇhā",
+  "zh": "欲贪",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "彼所缘基于欲贪生起",
+  "pages": [
+   66
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "广大速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   67,
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "种姓",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "入流道心路中",
+  "pages": [
+   67
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "净化",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "高阶道心路中",
+  "pages": [
+   67
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "入流道",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   67
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "果定",
+  "zh_alt": [
+   "入果定"
+  ],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   67,
+   70
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "灭尽定",
+  "zh_alt": [
+   "灭定",
+   "灭尽"
+  ],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   67,
+   70
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "紧急有分",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "客有分唯一作用",
+  "pages": [
+   68
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "观智",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   68
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "二因",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   68
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "三因",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   68
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "入流果者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   69
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "一来果者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   69
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "道圣者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   69
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "恶趣",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   69
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "善趣",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   69
+  ]
+ },
+ {
+  "pali": "javananiyama",
+  "zh": "速行定律",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "速行生起次数的规律",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "parittajavanavīthi",
+  "zh": "弱速行心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "指欲界速行心路",
+  "pages": [
+   69
+  ]
+ },
+ {
+  "pali": "sattakkhattuṃ",
+  "zh": "七次",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "",
+  "pages": [
+   69,
+   73
+  ]
+ },
+ {
+  "pali": "chakkhattuṃ",
+  "zh": "六次",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "",
+  "pages": [
+   69,
+   73
+  ]
+ },
+ {
+  "pali": "mandappavatti",
+  "zh": "虚弱",
+  "zh_alt": [
+   "虚弱时"
+  ],
+  "category": "刹那/时分",
+  "note": "依处弱致心势头减弱",
+  "pages": [
+   69,
+   70,
+   73
+  ]
+ },
+ {
+  "pali": "maraṇakāla",
+  "zh": "临死时",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "yamakapāṭihāriya",
+  "zh": "双神变",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   69,
+   70,
+   71
+  ]
+ },
+ {
+  "pali": "paccavekkhaṇacitta",
+  "zh": "省察心",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "ādikammika",
+  "zh": "初修者",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   69,
+   70,
+   71
+  ]
+ },
+ {
+  "pali": "paṭhamakappanā",
+  "zh": "首次安止",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "mahaggatajavana",
+  "zh": "广大速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "abhiññājavana",
+  "zh": "神通速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   69,
+   70,
+   71
+  ]
+ },
+ {
+  "pali": "magguppāda",
+  "zh": "道生起",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "四道生起各一心刹那",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "ekacittakkhaṇika",
+  "zh": "一个心刹那",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "phalacitta",
+  "zh": "果心",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "nirodhasamāpatti",
+  "zh": "灭尽定",
+  "zh_alt": [],
+  "category": "修行",
+  "note": "",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "catutthāruppajavana",
+  "zh": "第四无色速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "vuṭṭhānakāla",
+  "zh": "出起时",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "anāgāmiphala",
+  "zh": "不来果",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "arahattaphala",
+  "zh": "阿拉汉果",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "samāpattivīthi",
+  "zh": "入定心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "入禅或入果定心路",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "bhavaṅgasota",
+  "zh": "有分流",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "vīthiniyama",
+  "zh": "心路规律",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "",
+  "pages": [
+   69,
+   70
+  ]
+ },
+ {
+  "pali": "mucchākāla",
+  "zh": "晕倒时",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "",
+  "pages": [
+   71,
+   73
+  ]
+ },
+ {
+  "pali": "visaññibhūtakāla",
+  "zh": "昏迷时",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "",
+  "pages": [
+   71
+  ]
+ },
+ {
+  "pali": "atitaruṇakāla",
+  "zh": "胎婴儿期",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "",
+  "pages": [
+   71
+  ]
+ },
+ {
+  "pali": "Alambusā",
+  "zh": "阿腊布莎天女",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   71,
+   73
+  ]
+ },
+ {
+  "pali": "Isisiṅga",
+  "zh": "依希新伽隐士",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   71,
+   73
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "大疏钞",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   70
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "随疏",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   71
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "禅那省察速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   71
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "近行定速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "安止前生起3或4次",
+  "pages": [
+   71
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "安止速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   71
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "禅那心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   71
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "神通心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   71
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "道心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   71
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "非想非非想",
+  "zh_alt": [],
+  "category": "地/界",
+  "note": "",
+  "pages": [
+   71
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "道无间果",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   72
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "利慧",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   70,
+   71,
+   72
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "钝慧",
+  "zh_alt": [],
+  "category": "人",
+  "note": "",
+  "pages": [
+   70,
+   71,
+   72
+  ]
+ },
+ {
+  "pali": "Nandopananda",
+  "zh": "难陀波难陀龙王",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   71
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "大目犍连",
+  "zh_alt": [],
+  "category": "人名",
+  "note": "",
+  "pages": [
+   71
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "意界",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   72
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "智不相应",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   72
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "智相应",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   72
+  ]
+ },
+ {
+  "pali": "kammapatha",
+  "zh": "业道",
+  "zh_alt": [],
+  "category": "业",
+  "note": "",
+  "pages": [
+   73
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "依处色",
+  "zh_alt": [
+   "心所依处色"
+  ],
+  "category": "色",
+  "note": "",
+  "pages": [
+   73
+  ]
+ },
+ {
+  "pali": "eva",
+  "zh": "只",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "限制词",
+  "pages": [
+   73
+  ]
+ }
+]

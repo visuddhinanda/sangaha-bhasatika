@@ -1,0 +1,1468 @@
+[
+ {
+  "pali": "vīthimutta",
+  "zh": "离心路",
+  "zh_alt": [
+   "离路心",
+   "离门心"
+  ],
+  "category": "心路",
+  "note": "结生有分死亡不在门生起",
+  "pages": [
+   13
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "心路概要",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   13,
+   19
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "离心路概要",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   13
+  ]
+ },
+ {
+  "pali": "niyāma",
+  "zh": "定律",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "五种定律",
+  "pages": [
+   13
+  ]
+ },
+ {
+  "pali": "utuniyāma",
+  "zh": "时节定律",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "依时开花结果",
+  "pages": [
+   13
+  ]
+ },
+ {
+  "pali": "bījaniyāma",
+  "zh": "种子定律",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "芒果甜苦楝苦",
+  "pages": [
+   13
+  ]
+ },
+ {
+  "pali": "kammaniyāma",
+  "zh": "业定律",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "不善有过失善无过失",
+  "pages": [
+   13
+  ]
+ },
+ {
+  "pali": "dhammaniyāma",
+  "zh": "法定律",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "诸菩萨常法",
+  "pages": [
+   13
+  ]
+ },
+ {
+  "pali": "cittaniyāma",
+  "zh": "心定律",
+  "zh_alt": [],
+  "category": "定律/理论",
+  "note": "五门转向后生眼识等",
+  "pages": [
+   13
+  ]
+ },
+ {
+  "pali": "cha chakkāni",
+  "zh": "六个六组",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "依处门所缘识心路所缘现起",
+  "pages": [
+   13,
+   15
+  ]
+ },
+ {
+  "pali": "vatthu",
+  "zh": "依处",
+  "zh_alt": [
+   "六依处"
+  ],
+  "category": "门",
+  "note": "六依处",
+  "pages": [
+   13,
+   15
+  ]
+ },
+ {
+  "pali": "dvāra",
+  "zh": "门",
+  "zh_alt": [],
+  "category": "门",
+  "note": "六门",
+  "pages": [
+   13,
+   15
+  ]
+ },
+ {
+  "pali": "ārammaṇa",
+  "zh": "所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "六所缘",
+  "pages": [
+   13,
+   15
+  ]
+ },
+ {
+  "pali": "viññāṇa",
+  "zh": "识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "六识",
+  "pages": [
+   13,
+   14
+  ]
+ },
+ {
+  "pali": "visayappavatti",
+  "zh": "所缘现起",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "所缘生起呈现于门；共6种（离路心3种）",
+  "pages": [
+   13,
+   15
+  ]
+ },
+ {
+  "pali": "visaya",
+  "zh": "所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   15
+  ]
+ },
+ {
+  "pali": "kamma",
+  "zh": "业",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "离路心所缘之一",
+  "pages": [
+   13,
+   16
+  ]
+ },
+ {
+  "pali": "kammanimitta",
+  "zh": "业相",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "离路心所缘之一",
+  "pages": [
+   13,
+   16
+  ]
+ },
+ {
+  "pali": "gatinimitta",
+  "zh": "趣相",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "离路心所缘之一",
+  "pages": [
+   13,
+   16
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "杂项概要",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   13
+  ]
+ },
+ {
+  "pali": "Viññāṇachakkaṃ",
+  "zh": "六识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "cakkhuviññāṇa",
+  "zh": "眼识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   14,
+   15,
+   18
+  ]
+ },
+ {
+  "pali": "sotaviññāṇa",
+  "zh": "耳识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "ghānaviññāṇa",
+  "zh": "鼻识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "jivhāviññāṇa",
+  "zh": "舌识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "kāyaviññāṇa",
+  "zh": "身识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "manoviññāṇa",
+  "zh": "意识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "除双五识和意界外76心",
+  "pages": [
+   14,
+   15
+  ]
+ },
+ {
+  "pali": "Vīthichakkaṃ",
+  "zh": "六心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "cakkhudvāravīthi",
+  "zh": "眼门心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "共15种",
+  "pages": [
+   14,
+   22,
+   23
+  ]
+ },
+ {
+  "pali": "sotadvāravīthi",
+  "zh": "耳门心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "ghānadvāravīthi",
+  "zh": "鼻门心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "jivhādvāravīthi",
+  "zh": "舌门心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "kāyadvāravīthi",
+  "zh": "身门心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "manodvāravīthi",
+  "zh": "意门心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "cakkhuviññāṇavīthi",
+  "zh": "眼识心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "sotaviññāṇavīthi",
+  "zh": "耳识心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "ghānaviññāṇavīthi",
+  "zh": "鼻识心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "jivhāviññāṇavīthi",
+  "zh": "舌识心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "kāyaviññāṇavīthi",
+  "zh": "身识心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "manoviññāṇavīthi",
+  "zh": "意识心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "dvārappavattā cittappavattiyo",
+  "zh": "于门生起的心转起",
+  "zh_alt": [
+   "门生起的心转起"
+  ],
+  "category": "巴利释义",
+  "note": "即心路",
+  "pages": [
+   14,
+   16
+  ]
+ },
+ {
+  "pali": "dvārappavattā",
+  "zh": "门生起",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "强调心路与门相关",
+  "pages": [
+   16
+  ]
+ },
+ {
+  "pali": "cittappavatti",
+  "zh": "心转起",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "依次生起的心",
+  "pages": [
+   16
+  ]
+ },
+ {
+  "pali": "Vīthibhedo",
+  "zh": "心路类别",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   14
+  ]
+ },
+ {
+  "pali": "atimahanta",
+  "zh": "极大所缘",
+  "zh_alt": [
+   "极大"
+  ],
+  "category": "所缘",
+  "note": "有极多心刹那寿命",
+  "pages": [
+   14,
+   15,
+   16
+  ]
+ },
+ {
+  "pali": "mahanta",
+  "zh": "大所缘",
+  "zh_alt": [
+   "大"
+  ],
+  "category": "所缘",
+  "note": "有多的心刹那寿命",
+  "pages": [
+   14,
+   16,
+   19
+  ]
+ },
+ {
+  "pali": "paritta",
+  "zh": "小所缘",
+  "zh_alt": [
+   "小"
+  ],
+  "category": "所缘",
+  "note": "比大所缘少",
+  "pages": [
+   14,
+   16,
+   19
+  ]
+ },
+ {
+  "pali": "atiparitta",
+  "zh": "极小所缘",
+  "zh_alt": [
+   "极小"
+  ],
+  "category": "所缘",
+  "note": "比小所缘少",
+  "pages": [
+   14,
+   16,
+   19
+  ]
+ },
+ {
+  "pali": "vibhūta",
+  "zh": "清晰所缘",
+  "zh_alt": [
+   "清晰"
+  ],
+  "category": "所缘",
+  "note": "意门清楚的所缘",
+  "pages": [
+   14,
+   16
+  ]
+ },
+ {
+  "pali": "avibhūta",
+  "zh": "不清晰所缘",
+  "zh_alt": [
+   "不清晰"
+  ],
+  "category": "所缘",
+  "note": "意门不清楚的所缘",
+  "pages": [
+   14,
+   16
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "眼依处",
+  "zh_alt": [],
+  "category": "门",
+  "note": "",
+  "pages": [
+   15
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "眼门",
+  "zh_alt": [],
+  "category": "门",
+  "note": "",
+  "pages": [
+   15
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "色所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   15,
+   18
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "声所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   15,
+   21
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "香所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   15,
+   21
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "味所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   15,
+   21
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "触所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   15,
+   21
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "法所缘",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "",
+  "pages": [
+   15
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "意界",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   15
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "双五识",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   15
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "路心",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   15,
+   18,
+   24
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "离路心",
+  "zh_alt": [
+   "离门心"
+  ],
+  "category": "心路",
+  "note": "执行结生有分死亡作用",
+  "pages": [
+   15,
+   16,
+   24
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "寻",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   17
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "伺",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   17
+  ]
+ },
+ {
+  "pali": "manasikāra",
+  "zh": "作意",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "五识生起的条件",
+  "pages": [
+   17,
+   21
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "有分意门",
+  "zh_alt": [],
+  "category": "门",
+  "note": "",
+  "pages": [
+   17
+  ]
+ },
+ {
+  "pali": "Pañcadvāravīthi",
+  "zh": "五门心路",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   17
+  ]
+ },
+ {
+  "pali": "uppāda",
+  "zh": "生",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "最初生起的刹那",
+  "pages": [
+   18,
+   19
+  ]
+ },
+ {
+  "pali": "ṭhiti",
+  "zh": "住",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "尚未灭去仍住立",
+  "pages": [
+   18,
+   19
+  ]
+ },
+ {
+  "pali": "bhaṅga",
+  "zh": "灭",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "住立后坏灭",
+  "pages": [
+   18,
+   19
+  ]
+ },
+ {
+  "pali": "khaṇattaya",
+  "zh": "三小刹那",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "生住灭",
+  "pages": [
+   17,
+   18
+  ]
+ },
+ {
+  "pali": "ekacittakkhaṇa",
+  "zh": "一个心刹那",
+  "zh_alt": [
+   "一个大刹那"
+  ],
+  "category": "刹那/时分",
+  "note": "生住灭三小刹那之和",
+  "pages": [
+   17,
+   18,
+   19
+  ]
+ },
+ {
+  "pali": "khaṇa",
+  "zh": "刹那",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "究竟法生住灭的最短时间单位",
+  "pages": [
+   19
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "小刹那",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "生住灭各一",
+  "pages": [
+   19,
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "大刹那",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "即1心刹那",
+  "pages": [
+   19,
+   20
+  ]
+ },
+ {
+  "pali": "rūpadhamma",
+  "zh": "色法",
+  "zh_alt": [],
+  "category": "色",
+  "note": "寿命17心刹那",
+  "pages": [
+   17,
+   18,
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "色寿",
+  "zh_alt": [],
+  "category": "色",
+  "note": "17心刹那或51小刹那",
+  "pages": [
+   20,
+   22
+  ]
+ },
+ {
+  "pali": "āpātha",
+  "zh": "呈现",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "所缘呈现于门",
+  "pages": [
+   17,
+   18
+  ]
+ },
+ {
+  "pali": "bhavaṅga",
+  "zh": "有分",
+  "zh_alt": [],
+  "category": "心",
+  "note": "使生命不中断起连接作用",
+  "pages": [
+   17,
+   18,
+   24
+  ]
+ },
+ {
+  "pali": "bhavaṅgacalana",
+  "zh": "有分波动",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "有分受影响波动2次",
+  "pages": [
+   17,
+   18,
+   24
+  ]
+ },
+ {
+  "pali": "bhavaṅgasota",
+  "zh": "有分流",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   17,
+   18,
+   24
+  ]
+ },
+ {
+  "pali": "bhavaṅgupaccheda",
+  "zh": "有分断",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "第2个有分波动断有分流",
+  "pages": [
+   22,
+   24
+  ]
+ },
+ {
+  "pali": "atītabhavaṅga",
+  "zh": "过去有分",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "所缘未现起即灭的有分",
+  "pages": [
+   22,
+   24
+  ]
+ },
+ {
+  "pali": "atīta",
+  "zh": "过去",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "",
+  "pages": [
+   24
+  ]
+ },
+ {
+  "pali": "calana",
+  "zh": "动",
+  "zh_alt": [],
+  "category": "巴利语法",
+  "note": "",
+  "pages": [
+   24
+  ]
+ },
+ {
+  "pali": "upaccheda",
+  "zh": "停止",
+  "zh_alt": [
+   "中断"
+  ],
+  "category": "巴利语法",
+  "note": "",
+  "pages": [
+   24
+  ]
+ },
+ {
+  "pali": "bhavaṅgapāta",
+  "zh": "落入有分",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   17,
+   18
+  ]
+ },
+ {
+  "pali": "pañcadvārāvajjanacitta",
+  "zh": "五门转向心",
+  "zh_alt": [
+   "五门转向"
+  ],
+  "category": "心",
+  "note": "转向所缘的心",
+  "pages": [
+   17,
+   18,
+   24
+  ]
+ },
+ {
+  "pali": "sampaṭicchanacitta",
+  "zh": "领受心",
+  "zh_alt": [
+   "领受"
+  ],
+  "category": "心",
+  "note": "犹如接受",
+  "pages": [
+   17,
+   18
+  ]
+ },
+ {
+  "pali": "santīraṇacitta",
+  "zh": "推度心",
+  "zh_alt": [
+   "推度"
+  ],
+  "category": "心",
+  "note": "犹如揣度",
+  "pages": [
+   17,
+   18
+  ]
+ },
+ {
+  "pali": "voṭṭhabbanacitta",
+  "zh": "确定心",
+  "zh_alt": [
+   "确定"
+  ],
+  "category": "心",
+  "note": "犹如辨别决定",
+  "pages": [
+   17,
+   18
+  ]
+ },
+ {
+  "pali": "kāmāvacarajavana",
+  "zh": "欲界速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "二十九个",
+  "pages": [
+   17,
+   18,
+   24
+  ]
+ },
+ {
+  "pali": "javana",
+  "zh": "速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "迅猛地生起七次",
+  "pages": [
+   17,
+   19
+  ]
+ },
+ {
+  "pali": "tadārammaṇa",
+  "zh": "彼所缘",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "跟随速行生起两次",
+  "pages": [
+   17,
+   18,
+   19
+  ]
+ },
+ {
+  "pali": "tadārammaṇavāra",
+  "zh": "彼所缘时分",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "以彼所缘结束",
+  "pages": [
+   18,
+   19,
+   22
+  ]
+ },
+ {
+  "pali": "javanavāra",
+  "zh": "速行时分",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "以速行结束",
+  "pages": [
+   18,
+   19,
+   22
+  ]
+ },
+ {
+  "pali": "voṭṭhabbanavāra",
+  "zh": "确定时分",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "以确定结束",
+  "pages": [
+   18,
+   19,
+   22
+  ]
+ },
+ {
+  "pali": "moghavāra",
+  "zh": "无效时分",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "路心无效有分仅波动",
+  "pages": [
+   18,
+   19,
+   22
+  ]
+ },
+ {
+  "pali": "vāra",
+  "zh": "时分",
+  "zh_alt": [],
+  "category": "刹那/时分",
+  "note": "四种时分",
+  "pages": [
+   18
+  ]
+ },
+ {
+  "pali": "vīthicittuppāda",
+  "zh": "路心生起",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "十四次",
+  "pages": [
+   17,
+   18
+  ]
+ },
+ {
+  "pali": "vīthicitta",
+  "zh": "路心",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "五门七种",
+  "pages": [
+   18
+  ]
+ },
+ {
+  "pali": "gocara",
+  "zh": "境",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "极大的境",
+  "pages": [
+   17,
+   18
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "伪速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "确定心重复生起2-3次",
+  "pages": [
+   22
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "相应有分",
+  "zh_alt": [],
+  "category": "心",
+  "note": "",
+  "pages": [
+   22
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "表色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "身表语表",
+  "pages": [
+   18,
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "相色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "四种",
+  "pages": [
+   18,
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "色积集",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "色相续",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "色老性",
+  "zh_alt": [],
+  "category": "色",
+  "note": "49小刹那",
+  "pages": [
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "色无常性",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "身表",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "语表",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "空界",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   20,
+   21
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "轻快性",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "色聚",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "真实色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "非真实色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "无真正生住灭",
+  "pages": [
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "净色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   18,
+   21
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "眼净色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   21,
+   22
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "耳净色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   21
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "鼻净色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   21
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "舌净色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   21
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "身净色",
+  "zh_alt": [],
+  "category": "色",
+  "note": "",
+  "pages": [
+   21
+  ]
+ },
+ {
+  "pali": "āloka",
+  "zh": "光",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "眼门心路条件",
+  "pages": [
+   21
+  ]
+ },
+ {
+  "pali": "ākāsadhātu",
+  "zh": "空界",
+  "zh_alt": [],
+  "category": "色",
+  "note": "耳门心路条件",
+  "pages": [
+   21
+  ]
+ },
+ {
+  "pali": "vāyodhātu",
+  "zh": "风界",
+  "zh_alt": [],
+  "category": "色",
+  "note": "鼻门心路条件",
+  "pages": [
+   21
+  ]
+ },
+ {
+  "pali": "āpodhātu",
+  "zh": "水界",
+  "zh_alt": [],
+  "category": "色",
+  "note": "舌门心路条件",
+  "pages": [
+   21
+  ]
+ },
+ {
+  "pali": "thaddhapathavī",
+  "zh": "坚硬的地",
+  "zh_alt": [],
+  "category": "色",
+  "note": "身门心路条件",
+  "pages": [
+   21
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "蕴相应",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   19
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "蕴分别义注",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   19
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "概要缅疏",
+  "zh_alt": [],
+  "category": "书名",
+  "note": "",
+  "pages": [
+   15,
+   20
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "如理作意",
+  "zh_alt": [],
+  "category": "心所",
+  "note": "",
+  "pages": [
+   24
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "随烦恼",
+  "zh_alt": [],
+  "category": "其他",
+  "note": "",
+  "pages": [
+   24
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "唯作速行",
+  "zh_alt": [],
+  "category": "心路",
+  "note": "",
+  "pages": [
+   24
+  ]
+ },
+ {
+  "pali": "",
+  "zh": "业相",
+  "zh_alt": [],
+  "category": "所缘",
+  "note": "有分所缘",
+  "pages": [
+   24
+  ]
+ }
+]

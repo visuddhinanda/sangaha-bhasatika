@@ -1,0 +1,607 @@
+[
+ {
+  "zh": "推度",
+  "pali": "santīraṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "提婆达多",
+  "pali": "Devadatta",
+  "confidence": "high"
+ },
+ {
+  "zh": "斑块戒",
+  "pali": "sabalasīla",
+  "confidence": "high"
+ },
+ {
+  "zh": "斑点戒",
+  "pali": "kammāsasīla",
+  "confidence": "high"
+ },
+ {
+  "zh": "断戒",
+  "pali": "khaṇḍasīla",
+  "confidence": "high"
+ },
+ {
+  "zh": "无住",
+  "pali": "Aviha",
+  "confidence": "high"
+ },
+ {
+  "zh": "无嗔",
+  "pali": "adosa",
+  "confidence": "high"
+ },
+ {
+  "zh": "无嗔心所",
+  "pali": "adosacetasika",
+  "confidence": "high"
+ },
+ {
+  "zh": "无因心",
+  "pali": "ahetukacitta",
+  "confidence": "high"
+ },
+ {
+  "zh": "无惭",
+  "pali": "ahirika",
+  "confidence": "high"
+ },
+ {
+  "zh": "无愧",
+  "pali": "anottappa",
+  "confidence": "high"
+ },
+ {
+  "zh": "无所有处",
+  "pali": "ākiñcaññāyatana",
+  "confidence": "high"
+ },
+ {
+  "zh": "无热",
+  "pali": "Atappa",
+  "confidence": "high"
+ },
+ {
+  "zh": "无痴",
+  "pali": "amoha",
+  "confidence": "high"
+ },
+ {
+  "zh": "无痴心所",
+  "pali": "amohacetasika",
+  "confidence": "high"
+ },
+ {
+  "zh": "无色唯作",
+  "pali": "arūpāvacarakiriya",
+  "confidence": "high"
+ },
+ {
+  "zh": "无色善",
+  "pali": "arūpāvacarakusala",
+  "confidence": "high"
+ },
+ {
+  "zh": "无色地",
+  "pali": "arūpabhūmi",
+  "confidence": "high"
+ },
+ {
+  "zh": "无色界地",
+  "pali": "arūpāvacarabhūmi",
+  "confidence": "high"
+ },
+ {
+  "zh": "无色界果报心",
+  "pali": "arūpāvacaravipākacitta",
+  "confidence": "high"
+ },
+ {
+  "zh": "无记",
+  "pali": "abyākata",
+  "confidence": "high"
+ },
+ {
+  "zh": "无贪",
+  "pali": "alobha",
+  "confidence": "high"
+ },
+ {
+  "zh": "无贪心所",
+  "pali": "alobhacetasika",
+  "confidence": "high"
+ },
+ {
+  "zh": "无量光",
+  "pali": "Appamāṇābha",
+  "confidence": "high"
+ },
+ {
+  "zh": "无量华光",
+  "pali": "Appamāṇasubha",
+  "confidence": "high"
+ },
+ {
+  "zh": "无间亲依止缘",
+  "pali": "anantarūpanissayapaccaya",
+  "confidence": "high"
+ },
+ {
+  "zh": "无间缘",
+  "pali": "anantarapaccaya",
+  "confidence": "high"
+ },
+ {
+  "zh": "时节生色",
+  "pali": "utujarūpa",
+  "confidence": "high"
+ },
+ {
+  "zh": "昏沉",
+  "pali": "thina",
+  "confidence": "high"
+ },
+ {
+  "zh": "智不相应",
+  "pali": "ñāṇavippayutta",
+  "confidence": "high"
+ },
+ {
+  "zh": "智分别义注",
+  "pali": "Ñāṇavibhaṅgaṭṭhakathā",
+  "confidence": "high"
+ },
+ {
+  "zh": "智相应",
+  "pali": "ñāṇasampayutta",
+  "confidence": "high"
+ },
+ {
+  "zh": "智裔西亚多",
+  "pali": "Ñāṇavaṃsa Sayadaw (缅)",
+  "confidence": "low"
+ },
+ {
+  "zh": "有分意门",
+  "pali": "bhavaṅgamanodvāra",
+  "confidence": "medium"
+ },
+ {
+  "zh": "有学圣者",
+  "pali": "sekkhapuggala",
+  "confidence": "high"
+ },
+ {
+  "zh": "未来分智",
+  "pali": "anāgataṃsañāṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "未生怨王",
+  "pali": "Ajātasattu",
+  "confidence": "high"
+ },
+ {
+  "zh": "本生",
+  "pali": "Jātaka",
+  "confidence": "high"
+ },
+ {
+  "zh": "本生义注",
+  "pali": "Jātakaṭṭhakathā",
+  "confidence": "high"
+ },
+ {
+  "zh": "杀阿拉汉",
+  "pali": "arahantaghāta",
+  "confidence": "high"
+ },
+ {
+  "zh": "杂项概要",
+  "pali": "pakiṇṇakasaṅgaha",
+  "confidence": "high"
+ },
+ {
+  "zh": "极大所缘心路",
+  "pali": "atimahantārammaṇavīthi",
+  "confidence": "high"
+ },
+ {
+  "zh": "极小所缘心路",
+  "pali": "atiparittārammaṇavīthi",
+  "confidence": "high"
+ },
+ {
+  "zh": "果圣者",
+  "pali": "phalaṭṭhapuggala",
+  "confidence": "high"
+ },
+ {
+  "zh": "果定",
+  "pali": "phalasamāpatti",
+  "confidence": "high"
+ },
+ {
+  "zh": "果报心",
+  "pali": "vipākacitta",
+  "confidence": "high"
+ },
+ {
+  "zh": "果报确定",
+  "pali": "vipākaniyama",
+  "confidence": "medium"
+ },
+ {
+  "zh": "果智",
+  "pali": "phalañāṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "柔软性",
+  "pali": "mudutā",
+  "confidence": "high"
+ },
+ {
+  "zh": "树居天",
+  "pali": "rukkhadevatā",
+  "confidence": "medium"
+ },
+ {
+  "zh": "根本复注",
+  "pali": "Mūlaṭīkā",
+  "confidence": "high"
+ },
+ {
+  "zh": "桑喀地谢沙",
+  "pali": "saṅghādisesa",
+  "confidence": "high"
+ },
+ {
+  "zh": "梵住法",
+  "pali": "brahmavihāra",
+  "confidence": "high"
+ },
+ {
+  "zh": "梵天",
+  "pali": "brahmā",
+  "confidence": "high"
+ },
+ {
+  "zh": "梵网经",
+  "pali": "Brahmajālasutta",
+  "confidence": "high"
+ },
+ {
+  "zh": "概念所缘",
+  "pali": "paññattārammaṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "次生受业",
+  "pali": "upapajjavedanīyakamma",
+  "confidence": "high"
+ },
+ {
+  "zh": "欲功德",
+  "pali": "kāmaguṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "欲地",
+  "pali": "kāmabhūmi",
+  "confidence": "high"
+ },
+ {
+  "zh": "欲欲盖",
+  "pali": "kāmacchandanīvaraṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "欲界天",
+  "pali": "kāmāvacaradeva",
+  "confidence": "high"
+ },
+ {
+  "zh": "欲界美心",
+  "pali": "kāmāvacarasobhaṇacitta",
+  "confidence": "high"
+ },
+ {
+  "zh": "欲界速行决意心路",
+  "pali": "kāmāvacarajavanādhiṭṭhānavīthi",
+  "confidence": "low"
+ },
+ {
+  "zh": "止业处",
+  "pali": "samathakammaṭṭhāna",
+  "confidence": "high"
+ },
+ {
+  "zh": "止观",
+  "pali": "samathavipassanā",
+  "confidence": "high"
+ },
+ {
+  "zh": "正业",
+  "pali": "sammākammanta",
+  "confidence": "high"
+ },
+ {
+  "zh": "正业离",
+  "pali": "sammākammanta",
+  "confidence": "high"
+ },
+ {
+  "zh": "正命",
+  "pali": "sammāājīva",
+  "confidence": "high"
+ },
+ {
+  "zh": "正命离",
+  "pali": "sammāājīva",
+  "confidence": "high"
+ },
+ {
+  "zh": "正见",
+  "pali": "sammādiṭṭhi",
+  "confidence": "high"
+ },
+ {
+  "zh": "正语",
+  "pali": "sammāvācā",
+  "confidence": "high"
+ },
+ {
+  "zh": "死亡",
+  "pali": "maraṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "死心",
+  "pali": "cuticitta",
+  "confidence": "high"
+ },
+ {
+  "zh": "殊胜善业",
+  "pali": "ukkaṭṭhakusalakamma",
+  "confidence": "high"
+ },
+ {
+  "zh": "殊胜法",
+  "pali": "uttarimanussadhamma",
+  "confidence": "high"
+ },
+ {
+  "zh": "毁坏业",
+  "pali": "upaghātakakamma",
+  "confidence": "high"
+ },
+ {
+  "zh": "比库",
+  "pali": "bhikkhu",
+  "confidence": "high"
+ },
+ {
+  "zh": "比库尼",
+  "pali": "bhikkhunī",
+  "confidence": "high"
+ },
+ {
+  "zh": "沙门果经",
+  "pali": "Sāmaññaphalasutta",
+  "confidence": "high"
+ },
+ {
+  "zh": "沙马内拉",
+  "pali": "sāmaṇera",
+  "confidence": "high"
+ },
+ {
+  "zh": "法句",
+  "pali": "Dhammapada",
+  "confidence": "high"
+ },
+ {
+  "zh": "法学社",
+  "pali": "Dhammabyūhā (缅)",
+  "confidence": "low"
+ },
+ {
+  "zh": "法心分别",
+  "pali": "Dhammahadayavibhaṅga",
+  "confidence": "high"
+ },
+ {
+  "zh": "法所缘",
+  "pali": "dhammārammaṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "法集",
+  "pali": "Dhammasaṅgaṇī",
+  "confidence": "high"
+ },
+ {
+  "zh": "法集论",
+  "pali": "Dhammasaṅgaṇī",
+  "confidence": "high"
+ },
+ {
+  "zh": "法集论随疏",
+  "pali": "Dhammasaṅgaṇīanuṭīkā",
+  "confidence": "high"
+ },
+ {
+  "zh": "涅槃",
+  "pali": "nibbāna",
+  "confidence": "high"
+ },
+ {
+  "zh": "清净道论",
+  "pali": "Visuddhimagga",
+  "confidence": "high"
+ },
+ {
+  "zh": "湿生",
+  "pali": "saṃsedaja",
+  "confidence": "high"
+ },
+ {
+  "zh": "灭刹那",
+  "pali": "bhaṅgakkhaṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "物布施",
+  "pali": "vatthudāna",
+  "confidence": "medium"
+ },
+ {
+  "zh": "现世受业",
+  "pali": "diṭṭhadhammavedanīyakamma",
+  "confidence": "high"
+ },
+ {
+  "zh": "生刹那",
+  "pali": "uppādakkhaṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "生笑速行",
+  "pali": "hasituppādajavana",
+  "confidence": "high"
+ },
+ {
+  "zh": "由旬",
+  "pali": "yojana",
+  "confidence": "high"
+ },
+ {
+  "zh": "界[论]",
+  "pali": "Dhātukathā",
+  "confidence": "high"
+ },
+ {
+  "zh": "痴心所",
+  "pali": "mohacetasika",
+  "confidence": "high"
+ },
+ {
+  "zh": "痴速行",
+  "pali": "mohajavana",
+  "confidence": "medium"
+ },
+ {
+  "zh": "盖",
+  "pali": "nīvaraṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "目犍连尊者",
+  "pali": "Mahāmoggallāna",
+  "confidence": "high"
+ },
+ {
+  "zh": "相应有分",
+  "pali": "bhavaṅgapāta",
+  "confidence": "low"
+ },
+ {
+  "zh": "相应理",
+  "pali": "sampayoganaya",
+  "confidence": "low"
+ },
+ {
+  "zh": "相续",
+  "pali": "santati",
+  "confidence": "high"
+ },
+ {
+  "zh": "相续概念",
+  "pali": "santatipaññatti",
+  "confidence": "high"
+ },
+ {
+  "zh": "相色",
+  "pali": "lakkhaṇarūpa",
+  "confidence": "high"
+ },
+ {
+  "zh": "省察心路",
+  "pali": "paccavekkhaṇavīthi",
+  "confidence": "high"
+ },
+ {
+  "zh": "真实色",
+  "pali": "nipphannarūpa",
+  "confidence": "high"
+ },
+ {
+  "zh": "眼依处",
+  "pali": "cakkhuvatthu",
+  "confidence": "high"
+ },
+ {
+  "zh": "眼净色",
+  "pali": "cakkhupasāda",
+  "confidence": "high"
+ },
+ {
+  "zh": "眼十法聚",
+  "pali": "cakkhudasaka",
+  "confidence": "high"
+ },
+ {
+  "zh": "眼门",
+  "pali": "cakkhudvāra",
+  "confidence": "high"
+ },
+ {
+  "zh": "睡眠",
+  "pali": "middha",
+  "confidence": "high"
+ },
+ {
+  "zh": "知他心智",
+  "pali": "cetopariyañāṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "破戒",
+  "pali": "chiddasīla",
+  "confidence": "high"
+ },
+ {
+  "zh": "神变智",
+  "pali": "iddhividhañāṇa",
+  "confidence": "high"
+ },
+ {
+  "zh": "神通善业",
+  "pali": "abhiññākusalakamma",
+  "confidence": "high"
+ },
+ {
+  "zh": "神通心路",
+  "pali": "abhiññāvīthi",
+  "confidence": "high"
+ },
+ {
+  "zh": "禅那心路",
+  "pali": "jhānavīthi",
+  "confidence": "high"
+ },
+ {
+  "zh": "禅那省察速行",
+  "pali": "jhānapaccavekkhaṇajavana",
+  "confidence": "medium"
+ },
+ {
+  "zh": "离心所",
+  "pali": "viraticetasika",
+  "confidence": "high"
+ }
+]
