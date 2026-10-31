@@ -46,6 +46,7 @@ python3 $S assemble      # 合并为 translation/zh/saṅgaha-bhāsāṭīkā.md
 1. 用户指定节号就译那一节，否则 `next`。按顺序译，不跳节，不并行（首次标注依赖前文）。
 2. 读入 `glossary.tsv`、`terms.tsv`、`annotated.tsv`（后两个不存在就建，首行为表头）。
 3. `show PP/SS` 读原文，大节逐块读、逐块译，按顺序写入同一个 `translation/zh/PP/SS.md`。
+   超大的节可以在块边界切开分次译：先写到 `PP/SS.part.md`，首行写 `<!-- 已译到第 K 块 -->`（每译完一块更新 K），`next` 会提示从第 K+1 块继续。整节译完后删掉首行标记，改名为 `PP/SS.md`。
 4. 更新 `annotated.tsv`、`terms.tsv`。
 5. `check PP/SS`，⚠ 必须改到通过，ℹ 逐项确认。
 6. 向用户汇报：译了哪一节，新定了哪些译名，哪些地方拿不准（附原文行号）。

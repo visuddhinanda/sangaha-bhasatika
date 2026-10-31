@@ -64,6 +64,18 @@ def out_path(sid):
     return os.path.join(OUT, *sid.split('/')) + '.md'
 
 
+def part_path(sid):
+    return out_path(sid)[:-3] + '.part.md'
+
+
+def part_done(sid):
+    """半译文件首行 <!-- 已译到第 K 块 --> 里的 K；没有半译文件返回 0"""
+    p = part_path(sid)
+    if not os.path.exists(p): return 0
+    m = re.search(r'已译到第\s*(\d+)\s*块', open(p, encoding='utf-8').readline())
+    return int(m[1]) if m else 0
+
+
 def get(sid):
     sid = norm_id(sid)
     for s in sections():
@@ -73,7 +85,7 @@ def get(sid):
 
 def cmd_list():
     for s in sections():
-        done = '✓' if os.path.exists(out_path(s['id'])) else ' '
+        done = '✓' if os.path.exists(out_path(s['id'])) else ('½' if os.path.exists(part_path(s['id'])) else ' ')
         size = sum(len(l) for l in s['lines'])
         print(f"{done} {s['id']}  L{s['start']}-{s['end']}  {size:>6}字  {len(parts(s))}块  {s['title']}")
 
@@ -81,7 +93,9 @@ def cmd_list():
 def cmd_next():
     for s in sections():
         if not os.path.exists(out_path(s['id'])):
-            print(f"{s['id']}  {s['title']}  ({len(parts(s))} 块)"); return
+            k = part_done(s['id'])
+            extra = f"，半译：已译到第 {k} 块，从第 {k + 1} 块继续，写在 {part_path(s['id'])}" if k else ''
+            print(f"{s['id']}  {s['title']}  ({len(parts(s))} 块{extra})"); return
     print('全部章节已翻译')
 
 
